@@ -1,0 +1,4511 @@
+Signature-Version: 1.0
+Created-By: Android Gradle 8.0.2
+SHA-256-Digest-Manifest: BtahMM89vRlXQvd9aIb6xh3pPkeuFPQ/3Wy/JRdTlMk=
+X-Android-APK-Signed: 2,3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 4fUYZYKAdQIO2abTvsYk8Ux97lIUTdxrq5c/IXVzf88=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA-256-Digest: 9WhCSh+NlgqiawbSfB1oeeLzVEpJvJ8d3PwjXdL1QI0=
+
+Name: assets/Effect/GoldEffect.png
+SHA-256-Digest: XVD3HLUf0FDfDlZIjYKzCyRRySSXoQqMM6syRU1UsgE=
+
+Name: assets/Effect/roomsprite_0.png
+SHA-256-Digest: Jm/ZcvdiibSC2fSuZzR/ohCeUWMG3K+cNloNdQet2bc=
+
+Name: assets/Effect/roomsprite_1.png
+SHA-256-Digest: DLKcXUzn8orO7Bq5qBXkLgJS4KTzAX2odMuTRCa583s=
+
+Name: assets/Effect/roomsprite_10.png
+SHA-256-Digest: xjN26kGNipv2XPa4AeUj6ovVYakSA6LTDWQyIgSWsmI=
+
+Name: assets/Effect/roomsprite_2.png
+SHA-256-Digest: 8NPQrdG8Hk4+IV5OPxTQEomHP1IYbWh61COkh1JIuRE=
+
+Name: assets/Effect/roomsprite_3.png
+SHA-256-Digest: CpFBarUhGSXyfr+LMiGrOAj/M8qIyfX7GGzUWGeF44M=
+
+Name: assets/Effect/roomsprite_4.png
+SHA-256-Digest: Dk3+lzgQcTLuEdSnUALkjOaI7ZD4Ows+x1YhkeaoXw8=
+
+Name: assets/Effect/roomsprite_5.png
+SHA-256-Digest: OVyMP3wzkcEv9dVA5iJF3OmEf0GAFWdKNTymxjj2xVQ=
+
+Name: assets/Effect/roomsprite_6.png
+SHA-256-Digest: MEqSjo4OlVW6pIXe0oYu06Xsd/pLRAirQbKw5tY9PbE=
+
+Name: assets/Effect/roomsprite_7.png
+SHA-256-Digest: RS1OMvw78QM86BM3FPcEJVfNimmO592IpSIFt7VlEvE=
+
+Name: assets/Effect/roomsprite_8.png
+SHA-256-Digest: 883hWiNkgydEI9oDwkbiSi2Tahg7Rk5uZ32bDHTsvSE=
+
+Name: assets/Effect/roomsprite_9.png
+SHA-256-Digest: 7DWLLCz3VT5XBO7NobKXKhHzq03kspZLv0mHIlJ68Jc=
+
+Name: assets/GameJLB/Club_Manage.png
+SHA-256-Digest: bs6PQwX2HDXcYO81NAwH9i1RT+M/DG06mIIjzR+Te+8=
+
+Name: assets/GameJLB/Club_Quit.png
+SHA-256-Digest: 2jVBZp7cxaUQ7je7yWaO0GiBUDnDSnxfUCfX9wsZh8M=
+
+Name: assets/GameJLB/CreateJLB/address.png
+SHA-256-Digest: 47voKnIE2V57A6yYtbNI365mWQkG/rRo2yKYm7k8ocE=
+
+Name: assets/GameJLB/CreateJLB/baihuangguan.png
+SHA-256-Digest: ARbTMaVnrl6okQMU6zXIRo2oDARTAfUr1tu2EtEcEcQ=
+
+Name: assets/GameJLB/CreateJLB/club@2x.png
+SHA-256-Digest: fhBKb3zgH46KHYv+eP3FUYPnfMvYVax/FqkVd/ZLRpg=
+
+Name: assets/GameJLB/CreateJLB/createBt.png
+SHA-256-Digest: PooNam5vmB1myA96VHRDzB6bbdQsTvGnIIh5/NjYgTs=
+
+Name: assets/GameJLB/CreateJLB/kefuweixin.png
+SHA-256-Digest: goUGd4e5iRyRk/2WPXb+4fK1UzJESX5xkA/kBQFmI+w=
+
+Name: assets/GameJLB/CreateJLB/line.png
+SHA-256-Digest: Av4o4dj94CpEm9ivKTVkyADf2c8ioEEtSIE1u537DhE=
+
+Name: assets/GameJLB/CreateJLB/phone.png
+SHA-256-Digest: A87q09vqPj0+c2V9p6xrXJvMKmKZvW/Z9aESFqHRf/E=
+
+Name: assets/GameJLB/CreateJLB/shurukuang.png
+SHA-256-Digest: RjlzBzZlcqAhcMgbPTVnRWugv0siyEvrigoRWkZRGKI=
+
+Name: assets/GameJLB/CreateJLB/state.png
+SHA-256-Digest: /3VVds7VnOjx5x2qMpthx1wwBMs//gPIM+xZNUOf5J8=
+
+Name: assets/GameJLB/CreateJLB/tagimage.png
+SHA-256-Digest: sQA0rOB9kFCqn10FpAmLee3kkKFdyEdOYW+GwWFZHq8=
+
+Name: assets/GameJLB/CreateJLB/zuanshi.png
+SHA-256-Digest: eNY4OUFlopv4AFoPhYmKQ/RXSQQNhu10iHATNXuBGpY=
+
+Name: assets/GameJLB/ManagerJlb.png
+SHA-256-Digest: VDFmMDPCuQN048vRuXSUKQHNbV+WC9u/hONEfv15CZc=
+
+Name: assets/GameJLB/ScoreBtn.png
+SHA-256-Digest: VtmaBY4TDHYFIYD0huDvkqNxTrEyIATXyjaTqi1TodE=
+
+Name: assets/GameJLB/SearchJLB/chazhao.png
+SHA-256-Digest: byhvcKcYa16Qp2yC3mdINp4OI3OOmMfSrfGNAxLtRTc=
+
+Name: assets/GameJLB/SearchJLB/dingwei.png
+SHA-256-Digest: UbWmwmqMwM2XA7uzkvuYPfSqXdqv0W+z8RAzRrV0efU=
+
+Name: assets/GameJLB/SearchJLB/huangguan.png
+SHA-256-Digest: 63IAzy/5/awK2vtRXVwfnxOXph/XNF/t2CL5Sp0maOo=
+
+Name: assets/GameJLB/SearchJLB/huizhang.png
+SHA-256-Digest: uUzTJ8NUcxKoPXp9A8W5FpZVusqPhBj+f+f85a+/RZw=
+
+Name: assets/GameJLB/SearchJLB/ren.png
+SHA-256-Digest: HLO241HiRMNfkBfZZrSwC7DpZu7Gjgit/qrIhBg1/IE=
+
+Name: assets/GameJLB/SearchJLB/ringself.png
+SHA-256-Digest: U/4uuSo2qAsQRMp7orKGoPAEvy/6GwmFnbNk15fd2Sk=
+
+Name: assets/GameJLB/SearchJLB/shenqingjiaru.png
+SHA-256-Digest: 3dcowehKvstuXDCo8XXgocwK3qBTRoDqNUH6frzpRQ0=
+
+Name: assets/GameJLB/SearchJLB/shurukuangbg.png
+SHA-256-Digest: hb5YaWd5tXHJ3530oQThQfZLPaecSuya98e0WwqRsHE=
+
+Name: assets/GameJLB/SearchJLB/youbiankuang.png
+SHA-256-Digest: /YNWGGV01eiAcnUsu+osn+GgK+r0z2Zz9BawMoRRFvs=
+
+Name: assets/GameJLB/allClubBtn_default.png
+SHA-256-Digest: B9wS8GEq/PLDlB7zrWi6z/E+y5B490kNyBW9K8l6wBM=
+
+Name: assets/GameJLB/allClubBtn_selected.png
+SHA-256-Digest: gDzO+FEUV324Rp2x/U7mKEj44dlyUKa9400QzH+YZoU=
+
+Name: assets/GameJLB/clubBG.png
+SHA-256-Digest: ofVMFjNh5v9ZqABC/EQHC0vxAWCcsbEFFuQJ4ol9Wnk=
+
+Name: assets/GameJLB/clubBG_noData.png
+SHA-256-Digest: Qb6IRdWOnJzqYWnFSKPOlH2P0akRcyiBcA6YJ+2NsD8=
+
+Name: assets/GameJLB/clubIcon_default.png
+SHA-256-Digest: cRNtx8udv4CJSXr7l7U63rmH+xREcbWzJmxDM6s3ofE=
+
+Name: assets/GameJLB/clubcellBG.png
+SHA-256-Digest: utGE4FeOPpb7Llk33qE4vzpebSgYJe2vPSOoKq6tkKE=
+
+Name: assets/GameJLB/createBtn_default.png
+SHA-256-Digest: FLDl2ZjQjopSJ6XCGJyyEdl298gyxNthLoEBTnGEdIk=
+
+Name: assets/GameJLB/createBtn_selected.png
+SHA-256-Digest: i9V3kCd01rxYPrP/aHkQg1jVTqYGuaFr6vSepdesgY8=
+
+Name: assets/GameJLB/createPaiju.png
+SHA-256-Digest: Dgt379QokLlUvNG1/THpXZOLAH+uRHWJUnsuQOyj9G8=
+
+Name: assets/GameJLB/currentDeskBG.png
+SHA-256-Digest: pGV+HkuT8ZNSToY1nNIi+RhztXSwnggPGGM8YDRKSvc=
+
+Name: assets/GameJLB/doudizhu.png
+SHA-256-Digest: 4PPw24NSvatqAgA1JSyn2HDdG73Wl67AYVk4OrXSKvE=
+
+Name: assets/GameJLB/jifen.png
+SHA-256-Digest: OdIjmJe1OCcgME1Vctke0ZOflCwAD0iK6VD1RtBF+hE=
+
+Name: assets/GameJLB/jifenCellBg.png
+SHA-256-Digest: o0OMrIh2pWnI8/5nFYk39dLrT0pLITnSgQMn30E62YI=
+
+Name: assets/GameJLB/jifen_default.png
+SHA-256-Digest: Pfz3+DwRjyM+xYIHsRddLjuwQPRCTGRlW91uhPIqmW8=
+
+Name: assets/GameJLB/jifen_selected.png
+SHA-256-Digest: NgBzKkdeIn4Pdv31IEjpQyEZnRkNGD0Hf75xPh41baU=
+
+Name: assets/GameJLB/lastpage.png
+SHA-256-Digest: Zz306ooyNHv7/fwQ862EMZznbsNNyXzmIYjePG0aK3Y=
+
+Name: assets/GameJLB/myClubBG.png
+SHA-256-Digest: jSZ6+fkxm9BPxM+OOpJReRtNC15BNTNopMDhhjRNNzE=
+
+Name: assets/GameJLB/myinfo_default.png
+SHA-256-Digest: 2bcO27r6ctYNB8Xa8VgCKyv6vLYIDlb3Tg5++YP/aHk=
+
+Name: assets/GameJLB/myinfo_selected.png
+SHA-256-Digest: xfLkdq8KlJZWZygZCcFvNwDf0aOuD5Jh1FdlAJvdmvw=
+
+Name: assets/GameJLB/myinfocellBG.png
+SHA-256-Digest: fxOI4JAJ8VgIYPoHuXy6Np4N9Xc2VcEPCKgsmP1OvTM=
+
+Name: assets/GameJLB/nextpage.png
+SHA-256-Digest: bTJVzJezpG1qSpVF2ouIhm+dboMF/RUXL3imz6MxkJM=
+
+Name: assets/GameJLB/niuniu.png
+SHA-256-Digest: vKOb/B4mmaMgFsPNIIY/WZ4lGCSugPBB617lRAnGNDU=
+
+Name: assets/GameJLB/paijucellBg.png
+SHA-256-Digest: 6SWvCi/DJCBXdL2BU5QmxIWypZjn1ccEVgVNpTPhbuY=
+
+Name: assets/GameJLB/paijuinfo_default.png
+SHA-256-Digest: ZNopjwLmcNyMtMPH/Y12uu7rlUK1luWDUjyVEbRuo5E=
+
+Name: assets/GameJLB/paijuinfo_selected.png
+SHA-256-Digest: DFhdH8n4bc04mpj2+9607hAkiaEzgXhnQctoTrRGo8E=
+
+Name: assets/GameJLB/paijushurukuangbg.png
+SHA-256-Digest: jZ5bdaj+XLHxE4W8Wwdy4bapQPAl7ywW+dqmAgDjYAQ=
+
+Name: assets/GameJLB/quitJlb.png
+SHA-256-Digest: wPxNmfCRmZuUIO0msCWNSISbbU+E3SNFik704V7sV0o=
+
+Name: assets/GameJLB/refreshBtn.png
+SHA-256-Digest: mx0kWmSkmtqZz923zIpYmFgF3qqMvBHKAuJzIml2Z2g=
+
+Name: assets/GameJLB/scoreBG.png
+SHA-256-Digest: 71A/8p6msSuW+efMvQN0WZCiAf8WSoa/UYUMYfhVYe0=
+
+Name: assets/GameJLB/searchBtn_default.png
+SHA-256-Digest: sxwZcsnt+q6zntUR+gb9n5ZpUVZRuIKFSkF8r6GW4gk=
+
+Name: assets/GameJLB/searchBtn_selected.png
+SHA-256-Digest: bFY9f+1aKCJatTuYoYPsO5KbAVSdhZh1grjfQXvE0z4=
+
+Name: assets/GameJLB/serviceBG.png
+SHA-256-Digest: vH1XzHp89w0EcSTcWrYZ0v+h2lDFpGvvn36FdFCQ+2k=
+
+Name: assets/GameJLB/shisanshui.png
+SHA-256-Digest: 84CMS1vK12gU8UQdnsfJ7fzAKE4SJGxUMzSHtG7C00I=
+
+Name: assets/GameJLB/time.png
+SHA-256-Digest: RZCWwCdLW9dIT3Y6CDLJ++lUWDtSVekV9tVBVUE6F7c=
+
+Name: assets/GameJLB/toptxt.png
+SHA-256-Digest: XNLOg8rHIdEdo78rI3gDRiCRJPYLeR/voeUHImktL8Q=
+
+Name: assets/GameJLB/zhajinhua.png
+SHA-256-Digest: dRHSiOfN04eetmOtJ2FKINbSzWpec8EwFLzW2KksyQ4=
+
+Name: assets/GameJLB/zuidifen.png
+SHA-256-Digest: s+7jW1Ljq9TQ9u0TaGKT+E43wemdig2HRxewV+9zOk8=
+
+Name: assets/GameNN/Bei1.png
+SHA-256-Digest: TxBw2UAq84xn13j1D4KmDuuocK5LM+r6lKGMHFL+crk=
+
+Name: assets/GameNN/Bei10.png
+SHA-256-Digest: KWPHUhk6RdCRvDYLgARj3EjPoFeMq3QybqdrNwfX4Yg=
+
+Name: assets/GameNN/Bei15.png
+SHA-256-Digest: Pl9bYtO/Yn6f+pfalGd4BXFF9Kd5zAonoH47ZkggSVA=
+
+Name: assets/GameNN/Bei2.png
+SHA-256-Digest: 6r3ezzaX668jy2GzVRT0+M4/F7NAku+IQ/QirvzGmwg=
+
+Name: assets/GameNN/Bei20.png
+SHA-256-Digest: B8Q8L+WF5ziM79clrehnKDmUDvfsA+cs4UuHLuWWBSo=
+
+Name: assets/GameNN/Bei3.png
+SHA-256-Digest: gBL4ZeltAscivlVmvM9eInwr3HvEWGCDTC4b84M63Ts=
+
+Name: assets/GameNN/Bei30.png
+SHA-256-Digest: iNJlh4fhJg8L9tbcDXDlnabUr0l9ocsiYCFmIFjiXFA=
+
+Name: assets/GameNN/Bei4.png
+SHA-256-Digest: h+ZAQFwZ0Ks8gOf+XYLGiwYtpyWq/NlL4spKDeo46XI=
+
+Name: assets/GameNN/Bei5.png
+SHA-256-Digest: IB8QwH9Bx5h6IFoDUUud3OWZQLkmxDfel6y7qXK8K/I=
+
+Name: assets/GameNN/Bei6.png
+SHA-256-Digest: w7dTTf31RAlcKPaXGB1aHMHCMbieGIp1X7ij3GTVRWg=
+
+Name: assets/GameNN/Bei9.png
+SHA-256-Digest: HeLb4lu1LMOt8Fuwzk7AR//mWF1M8S5t/R4an4PShlM=
+
+Name: assets/GameNN/GoldBack.png
+SHA-256-Digest: Z7HIUJS6nokExOe1N9hKwH6KmZ+C5jGPX/jlk22vfKo=
+
+Name: assets/GameNN/HeadBack.png
+SHA-256-Digest: PhSoMLkws9AXUGUukXAY3FwnQ38xGK4ijWUwS40E2NI=
+
+Name: assets/GameNN/HeadBack0.png
+SHA-256-Digest: ZZLNGIkiiJS6tr6lEi7pqPEOvqd/ttndS3U7Sb+F2l0=
+
+Name: assets/GameNN/HeadImagic.png
+SHA-256-Digest: 0YztSjiy0G9rKFhzuDuMOm2wfinGnJgJPReUBSBgEhg=
+
+Name: assets/GameNN/MSGBG.png
+SHA-256-Digest: pfULAcaGnCqgAuIYqlfRG23Zd4ZgL9xXvXC8qsTVZkc=
+
+Name: assets/GameNN/MSGBG1.png
+SHA-256-Digest: uanaGCv8MU1/zMmuBcryzD1E/C969WcfKmFFKg2fdeU=
+
+Name: assets/GameNN/MY.png
+SHA-256-Digest: i5qfe/LWtzSRMqNEQNfzhfS97wROiaT7ddl6rvJ6rwE=
+
+Name: assets/GameNN/Public_PukeCard.plist
+SHA-256-Digest: /RaOx7UcYiasLNjBym2pYGebP3JWPxmPyf6N+B4qva0=
+
+Name: assets/GameNN/Public_PukeCard.png
+SHA-256-Digest: nROPeu/cKfwL9531It8xcL7FF6KRlfjkPUDQReAeVYY=
+
+Name: assets/GameNN/QiangShan02.png
+SHA-256-Digest: RbE4oTU6GK4Mn9v3PZoBiI0o4HVFIgY/RzsTuUF2vV4=
+
+Name: assets/GameNN/QiangShan11.png
+SHA-256-Digest: W4AYaowroGUg7r6zYMWHlfTGyDpc7yof+Th/qorX+jA=
+
+Name: assets/GameNN/ScencePrivate/Back.png
+SHA-256-Digest: /LKAZzhAmxD8ANMhQPk5usLmbVw9EtAN6asj7BH3K38=
+
+Name: assets/GameNN/ScencePrivate/DYJ.png
+SHA-256-Digest: TOcf0F54m+teHRjsn+PRRY2/h/09FkEljYEd8NuilFw=
+
+Name: assets/GameNN/ScencePrivate/over_jieshuUI.png
+SHA-256-Digest: y2Np7VuHix+/gCsMJVHjpZmfjBjw1xmihzy2uoDd3k4=
+
+Name: assets/GameNN/Sound/SoundMsg0_0.mp3
+SHA-256-Digest: Mk86bWGCkcFKvdo7X2+FR12/9wBDkSZLjkDoVOg1hLA=
+
+Name: assets/GameNN/Sound/SoundMsg0_1.mp3
+SHA-256-Digest: 3F+xA5fy+E/g5OgvZ7Gep7infQ7U6OZdG1hn9NT5PlM=
+
+Name: assets/GameNN/Sound/SoundMsg0_10.mp3
+SHA-256-Digest: IX9JJNmPim2lVK387pGLN3Ldh4LHZdjngbBYI6S11cs=
+
+Name: assets/GameNN/Sound/SoundMsg0_2.mp3
+SHA-256-Digest: tWwArvVtzFy4WTYzr1CYNY1N87raWiVL553OCslxQZI=
+
+Name: assets/GameNN/Sound/SoundMsg0_3.mp3
+SHA-256-Digest: fQr9706Skm3cQ1iH8JoFWl/htXf5/ydb+fFhPkzarvE=
+
+Name: assets/GameNN/Sound/SoundMsg0_4.mp3
+SHA-256-Digest: jUmXzwrgdCxnVPSJYIEgE9PCfD7vWpf4AqFp4TabHpA=
+
+Name: assets/GameNN/Sound/SoundMsg0_5.mp3
+SHA-256-Digest: xIHNx0nqi11KiJRg+KIdSeQI6eQcQPZgEdfl/fLpDh8=
+
+Name: assets/GameNN/Sound/SoundMsg0_6.mp3
+SHA-256-Digest: CeFfwKoC9wmNmRDYWvE7O8MpLJ4VXGEYiTrZbDE0wuY=
+
+Name: assets/GameNN/Sound/SoundMsg0_7.mp3
+SHA-256-Digest: li4nx7kB5axQonTwzpwCPoFXCd3DEJSq7rmeveNMR0k=
+
+Name: assets/GameNN/Sound/SoundMsg0_8.mp3
+SHA-256-Digest: IWP3QXfBFrL634nUd89UemDLceUvLWoXJhTMX6g00PA=
+
+Name: assets/GameNN/Sound/SoundMsg0_9.mp3
+SHA-256-Digest: p6XuG7TWzVEVTz3c4HZGJkjAqRqOf25ndkXE4IewM2Q=
+
+Name: assets/GameNN/Sound/SoundMsg1_0.mp3
+SHA-256-Digest: oYJQFGb0+bMm1+oKK7aeAzhFCrtBk1mYtCvYPHLdEeE=
+
+Name: assets/GameNN/Sound/SoundMsg1_1.mp3
+SHA-256-Digest: 2YYGpBgkQdUrKB2ppdjzKlMkcRL5O2q0DYw/VNS8XCc=
+
+Name: assets/GameNN/Sound/SoundMsg1_10.mp3
+SHA-256-Digest: NKYba6ojJDW2PiZsCnseah17nvueRuQYHixkz2CKAVQ=
+
+Name: assets/GameNN/Sound/SoundMsg1_2.mp3
+SHA-256-Digest: k5v8/m4uKXtEhiaeDAWhCypH2JEq673Eq/2y/EnWmBI=
+
+Name: assets/GameNN/Sound/SoundMsg1_3.mp3
+SHA-256-Digest: gg9Cml97jlvhLrPRTcJQTDbmpiyY7DmcbH9DZW8QvBE=
+
+Name: assets/GameNN/Sound/SoundMsg1_4.mp3
+SHA-256-Digest: ZMNxLuhRZ6buwQgHN0THwtRViHX4TQPysLXML9Lhf7Q=
+
+Name: assets/GameNN/Sound/SoundMsg1_5.mp3
+SHA-256-Digest: WRY0Vf21XlEzjP2pma1zFJ1884Ax2t88RvY9MjQp5Bg=
+
+Name: assets/GameNN/Sound/SoundMsg1_6.mp3
+SHA-256-Digest: EfdTEEdRzNT/kpLUbZaTtURMHyPq3LFCpwVcRO8EmOo=
+
+Name: assets/GameNN/Sound/SoundMsg1_7.mp3
+SHA-256-Digest: pn6u4Z4WkNFFzdcQfBfQDduV6mWP/cotWXO7thPJF0A=
+
+Name: assets/GameNN/Sound/SoundMsg1_8.mp3
+SHA-256-Digest: PdkqNHsdIWDQYUlw2Ndr5bIkaw6I4FyciSG5GVjl5d0=
+
+Name: assets/GameNN/Sound/SoundMsg1_9.mp3
+SHA-256-Digest: FjYkw2U3d1IolYEJc44LRu1SibYg0hoQCU203cy/ltc=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_0.mp3
+SHA-256-Digest: Ev8qsZklEQlrU9uSQ9qemlEp7/Ou1TvjVrPoKKcqsWc=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_1.mp3
+SHA-256-Digest: ynO6QtSQ37o55RKZi7dfDoQ9UsPW+hGBkDEfczCEmXU=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_2.mp3
+SHA-256-Digest: ia39+uNs/QwBi5t6iaj3DsEsX48eLKs5SMWRBDsEXWI=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_3.mp3
+SHA-256-Digest: +rFy/FEoaEYfUG/NcQLXdIMur1fid2x+pXFkyQz7WzQ=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_4.mp3
+SHA-256-Digest: PJ5iZAx0SXU4lLkoGp5gyyy8X+gAxo8C0o/XLwfnih8=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_5.mp3
+SHA-256-Digest: oDD1YMHkkpxAsVngJMlL0nbHaA68XlzwurB9pPJIWZU=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_6.mp3
+SHA-256-Digest: Dru4Voj712s49NpKjpC/BtFpll+fx99P6LtVNF7rVKk=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_7.mp3
+SHA-256-Digest: 5BYVH/b4qRBUU2iAA0L2UieGZ7arNugIcVSv/MPDWKQ=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_8.mp3
+SHA-256-Digest: pMdPv1Ji6RSpqPOV1bWaHA0Hio3ITfeyhx6q3s+WzbI=
+
+Name: assets/GameNN/Sound/SoundMsgPT0_9.mp3
+SHA-256-Digest: 91vw/6Jvb4ZJcLp/GW5BXVD0yD0QLmRon0OPtqfgDUM=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_0.mp3
+SHA-256-Digest: z8hkJOgTA20ZzzpoKqlSAemI+tPOfILJrPq5HFq+4q0=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_1.mp3
+SHA-256-Digest: XATO1ynv6Pz3KAbm3E0Nn/fcP8ER29HRjQnomPVyo/8=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_2.mp3
+SHA-256-Digest: pHqvAA/9KzziDvdkIHH9KvEXU2zs/s5kaDBDFQ6NAdI=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_3.mp3
+SHA-256-Digest: GxU1fFU7sk7jJ5EprNjo9q1Rormy6SEPwN+yVDfk4jQ=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_4.mp3
+SHA-256-Digest: Bhmv+utol07yojCreHwQZTb81oo3lt1uByE5syB+hvo=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_5.mp3
+SHA-256-Digest: 0KBCb8jTDN1nrOKGyX5h1qUjItyaUGz0jfPwncWt6Xg=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_6.mp3
+SHA-256-Digest: GtITJAycD3vV7AlsNRusXFedHGNClFCNnI2gsf1LTSU=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_7.mp3
+SHA-256-Digest: hJu/clUrdDDfC0rSE57joJqJjbLF3l/68+M2N2eb40o=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_8.mp3
+SHA-256-Digest: tf2VVIExbycNdlnzLhci/b2NbyBTK0X/z8wlF44rLCQ=
+
+Name: assets/GameNN/Sound/SoundMsgPT1_9.mp3
+SHA-256-Digest: GVqOavkNbqQPQJOWyb7JDM/gFTtD+uhOh7zGJgxOITA=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_0.mp3
+SHA-256-Digest: bP4WZIprnYPRPUfb9qCsnK99mZbTjplkDl1RRaOo/jU=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_1.mp3
+SHA-256-Digest: NlR6zzsS8vBUxESTjNJO4HxoYcZkXhJ1Scne56MkyHk=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_2.mp3
+SHA-256-Digest: 162bne9OnOoUwI3BqDH1Jk8129BDDtLQlX8uqlwYstg=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_3.mp3
+SHA-256-Digest: zc78wy9xCDRAzZJy6oMdXhWaq3tmjk8hxm6U0p2PknE=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_4.mp3
+SHA-256-Digest: JY3J4KVgUqJrh3+aRlA8ENFM74whhyemcWR0rBMjEzY=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_5.mp3
+SHA-256-Digest: +JxQZ24P0gzSB0AoCqAkOV74w5a2QCpMXC+epWKrYe8=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_6.mp3
+SHA-256-Digest: dlTnG38Ajm85Fl3gdRMbnXhemqoSESnRCVlS1/vW9/E=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_7.mp3
+SHA-256-Digest: PCKbCGvLBhabBxblwo8N5cDMll1OpmiXHnwzltGgnqM=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_8.mp3
+SHA-256-Digest: 8XFLKXD9DXlhzUhvTDukYt/e1u36LwBxwpPzTkNpf+g=
+
+Name: assets/GameNN/Sound/SoundMsgSC0_9.mp3
+SHA-256-Digest: VAKsrtafQ5yHsKY/k0C+DN7Py+mGiyXmS3f9JuNgw8E=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_0.mp3
+SHA-256-Digest: odKQnDwJfs7U+j4vUBF7H4ANy0F3lzcP5GIGedJG/f8=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_1.mp3
+SHA-256-Digest: opYk+v5LbBE4FCAgGSGcGA7wprnAblqIRsJOsu2DR0M=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_2.mp3
+SHA-256-Digest: /ag+nVm8k1EwmpQdwV6MqxF/ZpyxHQ+ybVjoATuKPTk=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_3.mp3
+SHA-256-Digest: ju1PGdYLRGBGE0r66y+z0Lem0rBIZH2Bjxdic3e8lgY=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_4.mp3
+SHA-256-Digest: 2TY5d/1Pjuyq3RptHTkBDiTcy7ZUq+SyNKtGTw3MN4A=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_5.mp3
+SHA-256-Digest: 6H3DzAMVIs5BAr9Yr7FzutZW7Tx8vsNDz3FfNEvquX4=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_6.mp3
+SHA-256-Digest: 813zpxVAWACRqsp8LhwmqBPhnA9HhCnz4Nw0PFEkGZE=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_7.mp3
+SHA-256-Digest: nNvUTs/gIWljhoCb1+zXa2wesUc4txnCyHAYBQdHigc=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_8.mp3
+SHA-256-Digest: 7cKKbq8nJ20a3iJFaqzv1G426Wydzq4utdY3YRkb+Og=
+
+Name: assets/GameNN/Sound/SoundMsgSC1_9.mp3
+SHA-256-Digest: y0QBsmeJmg85o6XPY9aiAQpfmJ4yjLVBuw7uPt6pjsk=
+
+Name: assets/GameNN/Sound/audio_start.mp3
+SHA-256-Digest: OqQP+BxJ8a6bY6ONerSsz8CFwi2KcH1AcLu3RyQ6jyo=
+
+Name: assets/GameNN/Sound/backmusic.mp3
+SHA-256-Digest: wePOttX8xVY8O/f01mtWX+zJrL1+zhjj1hgOubxnhm4=
+
+Name: assets/GameNN/Sound/buqiang1.mp3
+SHA-256-Digest: TvjBNY4ujRCNOpjTGdN9nbmbhuj6oWo4G2WEyO7UJ3s=
+
+Name: assets/GameNN/Sound/fapai.mp3
+SHA-256-Digest: ZQQnda7Rwta1fewFkoMZWrNBRUbvZv96twFt5Yk27qg=
+
+Name: assets/GameNN/Sound/lose.mp3
+SHA-256-Digest: g3xNIoCdJ8XCtpu4IKH3UdlNgdWpkMrlbAIfg6V6cbI=
+
+Name: assets/GameNN/Sound/manbull0.mp3
+SHA-256-Digest: LqW8flMEHuwxqKJTaRrtCYt+fRR564b0BlIQJWl1jyQ=
+
+Name: assets/GameNN/Sound/manbull1.mp3
+SHA-256-Digest: 1gvtk0S2NcxsXTT09ZHBamLzOZir/W6R6iLDrJ04Esw=
+
+Name: assets/GameNN/Sound/manbull10.mp3
+SHA-256-Digest: TyElbAcUP5GrR3td99qbN0N84jXsYhcezzQgu3FiYZk=
+
+Name: assets/GameNN/Sound/manbull103.mp3
+SHA-256-Digest: CYw+izqgo67IkqXijKbI0BppIbAXTwFv/5KZBKhytcc=
+
+Name: assets/GameNN/Sound/manbull104.mp3
+SHA-256-Digest: SWTbbOgUr83rnS5tUStNM2XnRvpv9ZXr+glwpvNura0=
+
+Name: assets/GameNN/Sound/manbull105.mp3
+SHA-256-Digest: MxlIYW087G9tVQrKi2EvJvD3Z692urTtEIXPyWc6/ww=
+
+Name: assets/GameNN/Sound/manbull106.mp3
+SHA-256-Digest: jv5+nuCatQxSYXYVyIuBe07805DLqaqAtDRByTH4rWU=
+
+Name: assets/GameNN/Sound/manbull107.mp3
+SHA-256-Digest: qpI9IufijavU9tzhVImyMhm4I/A7xOChgQwRU8wPYws=
+
+Name: assets/GameNN/Sound/manbull108.mp3
+SHA-256-Digest: qPutRPHaJ03U6c02NFMEICiWFtE9Ndxvh7fGGFxOdfk=
+
+Name: assets/GameNN/Sound/manbull109.mp3
+SHA-256-Digest: 8tC7HpQ+NRUma/kTTmf0e998jJ9xdbWCO46ugzxm5fg=
+
+Name: assets/GameNN/Sound/manbull2.mp3
+SHA-256-Digest: xLi0oMDqgTaqigiVeUuGZIXCR8RqiU4FxHDygaZNiyE=
+
+Name: assets/GameNN/Sound/manbull3.mp3
+SHA-256-Digest: lDe3xUXikzZMjQsLpqnAOk0VBIqIKZ8gyEK2X4SIJXI=
+
+Name: assets/GameNN/Sound/manbull4.mp3
+SHA-256-Digest: NKwvix+LteAN3okd9XePqba0EPa2JaOg0XAbwq5l2g0=
+
+Name: assets/GameNN/Sound/manbull5.mp3
+SHA-256-Digest: D/XxHZa5RMeK4e083Gb1zGQKJClfDLQ0MaGdeEr411g=
+
+Name: assets/GameNN/Sound/manbull6.mp3
+SHA-256-Digest: WQXwrGWCdsBtu2qtkdIYgzrJf0CHFJfJNt1FFn0403M=
+
+Name: assets/GameNN/Sound/manbull7.mp3
+SHA-256-Digest: 7hXUmeJ6djMO9WLqBDWj6yHZVT1EDT2d1eHn0Cf4y4M=
+
+Name: assets/GameNN/Sound/manbull8.mp3
+SHA-256-Digest: I75mlI//xVLCfj4nSffaUwH2WM/chyZvpbw7ft2j34Y=
+
+Name: assets/GameNN/Sound/manbull9.mp3
+SHA-256-Digest: XQNlWL8y5NW81a76r74RC0tIoV+5EeXckLpyKopiSPQ=
+
+Name: assets/GameNN/Sound/qiangzhuang1.mp3
+SHA-256-Digest: cynS8Nskufw4lqW+J7iYNb+jZATfSyZcXQcT55SygVg=
+
+Name: assets/GameNN/Sound/win.mp3
+SHA-256-Digest: kuzFBNJh8462x8gJPlcA31OtZARxVMldA3yvvi/+k+U=
+
+Name: assets/GameNN/Sound/wrc_time.mp3
+SHA-256-Digest: +oOkNhkk7mDKgzUGGDyJI20yzsk8wpLtpGTOU0jZKtM=
+
+Name: assets/GameNN/Spine/WIN.atlas
+SHA-256-Digest: AAWWFB1UHraIzAbvoQYBe3RjAQxXujRQNr8YbB9HI7o=
+
+Name: assets/GameNN/Spine/WIN.json
+SHA-256-Digest: m25iXIv8fQ9BkRqteV9j1EXVzOqNPdmjwFajk3ayz1E=
+
+Name: assets/GameNN/Spine/WIN.png
+SHA-256-Digest: gCZDmdhkeAQBxzXTnm3vQDxZEnsxOek3cfLSrzrckUo=
+
+Name: assets/GameNN/Spine/lose.atlas
+SHA-256-Digest: NL81nIVptp3FfVc1i2FkfJy831o4/xrhmVw2jiV4B1g=
+
+Name: assets/GameNN/Spine/lose.json
+SHA-256-Digest: 0c4dLgESfdt2ktXeANC66vlZZ4hx4ns3OAey5zMOJU4=
+
+Name: assets/GameNN/Spine/lose.png
+SHA-256-Digest: pSpjPhGJinuK+g476oufHhofChti+K/3O1Oqo2+Z1Bk=
+
+Name: assets/GameNN/Spine/start.atlas
+SHA-256-Digest: GcIEhBZJ5/RbSPz9fc5cNwN7cOKEQENcmiKJTq/qG84=
+
+Name: assets/GameNN/Spine/start.json
+SHA-256-Digest: 3UiJWvlCz72SKVnQISd8av3nNWFZKX8vowyCGnZtdWc=
+
+Name: assets/GameNN/Spine/start.png
+SHA-256-Digest: CD/sVLO2Gq4slST58wJEXep/FtkVK+GdDLuSgCRw0mM=
+
+Name: assets/GameNN/Status_Ready.png
+SHA-256-Digest: pO4tYOXSVzVPoosm52oTu6owW/duVeK28J+VXRxJeBQ=
+
+Name: assets/GameNN/action/Ani_SelBanker1.plist
+SHA-256-Digest: SCA0wGlaayhsQfOzo1mirHqQIrHs2/ru66VUpWjvyyM=
+
+Name: assets/GameNN/action/Ani_SelBanker1.png
+SHA-256-Digest: TirGdBoD9hVUuUsqiM4Gdc4MAoD7kB4oyj4GY84Dp8Y=
+
+Name: assets/GameNN/action/Ani_SelBanker2.plist
+SHA-256-Digest: hni8Ob0aUqX9QcjahWDCr6cyUFnQMTJjFQglIK2ZboE=
+
+Name: assets/GameNN/action/Ani_SelBanker2.png
+SHA-256-Digest: 7wAqyHT171nz1nENha/OyDyBMz1n1gukww4D5TWZcNo=
+
+Name: assets/GameNN/action/hShan/hkuang0.png
+SHA-256-Digest: bCRhzTusBGA2vgELY3DeWVJyYJL02vGXxDJADWzEcDo=
+
+Name: assets/GameNN/action/hShan/hkuang1.png
+SHA-256-Digest: bbSlSijOWs8+O3K7P4DM3dTw9Iknys747mlRbBX17tw=
+
+Name: assets/GameNN/action/hShan/hkuang2.png
+SHA-256-Digest: DmfOgsQigx8zHnkY8U5OZrrCMpdbGmVyYroi1/fDYzE=
+
+Name: assets/GameNN/action/hShan/hkuang3.png
+SHA-256-Digest: kdtgq3bRQ5tiTSXnM0YPiTuafOaOFcN+lFmcnOP6Lr8=
+
+Name: assets/GameNN/action/hShan/hkuang4.png
+SHA-256-Digest: dZWTjE4m5yQpnL3AaEGBE35vkXRnnqttjddLH26z8h0=
+
+Name: assets/GameNN/action/hShan/hkuang5.png
+SHA-256-Digest: 0p8HMhZKDaB3YXivvrZ1jK8vn4MINJbBrQ2U0wQwLWg=
+
+Name: assets/GameNN/action/hShan/hkuang6.png
+SHA-256-Digest: JwdlufKn0KgIgzCSv31e6yD0g6sGThtWsc6xJS4FNtA=
+
+Name: assets/GameNN/action/hShan/hkuang7.png
+SHA-256-Digest: F1Jir+yKpjs7t6JLqT1n7xmcXTXIrVd4U3DBKnIISyQ=
+
+Name: assets/GameNN/action/hShan/hkuang8.png
+SHA-256-Digest: 6ow4WyX8ib8Xk1UKW8TJ0CafakmqVw2JRPeMaSly5fM=
+
+Name: assets/GameNN/action/hShan/hkuang9.png
+SHA-256-Digest: gq9DwTBRnRVcgxyORtbI20qfcrdQ1nBa5zPe8lrUtlM=
+
+Name: assets/GameNN/action/sShan/skuang0.png
+SHA-256-Digest: MEWvW4dVHFwylzVYQsO2xGWHD39isXDSnh9v3a3bRJE=
+
+Name: assets/GameNN/action/sShan/skuang1.png
+SHA-256-Digest: EFdwq/Wbmvd9f6DQqczBB+rKAPROBbS7iDfxBuULQKs=
+
+Name: assets/GameNN/action/sShan/skuang2.png
+SHA-256-Digest: ENFuQfpgOsBvrBdi0v05eNYBBI1yzikMzE7TdBeR8QA=
+
+Name: assets/GameNN/action/sShan/skuang3.png
+SHA-256-Digest: iegLvZvSPI0Jv+NlhGtS+VfSr5MfeKGISeKA8BKOeqA=
+
+Name: assets/GameNN/action/sShan/skuang4.png
+SHA-256-Digest: 4nopxPnj65oiNfM2OpXxiARZ6x/NUCfSb5HHRCNSAQw=
+
+Name: assets/GameNN/action/sShan/skuang5.png
+SHA-256-Digest: ncHL760Lwuq4V8fJlWfR7wGfrNhfAz1pyIg7xwkAvR8=
+
+Name: assets/GameNN/action/sShan/skuang6.png
+SHA-256-Digest: NU+vB0SrOw9/6Pn8eEBL+KZ+fMjbJMLxChrGJApXHhs=
+
+Name: assets/GameNN/action/sShan/skuang7.png
+SHA-256-Digest: Sgil/6zqHp5tsdpEnOA4tmNEziNDAMz+LOWqZTI50tw=
+
+Name: assets/GameNN/action/sShan/skuang8.png
+SHA-256-Digest: SuClJK6oNEih4D5QR9nYCr7pfKvfNkZe7FcpKAtZhpM=
+
+Name: assets/GameNN/action/sShan/skuang9.png
+SHA-256-Digest: jtTjPpZXrB9ChPGKY+pakySAOwEXHxVjoaKq9quikPc=
+
+Name: assets/GameNN/an5_n.png
+SHA-256-Digest: URZ8VZgYRI2zM/bt0UM1T0PRy1IS5tCOKOz2GXPQ8xA=
+
+Name: assets/GameNN/an6_s.png
+SHA-256-Digest: FboxhKhWqYobuB4AwpJUC1IMf1zJusOXtQGkGH/E39s=
+
+Name: assets/GameNN/biaoqing/Biao0.png
+SHA-256-Digest: wHnwMSGDSHg78KRbVv3/gVR6sZVBCX+GTOcj3kJ7qFw=
+
+Name: assets/GameNN/biaoqing/Biao1.png
+SHA-256-Digest: qMToPbQfaERXK/1A4cQQKvwW2ozkNLOj3IfIPRTTdcw=
+
+Name: assets/GameNN/biaoqing/Expression0.png
+SHA-256-Digest: 9aNYwHKfOuZC8BR2CG+49pw5SpSijUVkvDxw0qJyKsI=
+
+Name: assets/GameNN/biaoqing/Expression1.png
+SHA-256-Digest: AgTeAhQUJv0axRgMk2Y2kGnKEdXdkVnXJNQU7qjReTo=
+
+Name: assets/GameNN/biaoqing/Expression10.png
+SHA-256-Digest: l8QvmSPdAyPPXvxEGxGaf+2M4Jsrw9SX6wMcYzO62EI=
+
+Name: assets/GameNN/biaoqing/Expression12.png
+SHA-256-Digest: Y2dTlyHL+uwb9GiH3jCiiLRhNN6h1b7WPltApiqE5ak=
+
+Name: assets/GameNN/biaoqing/Expression13.png
+SHA-256-Digest: 9GBtmfmDhCyT1yBnuXmVfUuxPEcquIwtbtlb+vkbiYE=
+
+Name: assets/GameNN/biaoqing/Expression14.png
+SHA-256-Digest: PD1ExGcqrPvsVFOqfa9MkgHs6Dl4n27Y7D8fhCyT1dw=
+
+Name: assets/GameNN/biaoqing/Expression15.png
+SHA-256-Digest: ZJoopTDYv1x3qe89LE57N9DI4ufZ6X7Z00lhdlZxTR0=
+
+Name: assets/GameNN/biaoqing/Expression16.png
+SHA-256-Digest: KLYFF8/KZtGzIsWnAvyXv6ftLXYdi1mN3Kug8prj1kA=
+
+Name: assets/GameNN/biaoqing/Expression17.png
+SHA-256-Digest: DsSkoyeEQrEHvMKGpJ7gtibpAogmqRWBTe/QvAOcKms=
+
+Name: assets/GameNN/biaoqing/Expression18.png
+SHA-256-Digest: 9qPx/mzWr2H8WCtZ2fjtIoSAvO0HPQNvbFFyikXh0rE=
+
+Name: assets/GameNN/biaoqing/Expression19.png
+SHA-256-Digest: yyIkBZdy1D10R1fYjFfuzwpCvX+TB9Mvi+3ovw4tSFA=
+
+Name: assets/GameNN/biaoqing/Expression2.png
+SHA-256-Digest: kmdpOygMEJ3WLeKP4+ITnVJ19et0KDEVY6oXdB+oc08=
+
+Name: assets/GameNN/biaoqing/Expression3.png
+SHA-256-Digest: qmeAHLi8C7gt3DgpTmSmHo3y3y5EgIF0ZZEnDqAtzAk=
+
+Name: assets/GameNN/biaoqing/Expression4.png
+SHA-256-Digest: 4GBC40um8+dAdP1+ZIx6bX7yMP0uzMuRYqFmf/0lOYs=
+
+Name: assets/GameNN/biaoqing/Expression5.png
+SHA-256-Digest: xz+dD0gELTil9xesmkBjC0Evu37PJxFjqDzYJvKpi/I=
+
+Name: assets/GameNN/biaoqing/Expression6.png
+SHA-256-Digest: cSHAjKzkuLiw70YKRyMqEmS97uUpUnkqs2YQflNFwaE=
+
+Name: assets/GameNN/biaoqing/Expression7.png
+SHA-256-Digest: fnx1++IGkvRO3kWVbodVwpn/PwwbAYB8R7xVcg0cGZk=
+
+Name: assets/GameNN/biaoqing/Expression8.png
+SHA-256-Digest: ghCJfku6sOQSy8A2WLfaFNhiuo/k58AcueD2o3BjvKs=
+
+Name: assets/GameNN/biaoqing/Expression9.png
+SHA-256-Digest: bSrumUnVv1E5S4mjX+Z8ekXGzP7bnOVYgXLkvSmopPA=
+
+Name: assets/GameNN/biaoqing/Expression_11.png
+SHA-256-Digest: AwQRrEcxZiBaMHOy1TYT61VfHRyfXkfEVZInRWzEpuM=
+
+Name: assets/GameNN/biaoqing/Msg0.png
+SHA-256-Digest: WH3/jOyIvZ6ygG7TY/jdehbXI82DjaczHy2T+kfcnK8=
+
+Name: assets/GameNN/biaoqing/Msg1.png
+SHA-256-Digest: N0ZFGjizUE91928wHIuRxETtKxTuhthoef6JotcIuZg=
+
+Name: assets/GameNN/biaoqing/SoungItemBg.png
+SHA-256-Digest: wa65qdxcwBZuY9dpEI9t4gcF33riNIwYhzU/4JGa0C4=
+
+Name: assets/GameNN/btBiao0.png
+SHA-256-Digest: c/4haAbc96uGuq3iRp3kkCpd95hIbdgSW6CNn4JBaZg=
+
+Name: assets/GameNN/btBiao1.png
+SHA-256-Digest: SJGLRl6D2QwaWrcJ8CduJ8aHIFFTeFdtctv7DG00OlM=
+
+Name: assets/GameNN/btMsg0.png
+SHA-256-Digest: JD+wLLjzmd+JDn5mcEMLtwqTloa0MwxlSLbEj2PHXdw=
+
+Name: assets/GameNN/btMsg1.png
+SHA-256-Digest: B0ww+7883MqOeMdLejFz5tLafS1qtIcQEub0gc8X3tE=
+
+Name: assets/GameNN/btbei1.png
+SHA-256-Digest: 5tBi3dtX/XY2E5Z0grMdGlwX6F7vI6SadzXyReWOSEk=
+
+Name: assets/GameNN/btbei10.png
+SHA-256-Digest: NVgO/5MBTflxCNFLF2UrxSIkAR6h43m6U4Ipv1BSip8=
+
+Name: assets/GameNN/btbei15.png
+SHA-256-Digest: xIRSsm2eqXv0bcabpSYqSpOWo4/A8FsmTgaqwDT+ztc=
+
+Name: assets/GameNN/btbei2.png
+SHA-256-Digest: KA7k6hT2km9cBfnMlSl1KgUUw9tJwJhTHGhzBNUc2HU=
+
+Name: assets/GameNN/btbei20.png
+SHA-256-Digest: d0psnn3O3iDU0oBNFF7SAMF0A3NjdisJ5fR0ZG0Cw2Y=
+
+Name: assets/GameNN/btbei3.png
+SHA-256-Digest: A2h96dqOR4XTlYwCPqiSi3Rn+iEbcWbUrBG3MwJC7js=
+
+Name: assets/GameNN/btbei30.png
+SHA-256-Digest: ZhbSaWM+l3XuMULJNU8oJs2IHsdRmZRuXNWuRmKLDV4=
+
+Name: assets/GameNN/btbei4.png
+SHA-256-Digest: x4Q3wbId4pK8MUHes+vuhKZoofKJgDA6id+mSL8eF28=
+
+Name: assets/GameNN/btbei5.png
+SHA-256-Digest: D1CwtTtm81utHedSMC0IDfYk75S+PsxJ82tXbVfgsD4=
+
+Name: assets/GameNN/btbei6.png
+SHA-256-Digest: vYP7m20BQ8ierQ8aPe5ZkULiwYzba9CmMfens8iOVPM=
+
+Name: assets/GameNN/btbei9.png
+SHA-256-Digest: Tm8hDjURej0px7NcGpG8ZBdJP9LhhKnsbXbPjT4/VN8=
+
+Name: assets/GameNN/buqiang.png
+SHA-256-Digest: lfRnw8mn3E57UKYBhvephO5ZR5Gfm1T0LywMO87OlsU=
+
+Name: assets/GameNN/buqiangflag.png
+SHA-256-Digest: Lp5ITOHwxuq85u2PRU7w2Ubc4VS62BcjE2n4vihHELI=
+
+Name: assets/GameNN/fangzhu.png
+SHA-256-Digest: eAa9E5SBD8UtNIZhss4EpwPox5UcAv6f/MdaC+T6dJ8=
+
+Name: assets/GameNN/fgx.png
+SHA-256-Digest: 2vvp9Yy2WLaNw8miEtOCHvVHBj/Kby9hGl4CaMAm7KQ=
+
+Name: assets/GameNN/font/Fangzhengheida_0.ttf
+SHA-256-Digest: w1aruRh8XvsImYlYcYVusCTaqmScd2tPMfvHPO+DbpQ=
+
+Name: assets/GameNN/font/Fangzhenzhunhei.ttf
+SHA-256-Digest: 21DDNwuHEE2vU6fQ/Mx8nJOAssp16da+nP5io6AI9Bk=
+
+Name: assets/GameNN/fzwx.png
+SHA-256-Digest: 2xThZgq+0ozH+OQbG8vTCc6lFJaslWr/nS5ItttZ1/A=
+
+Name: assets/GameNN/guan.png
+SHA-256-Digest: a8RWunXH7DDXgalg+K1kVUE9B654JBzdQi/A8zcRFaI=
+
+Name: assets/GameNN/icon_clock0.png
+SHA-256-Digest: FbZMsYgSmG76jmu0RNM9UW5bVZddufvWCL08BgBCya4=
+
+Name: assets/GameNN/icon_clockbg.png
+SHA-256-Digest: RWfS9OeWqxNcJRtZtPJ4tcTC+p7C1PH2xjv6Z8ulhJo=
+
+Name: assets/GameNN/jiesuanbg.png
+SHA-256-Digest: 8exqSpPbl5wtObfhopY3Zy3Qx2aJPbaPpe7C4SFAKws=
+
+Name: assets/GameNN/kai.png
+SHA-256-Digest: hHOnC43U6HB0xCrnPfzYVVlzWvYpkMAQqJ310d3Raqw=
+
+Name: assets/GameNN/meiniu.png
+SHA-256-Digest: vZmSwE4pLApA+lllvm9iUp5wPRhBtIJnMXXtB6UF8Xg=
+
+Name: assets/GameNN/niu_0.png
+SHA-256-Digest: jqGOnlT88D/ByfVhMT/wmeZgO++h55G6rem6SosIq7o=
+
+Name: assets/GameNN/niu_1.png
+SHA-256-Digest: DsmtzURV+P3mJxUPcduMwY/tLImslvVPq0Bi2M5YubY=
+
+Name: assets/GameNN/niu_10.png
+SHA-256-Digest: l7HgJDtw7GNfyqHSawir3vuf3RsbBGQMU+OsjBJFs2U=
+
+Name: assets/GameNN/niu_103.png
+SHA-256-Digest: U56MOJreoUiTpUM4M0HKSIgnm9qmGuBPpzMdnHS5evk=
+
+Name: assets/GameNN/niu_104.png
+SHA-256-Digest: p1RoSf6ByzXgnaQjbIg1Peniy42PdGDVyLkyrVAS4RA=
+
+Name: assets/GameNN/niu_105.png
+SHA-256-Digest: aeYaKc6VkpoGnDsB0WH3Iu8MjlHtlwrfqPuPmyxQVAA=
+
+Name: assets/GameNN/niu_106.png
+SHA-256-Digest: YK4BV0eSDKxAXpzjuXn+6pVvkVG66vst8zsdhhwiJcY=
+
+Name: assets/GameNN/niu_107.png
+SHA-256-Digest: 8QDlLUAmSRIt0omfDYZpYDXggMz8JOXKM1xbMwRfrG0=
+
+Name: assets/GameNN/niu_108.png
+SHA-256-Digest: 5ijl9FQFJUuGeRptK/JVceESiIdmWCYbSJ1o9Yx9/d8=
+
+Name: assets/GameNN/niu_109.png
+SHA-256-Digest: OTRMZxGd7EGrspQ+71mWBpFiqmNnYEc4hLCBOWtJYyU=
+
+Name: assets/GameNN/niu_2.png
+SHA-256-Digest: L9VM8vuiFP2APwiSqEacqay+KqnkrjsHWjXJYtvkA6w=
+
+Name: assets/GameNN/niu_3.png
+SHA-256-Digest: E5kKIaT2ln3QtALoWHEa1KX6R1HMDdaL7e0kH/nQm0E=
+
+Name: assets/GameNN/niu_4.png
+SHA-256-Digest: FbdxCZkXbcWcA3cJlnYDPcOea7ryMsys3zT/BAPWTik=
+
+Name: assets/GameNN/niu_5.png
+SHA-256-Digest: +0jqfovAqvXMOg0shwoRQZhLUBPdKwF7VlWzce+0IW4=
+
+Name: assets/GameNN/niu_6.png
+SHA-256-Digest: 8Oy5hPxkGvTOyOp3or7Rm3u7sq2AtiKNE9E7CDA32bA=
+
+Name: assets/GameNN/niu_7.png
+SHA-256-Digest: k6aYXxI5umobR9G+wV6LZspCqLlTREKHpNf96Ixe+kY=
+
+Name: assets/GameNN/niu_8.png
+SHA-256-Digest: /s5AyVBgxJDrjmPusl5tm4YA5196eP2lMoUaPKobnLs=
+
+Name: assets/GameNN/niu_9.png
+SHA-256-Digest: CPHedOLNVxsRTHvngzJdb/Ka7pSbuGpU9rF9ctNrPr0=
+
+Name: assets/GameNN/niu_Back.png
+SHA-256-Digest: iT2IMse065xP7wW5JyRtxbn8xw9XCRDlRX7piRwnsZ4=
+
+Name: assets/GameNN/off_line_sign.png
+SHA-256-Digest: n3SOoe9akfttVzT30w7jAwmt7ZWA6ST42r73FRzoeK0=
+
+Name: assets/GameNN/play_shengyin1.png
+SHA-256-Digest: QIeNr9hFJzaMvo7KUKecijN+ptHJ0iH9Km49hw55zqs=
+
+Name: assets/GameNN/play_shengyin2.png
+SHA-256-Digest: 1KhAuwhMvGQ6fa5TPRQ0plu93wl9kz2mJRw3YFU7K/A=
+
+Name: assets/GameNN/play_shenying.png
+SHA-256-Digest: eKP9Tz9E45k9QghI+viKJyvMGKbEngmuoDSYfnlEyls=
+
+Name: assets/GameNN/poew1.png
+SHA-256-Digest: T5jlSswmec/m37W4hXdbz8QcHc3GKgCwTff4DBF1/Mk=
+
+Name: assets/GameNN/poew2.png
+SHA-256-Digest: ZOhvdHjE2nWY+5vmV4vsmYo3w/yG5wYocIgrlSVP/Go=
+
+Name: assets/GameNN/poker_bottom_bk.png
+SHA-256-Digest: UqUtogQtkgCxy/U4ke64SCoEbfQJagb0gypeJ4EXIuY=
+
+Name: assets/GameNN/poker_color_left.png
+SHA-256-Digest: 3xpAPZ8Snzx0aak6jApzN6pLnwqzeVXXWqDTWQ4fh0M=
+
+Name: assets/GameNN/poker_color_mid.png
+SHA-256-Digest: yqYlh1q1XJROlL0PaN4vRE6/kMQe5gzoama0OJsqnGg=
+
+Name: assets/GameNN/poker_num_black.png
+SHA-256-Digest: NfkanhZ4+qrD6ya8BZe1ihAvRdS5ElHyv7/KPML4QLQ=
+
+Name: assets/GameNN/poker_num_red.png
+SHA-256-Digest: CtAjKQonw1Uma/DB6CTquSmCIwqnL9xbrmeGIHz1S9k=
+
+Name: assets/GameNN/qiang.png
+SHA-256-Digest: 5TMk1vENKXWnCncOnHaBYrhddVir29D9UKx9ZqCiJUk=
+
+Name: assets/GameNN/qiangflag.png
+SHA-256-Digest: adLFmpo9nLITFMuFI/1KLFmwACpTEohujdqaNsKt9oQ=
+
+Name: assets/GameNN/qingqiang.png
+SHA-256-Digest: jtWsizIFRJsG2Ha/pfOXiIW4PQTucgaOhdL3AD6xToc=
+
+Name: assets/GameNN/qingxiafen.png
+SHA-256-Digest: Wb9Wa3jcAw7h1GZeqQ/YqGqG/AWOmR0J2wfi+SNHcL4=
+
+Name: assets/GameNN/qqtype.png
+SHA-256-Digest: K97aLOnBXPE9XAnbYXlpei4s+L1MH84yboIL5b2HZ8w=
+
+Name: assets/GameNN/room1_n.png
+SHA-256-Digest: ++r4w2j3RtAg62kvIRln41lTkUTwWueCslq+6ZFy9bo=
+
+Name: assets/GameNN/room34_n.png
+SHA-256-Digest: bBf9mRnCo2yh7GJcoFOnqbzqd01HLopbuEp/Qsd5VMM=
+
+Name: assets/GameNN/room35_n.png
+SHA-256-Digest: eEJ+v8/xPl7sGsLmIbIpgpWmhng38hfypOwhxmevOvA=
+
+Name: assets/GameNN/room36_n.png
+SHA-256-Digest: Bovf2PIy84MVq8zbz3g/LV1S5YdDUuoVujM1ValgG/4=
+
+Name: assets/GameNN/room48_n.png
+SHA-256-Digest: HUJ7ZmUdEZ1rSJUJOYPDH34wijWYJyhd47CKcp+RNhk=
+
+Name: assets/GameNN/room54_n.png
+SHA-256-Digest: 68Q5ckzFro7ejqKRqjNQgzfRz6k9gCa8t2WCN24u1As=
+
+Name: assets/GameNN/room56_n.png
+SHA-256-Digest: UCiSWQaaleIErPLLgO9mwWDfceh3VedDoH5hObwTa/A=
+
+Name: assets/GameNN/room57_n.png
+SHA-256-Digest: x8WPR538hc3TOIVYti4yKzXQWraycCvmCCBiHgGsyRA=
+
+Name: assets/GameNN/room5_n.png
+SHA-256-Digest: Y1h405gjoIsxbWsmcVL2P8lpTdMYWpXtHy0o2sdnsP0=
+
+Name: assets/GameNN/room61_n.png
+SHA-256-Digest: iEu3lNVz6n3DPxY15S9XxUiTQg6rZ1xhq+FW2eKt4NI=
+
+Name: assets/GameNN/room63_n.png
+SHA-256-Digest: CXjbzjuyS9NwNtfaF3gw1MzUiMpajA/HtTBVcBcK/Do=
+
+Name: assets/GameNN/room64_n.png
+SHA-256-Digest: 3CRzzcYRTNZWDy7onBwRcZaVmnLKWsaNLdk33mwbeZY=
+
+Name: assets/GameNN/room66_n.png
+SHA-256-Digest: uRs3LdH7mGUxsi686p11xEOM44gqU9H8cOwCbIEIj9Q=
+
+Name: assets/GameNN/room66_s.png
+SHA-256-Digest: RJKxL8wV0gF87DFi2wPIZ39s/Yyb9qTCpc4euolwNx0=
+
+Name: assets/GameNN/room67_n.png
+SHA-256-Digest: k+xTwwWtTDz1Uda0ZYx2UdNoi6CM7ePmropq+imFa7A=
+
+Name: assets/GameNN/room68.png
+SHA-256-Digest: neY8x6YoVvkDbRRyVE5JDhEYEUxuMkvxSeyAwSmDKSQ=
+
+Name: assets/GameNN/room71_n.png
+SHA-256-Digest: kjOOyW4Mv4I01koqHLjXJfNNX77T5iy36XpiD68a8YY=
+
+Name: assets/GameNN/room71_s.png
+SHA-256-Digest: yxOZc3RxZ6vCT6ckH8YyO1mNeYMP6F7EUvDCER/PHB8=
+
+Name: assets/GameNN/room72_n.png
+SHA-256-Digest: lJXsDi7wQnEGH6K+5eN4L+ffpnGB5AR2NNUIV5exj44=
+
+Name: assets/GameNN/room72_s.png
+SHA-256-Digest: zz15mgJCJAv30vDnOcV6d59dxtg6CA0gqZcklevDLwM=
+
+Name: assets/GameNN/roominfo_bg.png
+SHA-256-Digest: z+qB4jTWjrcIa0fhW9mzT0R4daFVYxlJkA12kCDyXuo=
+
+Name: assets/GameNN/type_103.png
+SHA-256-Digest: p3RC89Uw4ls6FZyCXDYfsrHL+FX27biqfyCUKWA3/y0=
+
+Name: assets/GameNN/type_104.png
+SHA-256-Digest: 6Uiy3I27DWjcroTIkifMKxjhiZ63NOkpLJRPW5vobF0=
+
+Name: assets/GameNN/type_105.png
+SHA-256-Digest: pyTRSDJQWHVA9w09gYv45reZwG5sKSyk4mLyxV4/5UI=
+
+Name: assets/GameNN/type_106.png
+SHA-256-Digest: rD8KnsKK234GOyIrZXXSHOO4Hv2+CaohOQLPPEohQjg=
+
+Name: assets/GameNN/type_107.png
+SHA-256-Digest: 35blcJPeJTPvJw4WfZAOT+I6cLXfK7S0Z1SX9tsthck=
+
+Name: assets/GameNN/type_108.png
+SHA-256-Digest: pvfBs9bAh6p63PO5X7dOp82TH5ubkhLf01pxOCgseCg=
+
+Name: assets/GameNN/type_109.png
+SHA-256-Digest: xxyfU3fZujHuVUijzJkFPrm4Y9u5H+HFU3MxfF3/XLQ=
+
+Name: assets/GameNN/wancheng.png
+SHA-256-Digest: PPI11h9xYRXOTDZcJgEodlcPxbizCJdvFYmUzWX/5yM=
+
+Name: assets/GameNN/wxtype.png
+SHA-256-Digest: Dzv7L1m1VJSqYgDxEdjEWlQFNRGoMHH5FKtddaqFT7M=
+
+Name: assets/GameNN/xiao17_n.png
+SHA-256-Digest: 8n+/muEGxKDyAy85DoqLTtYq6feveAFf34+TyUO9sk8=
+
+Name: assets/GameNN/xml/GamePrivateScence.xml
+SHA-256-Digest: rhKGJjcK1TXHAPteoB3zN1PE7hiW1XH/gf1JyxLy5Hc=
+
+Name: assets/GameNN/xml/GamePrivateSkin.xml
+SHA-256-Digest: oEKNnRZKLkfgrtreM0Z0hpjSiV4CJwgt6RE3eY6zcz8=
+
+Name: assets/GameNN/xml/GameScence.xml
+SHA-256-Digest: DEbePSJu0OpEvBuSRlcntP9GdhRG2BFCBV7yz/FUp0Y=
+
+Name: assets/GameNN/xml/GameSkin.xml
+SHA-256-Digest: PAxcoRaiK3Qpt8p7Xm2eB69200Hzpiv217REt9w3gXQ=
+
+Name: assets/GameNN/xml/ScriptValueStr.xml
+SHA-256-Digest: UbqK+MHaCx374ThGOAyMq3sWQoYrzet5tDOX0oUmfaE=
+
+Name: assets/GameNN/youniu.png
+SHA-256-Digest: k3e0nQ8ICmITBYRRTuVBHfhupfMEEp1AjfIK4eJc0+k=
+
+Name: assets/GameNN/yx1_n.png
+SHA-256-Digest: 6RID0l/dhAHbVtbtEG28FfA64Kw5ffvrCEAWkl7lTMY=
+
+Name: assets/GameNN/yx2_n.png
+SHA-256-Digest: sak4uWERFDk5zkxxctGKet4HKC4IXJy07Crkvg/Os7o=
+
+Name: assets/GameNN/yx3_n.png
+SHA-256-Digest: VIsgAP6CbalZQ3XS6/s7k0wkPklj3EKEDMBc3+r2u1w=
+
+Name: assets/GameNN/zhuang.png
+SHA-256-Digest: EuTC7vjY9ljgggY1Y6M+wOuYFQYloU+UkcE1AFs4TO8=
+
+Name: assets/GameNN/zhuangHeadBack.png
+SHA-256-Digest: fxg1gM/FEqJnCLWKuOm4/F2Eh8bOG/W3Y2QBcIHExck=
+
+Name: assets/GameNN/zhuangHeadBack0.png
+SHA-256-Digest: OfWh1dn0snPxlNtSs6Unr7O3fxA36rLYaLdIZTADCE4=
+
+Name: assets/GameNN/zp20_n.png
+SHA-256-Digest: cjsb/5NkcuuSx5vaGfoEctQtftFJd3pRhOcg/bVx0NE=
+
+Name: assets/GameNN/zp21_n.png
+SHA-256-Digest: mM3QgzQo7zibNmM5xH+69yPh0GBD0MYLXu0P8GjtuuM=
+
+Name: assets/GameNN_EX/ChangeScence.xml
+SHA-256-Digest: ZGySRk75/wN0loMC7Rpea6uqZuhYjv+7EdNO1NXdJdU=
+
+Name: assets/GameNN_EX/ChangeScenceSSS.xml
+SHA-256-Digest: 2FVMCvydtXFx4PeR/ZsOtv3e+tDM4gsAKRvzv9Yljes=
+
+Name: assets/GameNN_EX/ChangeScenceZJH.xml
+SHA-256-Digest: 7Cj4bOqaAzHnx8qXTPuPjcFHsapi58do0v0miX66nxY=
+
+Name: assets/GamePrivate/Back.png
+SHA-256-Digest: W0Llv1Mocegs+Sfoh0r7kEl6nG2vgIcdzNMa7pDUlCo=
+
+Name: assets/GamePrivate/MsgBtn.png
+SHA-256-Digest: KhZAgzm1f2eDcSYVBKtRzwD3AVzKV7HoCKAT98w9Dvo=
+
+Name: assets/GamePrivate/btn_back_sala.png
+SHA-256-Digest: M4ip576QSQj3nsJWssGT89FKQC/4Go1Clu1HFOViPJo=
+
+Name: assets/GamePrivate/btn_dismiss_room.png
+SHA-256-Digest: +Wa89b4XhGuRpjQRqBrWhd3uOZ+99a+Gxa7ysaTvvMU=
+
+Name: assets/GamePrivate/btn_dismiss_room1.png
+SHA-256-Digest: yhO3MMAFZQMjSG/vR6lh5uqTWfZ0aXCVNPj+oI32EVw=
+
+Name: assets/GamePrivate/btn_weixin_invite.png
+SHA-256-Digest: FlQpM2D4Yj0prcAuZZPu3ZmXWrlwG1iOIY5NMw2NNbg=
+
+Name: assets/GamePrivate/close_huatong.png
+SHA-256-Digest: SaA1INKbIxysL91caOI3RpztABla8y8ELxi6W2vzObs=
+
+Name: assets/GamePrivate/play_huatong.png
+SHA-256-Digest: pup3l8P1AcRL1KR6Dd3NXm9qEH50NfOK/0h1HqsBpd4=
+
+Name: assets/GamePrivate/speaker_off.png
+SHA-256-Digest: X1GDhsrSQqnHJMU+5EDs+J5X137dAOKdnWWg1AJOB8A=
+
+Name: assets/GamePrivate/speaker_on.png
+SHA-256-Digest: 0bVuN9wAG8Jjt0PLRcorzTQPgjM80dSauNSjw9Z3Qzc=
+
+Name: assets/GameSSS/00.png
+SHA-256-Digest: 8SkVxvJlX9GD2UNojI2uVNuBfNVgEQKv8jpMB6+k/rE=
+
+Name: assets/GameSSS/01.png
+SHA-256-Digest: JAIv+VlUHJmWgsxhU+VbkFoQ/fTmNsSNOtriULQh0YM=
+
+Name: assets/GameSSS/Bei1.png
+SHA-256-Digest: QWv7Rld1upvWGru/zwTQ6jm5uUxctZOXmzMZ50qGbMw=
+
+Name: assets/GameSSS/Bei10.png
+SHA-256-Digest: rNWl2tbJZo2F5R/oQCZYzXHLKMQHEVTv+nJB+ICOyAw=
+
+Name: assets/GameSSS/Bei15.png
+SHA-256-Digest: 0EFlWc0ClBFDi9QHQTTcD5Vpw0RUXMvsAUgHiL+r9Vg=
+
+Name: assets/GameSSS/Bei2.png
+SHA-256-Digest: dBJopx/XqtgFSIsdrP6c4NN+OlsmUDeWfkKRKhq4vws=
+
+Name: assets/GameSSS/Bei20.png
+SHA-256-Digest: 28KkyeKVUulV3fzj2hGm60gnyKNmd9YW8Grqt1pRW8E=
+
+Name: assets/GameSSS/Bei3.png
+SHA-256-Digest: BJPGtdS1vjpT1wjd+cwv3IYMXUrrItlJfER/ng9fyko=
+
+Name: assets/GameSSS/Bei30.png
+SHA-256-Digest: LT0zHCoa4tfPCSkq+Y2LgLLg/yqca2lu0f6ZrcszG1o=
+
+Name: assets/GameSSS/Bei4.png
+SHA-256-Digest: T529Wpf//gETK6DMo5jYOl4XCVos/k2Cimh4WzhWvvU=
+
+Name: assets/GameSSS/Bei5.png
+SHA-256-Digest: Lc5BIV4PIWtQ2TTz4+dkBXc/YMrni9CLSU5L0b7/hXg=
+
+Name: assets/GameSSS/Bei6.png
+SHA-256-Digest: 62UUQPYJgFvsMp05ZQ5vOyjiB4ONWkHawpe5iWE3OGg=
+
+Name: assets/GameSSS/Bei9.png
+SHA-256-Digest: Eh+f6z1L1oQTcMiYTs0JjYhc1f1Bw2nHBqb5KA7AvmA=
+
+Name: assets/GameSSS/GoldBack.png
+SHA-256-Digest: aTVEaMM36Q0jrD/BStUKhzrKBGqvmxhu/IMsv+MF4pM=
+
+Name: assets/GameSSS/HeadBack.png
+SHA-256-Digest: Pb4si2AhuPHawhrFWVz0L6Es2+ol5F3/g+8YHqOmM0o=
+
+Name: assets/GameSSS/HeadBack0.png
+SHA-256-Digest: TC2tDTrhqzUBLLQZZrwogdz+whr0IqUbkM53VL9T1TM=
+
+Name: assets/GameSSS/HeadImagic.png
+SHA-256-Digest: TlC1zk6MobvZKicIIjtrf2Xth2xxRbugWsjMztm1w20=
+
+Name: assets/GameSSS/MSGBG.png
+SHA-256-Digest: nYSfjbI//FFqTK6nV18Z0hyF3VKpQWWCZGK5jANJNNg=
+
+Name: assets/GameSSS/MSGBG1.png
+SHA-256-Digest: vpfhV5v1iWWQGbNZ+HTehz5jY1yJ7R13PDaZJ+AGNkI=
+
+Name: assets/GameSSS/MSGBG2.png
+SHA-256-Digest: MZL2CA23TwYRknYhz5mDnVzcYQzqtwl1RpDH/ei2l/U=
+
+Name: assets/GameSSS/MY.png
+SHA-256-Digest: LYRugMfiKw5afSmhBN3ZcW7mscCBPIBGKGy+I2EWEms=
+
+Name: assets/GameSSS/Public_PukeCard.plist
+SHA-256-Digest: KMGP9vQgRGRNp59lH9usa9X5RnJ46j8j7sf1BjFjHMo=
+
+Name: assets/GameSSS/Public_PukeCard.png
+SHA-256-Digest: j34618qxjmKwdVe0KyTsYohGOcWaq4sbwtSPKJ51MN0=
+
+Name: assets/GameSSS/QiangShan02.png
+SHA-256-Digest: UsSyaxAgEc2tf5kBSP29yM9UnC//FUdz0uFL3AZLfJw=
+
+Name: assets/GameSSS/QiangShan11.png
+SHA-256-Digest: U86yxKKNtI7d3JhdrCcPw/3h9AIiC7ihSQpMZC5C2bE=
+
+Name: assets/GameSSS/ScencePrivate/DYJ.png
+SHA-256-Digest: nPZn72xSnlsnev8l1QnjLARDRD0vief9Ot9Z69qF8hI=
+
+Name: assets/GameSSS/ScencePrivate/headbg.png
+SHA-256-Digest: Bo9eBsqRKexUVzUZN3ccrYCc5U8Td6rmvxuvVo4Kf/Y=
+
+Name: assets/GameSSS/ScencePrivate/over_jieshuUI.png
+SHA-256-Digest: NW60+42vCJIJEdV4NJ753LYOLCTXT8oK8Ft2Sr+Sr5g=
+
+Name: assets/GameSSS/Sound/audio_start.mp3
+SHA-256-Digest: lNn0GNmOdXLI0JFen7UbpmSms5/0poDrONUFoQIzVwQ=
+
+Name: assets/GameSSS/Sound/backmusic.mp3
+SHA-256-Digest: /PDyyA59klFfJtI3pRh+7FhXI5uI1vD7t7eh63lmZRU=
+
+Name: assets/GameSSS/Sound/buqiang1.mp3
+SHA-256-Digest: Yxl5DjJ/+RYaa3ugSi1WoSXk3O4xd/wsOhMd+Iou2t4=
+
+Name: assets/GameSSS/Sound/common1.mp3
+SHA-256-Digest: kq3eI+Ias4mfq8MQXBvXhT06O4oA1pR5RfIEVOQkxHs=
+
+Name: assets/GameSSS/Sound/common10.mp3
+SHA-256-Digest: Mk7+8o3QfsCLb4nNZ6Kq/2fbeIk+XYhyefSkcBesELQ=
+
+Name: assets/GameSSS/Sound/common11.mp3
+SHA-256-Digest: h+E1UoOeMPB3YWxHloxPOETfQTSV127Kk5txo6Yh2lo=
+
+Name: assets/GameSSS/Sound/common12.mp3
+SHA-256-Digest: sSxMihNlB+FZGEOahfwwez9yPvRR7np3JdNMbebHNe0=
+
+Name: assets/GameSSS/Sound/common2.mp3
+SHA-256-Digest: wFKcA1gsSA1rW4zCdp+7mAyqWY+Fx4gsguOqwPEDAUk=
+
+Name: assets/GameSSS/Sound/common3.mp3
+SHA-256-Digest: VJAGIjCC3Pe2k0V+R6gEfONobQM8W3bAKqQ4OW8+aMk=
+
+Name: assets/GameSSS/Sound/common4.mp3
+SHA-256-Digest: +vXgGfuXn+pAxd5B7cuYpfMXy+N85hK1qBSrYrSEQfU=
+
+Name: assets/GameSSS/Sound/common5.mp3
+SHA-256-Digest: MdtQqvCo1/db1jVV2eo4aDP9CUYHH7RWuWgGaQsnMOc=
+
+Name: assets/GameSSS/Sound/common8.mp3
+SHA-256-Digest: 9l7c/kIX6XHn2/nGO7Uw3DH/KO2wzeAGyghU1mqByso=
+
+Name: assets/GameSSS/Sound/common9.mp3
+SHA-256-Digest: /WAx6Io2kZ4GmbhJo+SYuDYVILejaJB+Kzjg/BTnmJA=
+
+Name: assets/GameSSS/Sound/daqiang.mp3
+SHA-256-Digest: /budwIcgGMCswt7EUSDN45ZgNPJxR5gJM+tE9M2te7I=
+
+Name: assets/GameSSS/Sound/fapai.mp3
+SHA-256-Digest: srZbR9XwHDxm8USVMMDsJjCLiqlbQavuUxgrwuuzdHo=
+
+Name: assets/GameSSS/Sound/lose.mp3
+SHA-256-Digest: ZxsK/LNRGNvvuVMxYeR6gg6p79SyIGr4CO66Lodcw3g=
+
+Name: assets/GameSSS/Sound/qiangzhuang1.mp3
+SHA-256-Digest: uZzojkvUPiuNqKNd84k+KSfDTX238t8q0D9tHfAJfsU=
+
+Name: assets/GameSSS/Sound/special1.mp3
+SHA-256-Digest: fjQf5By9DdXyMNRxhC1g29Cpl8bxNnJi0RT+gZ3pK8g=
+
+Name: assets/GameSSS/Sound/start_compare.mp3
+SHA-256-Digest: sLPt3rHspLYi+uPFn6p5XNuriyj/pSs0u5EEsQv4psE=
+
+Name: assets/GameSSS/Sound/win.mp3
+SHA-256-Digest: cHmxoM3mCrNk5+YlambuQHUNEzQb43M6797CpHd13WQ=
+
+Name: assets/GameSSS/Sound/wrc_time.mp3
+SHA-256-Digest: AOgCplgZYROU0XOCCbmYImCCyhqQ7po5FYuRY81x6W8=
+
+Name: assets/GameSSS/Spine/DragonOpening.json
+SHA-256-Digest: YhRfguQLNjKj1gP6KG5erPCT7bquQGGZFg+tzZ71xac=
+
+Name: assets/GameSSS/Spine/DragonOpening_tex.atlas
+SHA-256-Digest: YZUx9e8C+cgXZSPczeYK1UKGplG8WHXNUYqNaETQbUw=
+
+Name: assets/GameSSS/Spine/DragonOpening_tex.png
+SHA-256-Digest: H6U+IdOD/j9bTnSffVezRv/9gwvs8fAV2jzRxXd9q8U=
+
+Name: assets/GameSSS/Spine/Spine.rar
+SHA-256-Digest: uFrfNoyRDwALUqI7Oe1igg/Roj2NXStwOYCATNKDj/w=
+
+Name: assets/GameSSS/Spine/WIN.atlas
+SHA-256-Digest: 7OeG6qnQHLq1A3cgyMpqLoMJcu5u9NCr5wrr6lHQaBc=
+
+Name: assets/GameSSS/Spine/WIN.json
+SHA-256-Digest: 0cmgzjFrqQUwYmOgnb40dW6/sDqvpGbr/N3TYOyf1GI=
+
+Name: assets/GameSSS/Spine/WIN.png
+SHA-256-Digest: Fz/VBCmT4bSLItceUMnSNH1msZISFeQmhqkj3xBb41o=
+
+Name: assets/GameSSS/Spine/bomb.atlas
+SHA-256-Digest: grER13C9HxFlyScZjEb3f+E1X7FGK8F+lSxEDm20BVw=
+
+Name: assets/GameSSS/Spine/bomb.json
+SHA-256-Digest: cb8jxnxSNnipe2v7/cvEQf5XyyWCOFHjRlIUYCVRQ+s=
+
+Name: assets/GameSSS/Spine/bomb.png
+SHA-256-Digest: caeRjXjY7QHZ3igf49F73aesv7TJYM4BGHoI3S/vmdo=
+
+Name: assets/GameSSS/Spine/daqiang.atlas
+SHA-256-Digest: 2BuWm3jNpABBhcvnL9+CX7Sr5wgaqCqQDyLmBRxb0YA=
+
+Name: assets/GameSSS/Spine/daqiang.json
+SHA-256-Digest: dOcdoyhTIt5Gy5a9Wy92lDf4NhcNIPjSgYX8KVWRBqM=
+
+Name: assets/GameSSS/Spine/daqiang.png
+SHA-256-Digest: /2qi+L+1DxIlao+l7s9QR/QntQXyTyh1GceBFYx/J9w=
+
+Name: assets/GameSSS/Spine/hgignore_global.txt
+SHA-256-Digest: 8zQzaQfKmeHnq5ovRGV+EyuQEApHF3z42e6keyhrYGI=
+
+Name: assets/GameSSS/Spine/lose.atlas
+SHA-256-Digest: OBIxxreB1L9rcMCxTWZZ0a6BpM2FkZPsC/Uns4xDLw4=
+
+Name: assets/GameSSS/Spine/lose.json
+SHA-256-Digest: RE6+vtDz8lGn2gzQukWWWre0QphqQcAxmZ2+8fP6d/M=
+
+Name: assets/GameSSS/Spine/lose.png
+SHA-256-Digest: hw+ogBtxEmp0lYKgGne+/peeed4fHH9mrBJFZ7Enat4=
+
+Name: assets/GameSSS/Spine/skeleton.atlas
+SHA-256-Digest: ZABJLy3nI1g/P+YliDXxRU0YuFGG1Doj/0qNeqPSPhk=
+
+Name: assets/GameSSS/Spine/skeleton.json
+SHA-256-Digest: EvbFDrLDo1CwPbRFdMsJrsLBwZqntjBzhR/JS9gNsuM=
+
+Name: assets/GameSSS/Spine/skeleton.png
+SHA-256-Digest: WQ3hNgMHo/Q4FoVKyuu5Nq4OksH471mJKNvGaCfV9AM=
+
+Name: assets/GameSSS/Spine/spineboy.atlas
+SHA-256-Digest: zAUoFm9/01t23hG9e/XQ0V7lmkw8ZoW6mu+nAMEUOe8=
+
+Name: assets/GameSSS/Spine/spineboy.json
+SHA-256-Digest: 4g0tZDFl215TDedrFhRz5A+ZvjCnvvJTqkXkVZQbxSY=
+
+Name: assets/GameSSS/Spine/spineboy.png
+SHA-256-Digest: Wk9CrDJp7BxnxLK42wPjAXMDuZW4BcUNXFdwnLa3NgM=
+
+Name: assets/GameSSS/Spine/start.atlas
+SHA-256-Digest: 9mJ01HnIEtV1FuXeVdN94MUTwFc5SLXDhwir+npUMw4=
+
+Name: assets/GameSSS/Spine/start.json
+SHA-256-Digest: K9H28zGGWRV05cglev/k4Bt91bKA12xnpkT59eXNgN4=
+
+Name: assets/GameSSS/Spine/start.png
+SHA-256-Digest: Gsnyred4E8RBapB+aE7My7Xy53eQ3u4yBKXZgInR+xU=
+
+Name: assets/GameSSS/Status_Ready.png
+SHA-256-Digest: AdFc2M6gceW292XKlnc2IfYXvbTe+TRdgm2ZF512qC0=
+
+Name: assets/GameSSS/action/Ani_SelBanker1.plist
+SHA-256-Digest: oLLuGQqYzuzTauUw4y9CdqCT3OAd6/wfjsiNGisXG4s=
+
+Name: assets/GameSSS/action/Ani_SelBanker1.png
+SHA-256-Digest: l6WzE+XJdGK/wb1Up6xRepLgpOflDbDctdI1Q7vM5ik=
+
+Name: assets/GameSSS/action/Ani_SelBanker2.plist
+SHA-256-Digest: 0vfztPCpdrXyHA5bf/00ivQ1QFKbjJ8hkzaqItUZwBA=
+
+Name: assets/GameSSS/action/Ani_SelBanker2.png
+SHA-256-Digest: NpocNX+6X+IKqYjKD03pNPd1ufFWn49Dr33n50x2C58=
+
+Name: assets/GameSSS/action/hShan/hkuang0.png
+SHA-256-Digest: 24HesS9au2Cz0oesCj3AyTZIKUOoGwUQ02TisVSHTdc=
+
+Name: assets/GameSSS/action/hShan/hkuang1.png
+SHA-256-Digest: LkpbkDPF89pdrg9OigjRvw6ahWW9PjebfZx3HcjL02M=
+
+Name: assets/GameSSS/action/hShan/hkuang2.png
+SHA-256-Digest: 5kMpzEpoQeJ6E8Q3iuFxEZ8k1f6Sfpl+CnrSYGrHNzc=
+
+Name: assets/GameSSS/action/hShan/hkuang3.png
+SHA-256-Digest: 4GDqpzPQ48nIe2nxcVZ7cSSwz49sBmc3ySb1AxJFkEU=
+
+Name: assets/GameSSS/action/hShan/hkuang4.png
+SHA-256-Digest: GARYF2mBQ3Unatsh9fBPdDOUHyP+K9rwuDPpWNdHHMk=
+
+Name: assets/GameSSS/action/hShan/hkuang5.png
+SHA-256-Digest: IhKNmgHdegvOckM+ffCgKIrh3bsqxdVzk+0hlmkI1DM=
+
+Name: assets/GameSSS/action/hShan/hkuang6.png
+SHA-256-Digest: irYMye28I49WtxUddQCr9zUBkDQmnFCEw6WXjsWt2gc=
+
+Name: assets/GameSSS/action/hShan/hkuang7.png
+SHA-256-Digest: LBlJFppdRE2mGNywxk+m/1j5LB90e9WpUHOpDXtob08=
+
+Name: assets/GameSSS/action/hShan/hkuang8.png
+SHA-256-Digest: FNHPngKJ3Bm6WCgKcYSAkMddy4FlrEQOmEjpGyXzr64=
+
+Name: assets/GameSSS/action/hShan/hkuang9.png
+SHA-256-Digest: ngMoOqhUZDCgNo0T+fsH7xYizJMWVAK5s1Tyi/dpyJ4=
+
+Name: assets/GameSSS/action/sShan/skuang0.png
+SHA-256-Digest: O2wH7uqjLSqAarmco91PQlx9LIEuU+fvQaSSfHptuiM=
+
+Name: assets/GameSSS/action/sShan/skuang1.png
+SHA-256-Digest: cNeMjhcsJMn4xALo2Ax4Hjz3zGc2yzxGLFHi0knhyOs=
+
+Name: assets/GameSSS/action/sShan/skuang2.png
+SHA-256-Digest: 4tNyR8Hz4VhFSgw3+x+MHTu0Bi8kKRrIh7eHMKHXAms=
+
+Name: assets/GameSSS/action/sShan/skuang3.png
+SHA-256-Digest: CmsdNtEKuU4/jXpjIFNkF8dwre+iUSJ78mPeaAoC2ZM=
+
+Name: assets/GameSSS/action/sShan/skuang4.png
+SHA-256-Digest: UCR4Mr7Gxivne1ZGkvx3CcvE9eI63CYFQbh1g2Tv98o=
+
+Name: assets/GameSSS/action/sShan/skuang5.png
+SHA-256-Digest: yb2JigENlKpeCQkSWN6wX8FvfdyC2x5vCdAzfAWLFuw=
+
+Name: assets/GameSSS/action/sShan/skuang6.png
+SHA-256-Digest: SXWoFu6w9RVEUPS4TFsGIS3l9SiM1KHBmHVZZsfs39s=
+
+Name: assets/GameSSS/action/sShan/skuang7.png
+SHA-256-Digest: FIBSj0WhQvcPYcPSCM+FU47W3y4+5bSbFW2ckgORf0c=
+
+Name: assets/GameSSS/action/sShan/skuang8.png
+SHA-256-Digest: oML5nxYmGPwVcrOTkl1a+qaY3akqNhP+FVBIvCFAs4M=
+
+Name: assets/GameSSS/action/sShan/skuang9.png
+SHA-256-Digest: oQspNjNzO3qAS++XGGneSFnp9RPxBKNJN47zd35hqFA=
+
+Name: assets/GameSSS/an5_n.png
+SHA-256-Digest: G0Urs8tFU8sKMQU/ZgJE6bh36LCbNDiIgeXstB+cCZo=
+
+Name: assets/GameSSS/an6_s.png
+SHA-256-Digest: BSpVXTWn9wkCMm2aKDDdRahQTPE5YO3UE8SyhY0a6jU=
+
+Name: assets/GameSSS/arrange_bg.png
+SHA-256-Digest: qFCi3zAiEliksbKR+KwX3qt+B/vBp1120AKqgo9ZlkY=
+
+Name: assets/GameSSS/baipai_1.png
+SHA-256-Digest: /PqmIPdaXicc/ArIzd/Krac+Gj1/ZS+h9N0QTXeG7zI=
+
+Name: assets/GameSSS/baipai_2.png
+SHA-256-Digest: lvv9UMXt/kbscvx8navltYKEtrW6A4cyysrkAUsO1uc=
+
+Name: assets/GameSSS/baipai_3.png
+SHA-256-Digest: tsWrQv4jN3WXPZWF/IyCjGzE2vWlytOnF7ffb7wCiHo=
+
+Name: assets/GameSSS/biaoqing/Biao0.png
+SHA-256-Digest: O/W2DwDaBKHvvru76m9zyv99SP5WOt9Vb0X9nhlzZqY=
+
+Name: assets/GameSSS/biaoqing/Biao1.png
+SHA-256-Digest: htDTD5V96x+Il9S8I6q8zgHZdTm2dgCZ+E6MNJC6k+E=
+
+Name: assets/GameSSS/biaoqing/Msg0.png
+SHA-256-Digest: Df/Jl3o8VtsnBT8R4x8u+AFDt9XnyA/ab8HLr+9LdIM=
+
+Name: assets/GameSSS/biaoqing/Msg1.png
+SHA-256-Digest: pF4w22HEMQRZhHxvoJLGB0QdlGM+Z5QGT9YdKp/rg4w=
+
+Name: assets/GameSSS/biaoqing/SoungItemBg.png
+SHA-256-Digest: f2/SsLXnk9HZ8YbqO+dcvpZZsY7f8egHKQsRbC/MMmY=
+
+Name: assets/GameSSS/btBiao0.png
+SHA-256-Digest: xq9bo+XaPBk8lwBHpDYXRZFbFm/15pZBoWuOLZC9Bng=
+
+Name: assets/GameSSS/btBiao1.png
+SHA-256-Digest: 9PgOGCDlsxxSigpUtLTdxzeKCNPUOD9uByMqesmj4iY=
+
+Name: assets/GameSSS/btMsg0.png
+SHA-256-Digest: FVJSbSu3xSQNDARfVB8GeediVLLHzxuEEPiw49E0XDc=
+
+Name: assets/GameSSS/btMsg1.png
+SHA-256-Digest: kZ7LptmqdRL54nUmDfwLQACwU1SDbPuv/Z7xgGTJqzQ=
+
+Name: assets/GameSSS/btbei1.png
+SHA-256-Digest: zCkvGktKnPgsNMak0ZstCXDrSBE06JHGcs48b8IluOM=
+
+Name: assets/GameSSS/btbei10.png
+SHA-256-Digest: GIXEB4OtlsUjSJFCd/8Vb31VidOfAAWjfsJ2h/RA+g4=
+
+Name: assets/GameSSS/btbei15.png
+SHA-256-Digest: cyhkBRwfG5PTQ4dSP7785j3X1OfSIQa0dHEbjQYuZ8U=
+
+Name: assets/GameSSS/btbei2.png
+SHA-256-Digest: tIz6mPNRzpaopgUsskZLAZIyojWf9AHGDLnpTMa+ofw=
+
+Name: assets/GameSSS/btbei20.png
+SHA-256-Digest: r7zf/PGmF7SxQ4hTkNJqXTj/6NqutkNTeSbcCNAwizc=
+
+Name: assets/GameSSS/btbei3.png
+SHA-256-Digest: Crlr3keHIjEq8DUaiV1MFYh/Nq/i1pqGAoby7c+Ixi0=
+
+Name: assets/GameSSS/btbei30.png
+SHA-256-Digest: 5ia+0Cy+QTEpX+QxVz7iDFshhnv9ohQn+rEEe2OM9H0=
+
+Name: assets/GameSSS/btbei4.png
+SHA-256-Digest: LYTs3tgoLiphdfH9uQW5hkoueZpR8albOb9ZJdsJwdQ=
+
+Name: assets/GameSSS/btbei5.png
+SHA-256-Digest: zRfumBdUFT7RKJpDl3LehxFqplYXLHY1aDPa2LUOkig=
+
+Name: assets/GameSSS/btbei6.png
+SHA-256-Digest: v9/VQpKW+GmgNH/1OemWKDiABLHHDKJWaYhV8TjAapA=
+
+Name: assets/GameSSS/btbei9.png
+SHA-256-Digest: S6Axt27AKhW4epZOuj2Ct53HIDZylnaZ1SrBJaTnZdM=
+
+Name: assets/GameSSS/btn_all_cancel-on.png
+SHA-256-Digest: mLobny4utUSxiETMvqG16XhIPBFUX2Wxl+2mlsFrHe0=
+
+Name: assets/GameSSS/btn_all_cancel.png
+SHA-256-Digest: 2ef7uHaXgUrEm+vE7aGr6F2hGPzA7E3Kev7vznUxXmY=
+
+Name: assets/GameSSS/btn_confirm-on.png
+SHA-256-Digest: 7zdi4Z4XRKm69iC/rF+j1JQ968yqD2k5lX6trAy84Ik=
+
+Name: assets/GameSSS/btn_confirm.png
+SHA-256-Digest: wuR8/I6YOEPdPK6mxnXlvTPRjz1DEo9t4WDdmUpN9jg=
+
+Name: assets/GameSSS/buqiang.png
+SHA-256-Digest: RdApsGxm6agq74AUnSa6YdjJoUqYSLG3Hs8GED2aqyo=
+
+Name: assets/GameSSS/buqiangflag.png
+SHA-256-Digest: Hquip79vsmPzckmDg/SaGtsr8sHKS8/jaUOoxDxjiCY=
+
+Name: assets/GameSSS/buttontype/button_text_double.png
+SHA-256-Digest: zQIMmgJ15+2xQj1YA4EZf+XZ/PTa2VOeOJA8Dp7Lmeg=
+
+Name: assets/GameSSS/buttontype/button_text_double1.png
+SHA-256-Digest: cBi4pEO5ixvW/Nb8WY+sgLn4q08bRlQun4u2wJNbTP0=
+
+Name: assets/GameSSS/buttontype/button_text_hulu.png
+SHA-256-Digest: yL+vxi3Km/OJd6iQipaqHXxBT8dkDP8XBC+XiTTkHdQ=
+
+Name: assets/GameSSS/buttontype/button_text_hulu1.png
+SHA-256-Digest: 8k7goXYo4YUu2aj9Ddz5vE3U0qDxwubDj79/oqYlpTE=
+
+Name: assets/GameSSS/buttontype/button_text_santiao.png
+SHA-256-Digest: Rxyx8JzhFurII3zFzAvUUT3ozt1RvaWckvstUYzWZh4=
+
+Name: assets/GameSSS/buttontype/button_text_santiao1.png
+SHA-256-Digest: bDAXFHG5QTu3Pc55SSJoVD9o3XZtdhmb7KLqdHZWz4U=
+
+Name: assets/GameSSS/buttontype/button_text_shunzi.png
+SHA-256-Digest: YFDVoPX6edNCK3GydzaZ0VEZvZD5/uF5UMdhJS7o9xs=
+
+Name: assets/GameSSS/buttontype/button_text_shunzi1.png
+SHA-256-Digest: B20Bj7bP1TS6trSOUCYNwmNpcf6u3azSN58jdSwhS90=
+
+Name: assets/GameSSS/buttontype/button_text_tiezhi.png
+SHA-256-Digest: FN5ydKaXGy83kV+2wx647oZExpgdYUX3dK+MgFpKiNE=
+
+Name: assets/GameSSS/buttontype/button_text_tiezhi1.png
+SHA-256-Digest: 7LaJ/oJKl15tl/RCGIdlbbtM2Us4isWpBwNT0wUnzFo=
+
+Name: assets/GameSSS/buttontype/button_text_tonghua.png
+SHA-256-Digest: fX712TW0ZpOzpJfcMzFvNbiSogzhfv39SVsAWHQWryY=
+
+Name: assets/GameSSS/buttontype/button_text_tonghua1.png
+SHA-256-Digest: ueuXB+bNBlVUf4hb2P3yykeKaNtvWvsc1+u5eYPyYNc=
+
+Name: assets/GameSSS/buttontype/button_text_tonghuashun.png
+SHA-256-Digest: Eoj8ZJ+MZaEKXZYa2Kxqce0v450NL71eD1lBP+A5uMA=
+
+Name: assets/GameSSS/buttontype/button_text_tonghuashun1.png
+SHA-256-Digest: EKa08HC+hDQXuEHXou1xoqsyrwCASevFNuDqE828BQw=
+
+Name: assets/GameSSS/buttontype/button_text_wutong.png
+SHA-256-Digest: dOIIFrUDAq0m6RCYINkcpqXwIvBms332QCGlb8PyDm4=
+
+Name: assets/GameSSS/buttontype/button_text_wutong1.png
+SHA-256-Digest: VFuYMN9pu2YW9Rk3omwiLzCvnLe4YQIGgj38CxVDS7k=
+
+Name: assets/GameSSS/clock.png
+SHA-256-Digest: UKHnGxHsSxFUFLbaBEoAdJhNT8Qh0wWddc3MQF7L618=
+
+Name: assets/GameSSS/dz_1.png
+SHA-256-Digest: 170b/5UnNFnkbT3SQPgcFmiYuIrBKem7xF4xNBat6nU=
+
+Name: assets/GameSSS/dz_2.png
+SHA-256-Digest: GKwHkSvQKPso6sw8XgiQZKsAcEN+X6dOYgXk3a4KN64=
+
+Name: assets/GameSSS/fangzhu.png
+SHA-256-Digest: xX3UfCWieJKmRHw+18uUPlgUiLzS4vEUc0jOkzabWA4=
+
+Name: assets/GameSSS/fzwx.png
+SHA-256-Digest: MQDDAG18bX87udzp46JW3b1wNEN9dwy56qL/6flsw9k=
+
+Name: assets/GameSSS/guan.png
+SHA-256-Digest: BzgtyDl2HpxisrDFZm+fLDhnvqdY7Cx1tRd6N0fvDxY=
+
+Name: assets/GameSSS/hl_1.png
+SHA-256-Digest: COF3aWY1lApcuArBeip/vIDqusUpX3wTfrYI+ShFMZw=
+
+Name: assets/GameSSS/hl_2.png
+SHA-256-Digest: N4JG00MT+Ys/edfIcDZqYKzkEnHohWV4Pta9Ok3nmos=
+
+Name: assets/GameSSS/icon_clock0.png
+SHA-256-Digest: 6AzWED8UcLAEnMJkWE+p/EKeVuAiXCVxzN14FqOoF6s=
+
+Name: assets/GameSSS/icon_clockbg.png
+SHA-256-Digest: KHa8EB3h+BAx2NB7FK6AcsoQ9ITw//pq8PgxoANW1p0=
+
+Name: assets/GameSSS/jiesuanbg.png
+SHA-256-Digest: ePtETMdeOmdy1xm7XxVprCIbVxd2b9Anki9WXrJSiNU=
+
+Name: assets/GameSSS/kai.png
+SHA-256-Digest: KCJR3gYILcBV7u4eP0pPm3T/zONeKbJeSUHRBc92slk=
+
+Name: assets/GameSSS/ld_2.png
+SHA-256-Digest: rg5Ysz0HgkIQB32SKGXUDZFupFKl27gWV6m/1QR5m1k=
+
+Name: assets/GameSSS/meiniu.png
+SHA-256-Digest: 6Xq3RIsoOMmYB1IAbADO0b3+n/tTTJnvgaAGU6Em15s=
+
+Name: assets/GameSSS/niu_0.png
+SHA-256-Digest: nF5y8TQRh0nZoQXR5MkJsITUXlvngSx/HFVYz/eMYrM=
+
+Name: assets/GameSSS/niu_1.png
+SHA-256-Digest: k9Tf1GOrckcRcxgwmDpXnLweeTRymeaGQtN1p6RvI8E=
+
+Name: assets/GameSSS/niu_10.png
+SHA-256-Digest: KHGsA0KMIzSKMQmpDijlNZM/nvjn6qb6zjzTGiOKBws=
+
+Name: assets/GameSSS/niu_103.png
+SHA-256-Digest: 8qFYi2KhGlRU9IhELWhhfP3nJfX7hn7ZshNKRufxCTQ=
+
+Name: assets/GameSSS/niu_104.png
+SHA-256-Digest: h94YO2YUXNMK+bIx6fxJ/zRUJceldt3lkp0rPI9HWtY=
+
+Name: assets/GameSSS/niu_105.png
+SHA-256-Digest: OcOBGG38paECe6UUdPJ2lhDZ3ENzharnyM51P/v/BWk=
+
+Name: assets/GameSSS/niu_106.png
+SHA-256-Digest: IoiL7g/27oG254xudyWhwrJAnNHVosme0Ms3UCVqO/I=
+
+Name: assets/GameSSS/niu_107.png
+SHA-256-Digest: MGkZjRtv/sh0QZr5de7+PKMFBbMQACcDm0TnWKLcO0E=
+
+Name: assets/GameSSS/niu_108.png
+SHA-256-Digest: OKdMZAjob7n28TNmn4P0UBNv+nMdtXWWd3BSjiLAwMA=
+
+Name: assets/GameSSS/niu_109.png
+SHA-256-Digest: K4kSr+X9pjsUR9zfqOzcz9NDaNwaOQ27f7Iq06SIvP8=
+
+Name: assets/GameSSS/niu_2.png
+SHA-256-Digest: g60yIEiAqk+GA3vwKwoNISZWQu+509V85B0bZsvG29Q=
+
+Name: assets/GameSSS/niu_3.png
+SHA-256-Digest: D0+NWR/N2TK1AWosXBjoIXfwUGXQRfL5Dhl5jLL298Y=
+
+Name: assets/GameSSS/niu_4.png
+SHA-256-Digest: V4AxhACQi+UIyxf7KZpn8BNzo248bom2MGQ595mnS1I=
+
+Name: assets/GameSSS/niu_5.png
+SHA-256-Digest: 5FG0unFzIZzebX69SPyWX5Yfe1ujTiDamOYZVXlR1bg=
+
+Name: assets/GameSSS/niu_6.png
+SHA-256-Digest: TGHIYTfGlOHqTi8PXpfXJcUCzR80DJuICJ6cn8YT1fs=
+
+Name: assets/GameSSS/niu_7.png
+SHA-256-Digest: eDtMvKRouv0vJIpf6SMwt3VfcdVlswWRHkGflpxQd1w=
+
+Name: assets/GameSSS/niu_8.png
+SHA-256-Digest: fVK3SNuUaOtJHPZg0d15OprKUl6zTQa6vK43qgnlRg4=
+
+Name: assets/GameSSS/niu_9.png
+SHA-256-Digest: g0M/JTTdAc7AkMgIWry+yeem52ZGHnl56bPohghflO4=
+
+Name: assets/GameSSS/niu_Back.png
+SHA-256-Digest: EALVX3ZbD+E8W2WGyHJMgFXeYkmNiDOZydmJg0tUZxk=
+
+Name: assets/GameSSS/off_line_sign.png
+SHA-256-Digest: ug3C05zBK3ksxbHOPhEcRAVLUkdfxLJbo1PHCIg1nIs=
+
+Name: assets/GameSSS/play_shengyin1.png
+SHA-256-Digest: KzFt4MwBgRmBdZAbaRT3n8D+yQadolcWOnIGdXDuGi4=
+
+Name: assets/GameSSS/play_shengyin2.png
+SHA-256-Digest: j17Qfq4viT+EGaORJtRcB/yAG71djZQDWU+9cCxITro=
+
+Name: assets/GameSSS/play_shenying.png
+SHA-256-Digest: XAHg+YIgy3CvKCBPa74ohcGE4Bf05BBSxMEST58MOL4=
+
+Name: assets/GameSSS/poew1.png
+SHA-256-Digest: uRsjV60Fpe8micTUey/oShgztvbrrlWuslQQg4UmDSI=
+
+Name: assets/GameSSS/poew2.png
+SHA-256-Digest: jFG8hUhO7fHyfAKg4laMw5tvYzrxEdUT3gphhTkhus8=
+
+Name: assets/GameSSS/poker_bottom_bk.png
+SHA-256-Digest: SjomckVHA9ZOmhVLU7xMEaSC9f7sdZNUy1TXuj1lqh4=
+
+Name: assets/GameSSS/poker_color_left.png
+SHA-256-Digest: EQdi4xPwqRLBjPb76gDhldn12xo69KGVh2A9t/HcIoY=
+
+Name: assets/GameSSS/poker_color_mid.png
+SHA-256-Digest: +mEdjLNbwtrbBYodtHfefmLShDtD6J+1NNR/Iur7MO8=
+
+Name: assets/GameSSS/poker_num_black.png
+SHA-256-Digest: HlSYhzsstRyQEPw2cixTXo0j99cp63GvKif1vkFYDbQ=
+
+Name: assets/GameSSS/poker_num_red.png
+SHA-256-Digest: 6GKQbyjIB2JYEx5kGbARtUMdmnHjC9QiBcqHHjVSkaM=
+
+Name: assets/GameSSS/px_1.png
+SHA-256-Digest: ypkIcC0JDHl3N018Lyquwz5+b8YlTtO5mMQ1oj5x8mo=
+
+Name: assets/GameSSS/px_10.png
+SHA-256-Digest: C4frU2/xzJtjDHHKPzcAZ+mFQNdZaeI+dHfrY7sE14o=
+
+Name: assets/GameSSS/px_101.png
+SHA-256-Digest: wv+vXj6vLmZfIdEpBVCEp0lJUJJ8DqxgxdTCFEqeFnE=
+
+Name: assets/GameSSS/px_102.png
+SHA-256-Digest: XWHaYWq7qn3NtJIH6eOeDA0lav90fyrRm07WNY6JOwc=
+
+Name: assets/GameSSS/px_103.png
+SHA-256-Digest: EBsjpZc+aTHA8hL63Z45EwXqwAVQcv4VBo5E/BBCEok=
+
+Name: assets/GameSSS/px_104.png
+SHA-256-Digest: 8l+olcKMxn3W6H5r49wl3IFqgu50qhzd2Ur3qIm1t9o=
+
+Name: assets/GameSSS/px_105.png
+SHA-256-Digest: ncog72w+EuIUjNOQUoytyQWrQjEAe+079FPVjKCYzlE=
+
+Name: assets/GameSSS/px_108.png
+SHA-256-Digest: 3F2r0WaavZzeUePGp44rBScphsi81HKZhgBttxwlBxg=
+
+Name: assets/GameSSS/px_109.png
+SHA-256-Digest: 29rpv3hc8NS3a9ke6mfVNCz2iyFkW8vSOeeL9z9ziEQ=
+
+Name: assets/GameSSS/px_110.png
+SHA-256-Digest: 1uE+o/rm988MvgjBes6uLyGbRrLlP4ELbPXSwg73kK4=
+
+Name: assets/GameSSS/px_112.png
+SHA-256-Digest: d4S3Ii2QGYX7ZNiNPmLHVJNMMDeCcisaW9oJ32K3cVw=
+
+Name: assets/GameSSS/px_12.png
+SHA-256-Digest: u3kwoQ6Pyy626HDZgaGun9/WnN+EZtToAI0wpy61c2M=
+
+Name: assets/GameSSS/px_2.png
+SHA-256-Digest: xex14tU2mXOYyLP2MZIKPwvbgafhxLQHUcGb0MB0rY0=
+
+Name: assets/GameSSS/px_3.png
+SHA-256-Digest: KtKU0+p6USP+bP0RU++IkYJvxelqO9VOCgToE51xOpQ=
+
+Name: assets/GameSSS/px_4.png
+SHA-256-Digest: 3KOuCFkMba4cBCQ3igNrAVldo3CKQ3Uc5maIQe/BFmE=
+
+Name: assets/GameSSS/px_5.png
+SHA-256-Digest: Ib5vLfOWVFAAjtpu2rMKlGNYByYgpaPm5tXrGSAAly8=
+
+Name: assets/GameSSS/px_8.png
+SHA-256-Digest: NtR6ivIPs7i4hVBBktoJFESRTP1s8Pu5YfWB8WqgP+o=
+
+Name: assets/GameSSS/px_9.png
+SHA-256-Digest: p0pDZ8YWUwhGq56vB5JOilat3l84Zg/I4LRD7xTwhz8=
+
+Name: assets/GameSSS/qiang.png
+SHA-256-Digest: WHm2pzGGBEQVMHb7eK42Zhpku1l/AQ/xp5Z6IY26ScM=
+
+Name: assets/GameSSS/qiangflag.png
+SHA-256-Digest: J+dhKwnrWODrkt1wv2OrnAnuRMqGDMyOhyM9qjT6PFw=
+
+Name: assets/GameSSS/qingqiang.png
+SHA-256-Digest: MDSAVPzIpFC9Z3xhkLa9i0Gu5oXUBSR4rUQEjjoiWcI=
+
+Name: assets/GameSSS/qingxiafen.png
+SHA-256-Digest: iH/Yd613VNgaCxfLuAfGjydBZkyjGxiIo4KhBpRsQ00=
+
+Name: assets/GameSSS/room1_n.png
+SHA-256-Digest: ZeP+Gpv0qc5UqHUwl/f9DbnYiK1h31D0SqJzqvkrXSw=
+
+Name: assets/GameSSS/room34_n.png
+SHA-256-Digest: ffIzC8ZA59EK8gFsKjFg4esi7JsBq4JTHUEYAq95ur8=
+
+Name: assets/GameSSS/room35_n.png
+SHA-256-Digest: qSVp1Skcc53QJPO4cX0A5k38QhTrwNSLflCbeZS94x4=
+
+Name: assets/GameSSS/room36_n.png
+SHA-256-Digest: n9gW36psWFAvrMPLD7Ma/W/ytCcbKRCdtDX109WRpS0=
+
+Name: assets/GameSSS/room411_n.png
+SHA-256-Digest: q4qEF7cnavGLZm/13pLaZ3AUZFmd8I3o8c/reqFF630=
+
+Name: assets/GameSSS/room48_n.png
+SHA-256-Digest: vb6DCKn2EmeI9qfHPtD0tJgSo3ssGdAUMekt4LU12QY=
+
+Name: assets/GameSSS/room54_n.png
+SHA-256-Digest: yE6X0o/+J+HyEbmD+gjeIDyRKDrVlK3e/lG+3Hl/MFE=
+
+Name: assets/GameSSS/room56_n.png
+SHA-256-Digest: yld2C//MdXAiMO5f3kfqyBdzWHxT0Lfz8/S46jcZddI=
+
+Name: assets/GameSSS/room57_n.png
+SHA-256-Digest: KATcCDiiuv870gk5P/6eHPHEmRg5v3JwCx75iGiD4LA=
+
+Name: assets/GameSSS/room5_n.png
+SHA-256-Digest: YV35rt++OskkzyuIcLK4BtiC3p/VDUF/xX6Uw9rawDA=
+
+Name: assets/GameSSS/room61_n.png
+SHA-256-Digest: wAxsRC9SHMi2hQgignE49YspiSQyE8KyxWnPQex6Thw=
+
+Name: assets/GameSSS/room63_n.png
+SHA-256-Digest: Pp/dpqJc3yfMndXBOQRbzqO8xqQN5vn9WHOOlaeEvg8=
+
+Name: assets/GameSSS/room64_n.png
+SHA-256-Digest: JdoUgNqy2b2L09lRZ8NlAYZ/Bc6sGSGvf9PbD3ShovQ=
+
+Name: assets/GameSSS/room66_n.png
+SHA-256-Digest: k2DRmAyG4j1UXShLniz3nGvW+PcSNzq6dUDcdFiVzCM=
+
+Name: assets/GameSSS/room66_s.png
+SHA-256-Digest: WE+j/6c+Dvgl5rply2NAI31rnFbe9mNTvaBnJFqwTsw=
+
+Name: assets/GameSSS/room67_n.png
+SHA-256-Digest: TSTk+J3etDX7LwqtKIkxjEwv6DyoeGfwgQEzpHreniQ=
+
+Name: assets/GameSSS/room68.png
+SHA-256-Digest: 4YRWwLqREgiOJQinQLakzsKpPc4kuv/g5NeC6DCRw/A=
+
+Name: assets/GameSSS/room71_n.png
+SHA-256-Digest: pvZfIybNeHG3txhQecsU15y+8BqggfoX8hEQeP6dg9g=
+
+Name: assets/GameSSS/room71_s.png
+SHA-256-Digest: i1/6eB+q4WcmtDHnDk+41wWr/3AnG9REtJKoeu0wsAM=
+
+Name: assets/GameSSS/room72_n.png
+SHA-256-Digest: MxcJlED4yFjjOSDR5i9gUTB/b04DwDLF9GRsPplvLTM=
+
+Name: assets/GameSSS/room72_s.png
+SHA-256-Digest: bNc9HDE5ZPDFCmDCBpxYGwYUxzsUsXkexmDUp7eYHOo=
+
+Name: assets/GameSSS/roominfo_bg.png
+SHA-256-Digest: qENKuqRG6Phg+ATsdXMwBjTGtQQGmBCh0tnhZa42DHw=
+
+Name: assets/GameSSS/st_2.png
+SHA-256-Digest: jXv+LTiLBzw/ZsGo4mPQT2DL82fT0R9aojzNCC+meU0=
+
+Name: assets/GameSSS/sz_1.png
+SHA-256-Digest: x8AhGNePHoUPhhHgpD0cAz6d6axrDpLQCI0JDpTZzkk=
+
+Name: assets/GameSSS/sz_2.png
+SHA-256-Digest: FmFMAbzgoHi47irgFgqFDMHSIuicCwEfkFpstnFF7WY=
+
+Name: assets/GameSSS/th_1.png
+SHA-256-Digest: ZETMuYnMxO4BE/TP7lx4ySQdAN4i2WUtzMrVOXftJxk=
+
+Name: assets/GameSSS/th_2.png
+SHA-256-Digest: tnt6Ai5X2bqEc2I/9DRC7DA5ZBAPy4h6o5zvTkCswxk=
+
+Name: assets/GameSSS/ths_1.png
+SHA-256-Digest: 2cIvXJDVM5fynSLN+Elf9iFLMcOg6qnDrtUp1Fyv8XY=
+
+Name: assets/GameSSS/ths_2.png
+SHA-256-Digest: yhsuMbS8pF47Sg3mK0gAtAXtwpho+plOSw1s5EV/HjE=
+
+Name: assets/GameSSS/tsp.png
+SHA-256-Digest: 2Y/2o7orqLo7PA+Wpcs0qCAg6RiZ2K3XvtINnN+vIEo=
+
+Name: assets/GameSSS/tsp_1.png
+SHA-256-Digest: mhB1aN/rFpA2YUbG74tHb21pZ3ZRRV7i3+Sv3i1lLRk=
+
+Name: assets/GameSSS/tsp_2.png
+SHA-256-Digest: L5Y35Y4nZg0H/An0BpuZi9BQioKQsCrdoSi4OcTj4zA=
+
+Name: assets/GameSSS/type_103.png
+SHA-256-Digest: VeudNgd4OtDUnCPtuUGhYQpmefyVDT/EC/B/zhtNeyY=
+
+Name: assets/GameSSS/type_104.png
+SHA-256-Digest: 4MSmXps6VMAYBy6vL5ArtKZ1GeHIUY1E529IcmP4Je0=
+
+Name: assets/GameSSS/type_105.png
+SHA-256-Digest: BGMuX7MLsDYjQ3avfut05I9mOXtL80TT5H0j3tWSsyM=
+
+Name: assets/GameSSS/type_106.png
+SHA-256-Digest: 1N633L8J6ZGSbH5Oa8xMGNlA+SyFTfR/yNTFXFx8C04=
+
+Name: assets/GameSSS/type_107.png
+SHA-256-Digest: ptcR9dNYK/pMc/czKlHWP5GhvUJa1jS4akmDSCzOXl8=
+
+Name: assets/GameSSS/type_108.png
+SHA-256-Digest: pYLIAbTf1Ynd5A4GvlEn3RsesDRdQTxSDuo5POyb6/k=
+
+Name: assets/GameSSS/type_109.png
+SHA-256-Digest: GlcwO0RAWCyfZOojvGKP1XCO7BnkTEE72RFfmHijIbA=
+
+Name: assets/GameSSS/wancheng.png
+SHA-256-Digest: LwBmKUsUOaL2Zy5QYALrSgo5QgCLIOeVHAp32KhUlJg=
+
+Name: assets/GameSSS/wl_2.png
+SHA-256-Digest: RuX68mA7PTpzp71iMwGjNIGvfnkTGaMj8W8tXPf5whU=
+
+Name: assets/GameSSS/xiao17_n.png
+SHA-256-Digest: F4N1ji3IUC7TJw1p4gvm9r1IDDiBlX3PmWiCvaaIk10=
+
+Name: assets/GameSSS/xml/GamePrivateSkin.xml
+SHA-256-Digest: tsU1awBABaYVc9ctJV1+M0vDFt68gfd9v/XK7GsvI0E=
+
+Name: assets/GameSSS/xml/GameSkin.xml
+SHA-256-Digest: pxjXpCpchKOcXd7PZFUXy9yznN9wpOzqQkzXH4MT0fM=
+
+Name: assets/GameSSS/xml/SSSGamePrivateScence.xml
+SHA-256-Digest: TYLcKWUOkfuK67clTiVlpvvNbXpSpXAR9EPXb3DV4gM=
+
+Name: assets/GameSSS/xml/SSSGameScence.xml
+SHA-256-Digest: L8l6o/fNOi66+keE92j3sw3jETPTYRkXL4cs9ESsgCo=
+
+Name: assets/GameSSS/xml/SSSScriptValueStr.xml
+SHA-256-Digest: uJ6bC6Q4yN9bZMCitc2Uv+aB/3iAZb8GU9rlrZ+Zamg=
+
+Name: assets/GameSSS/youniu.png
+SHA-256-Digest: bAkKixZwu9XsmvOJMYKHRxu+XPhLkdrAEZQNWcsX2Jw=
+
+Name: assets/GameSSS/yx1_n.png
+SHA-256-Digest: pvT87n/rLk5gOzjUAazTZUGWWKHPzeTnk2BJvPdjsa0=
+
+Name: assets/GameSSS/yx2_n.png
+SHA-256-Digest: kmRGIvcRDs2IBQuXLK+MpIddBZYJA2Q++PUV6ZP3CJ8=
+
+Name: assets/GameSSS/yx3_n.png
+SHA-256-Digest: iqFBuY/FvJOfezyZc43TNq3Pco7E1JxPJG/JLxgiHNs=
+
+Name: assets/GameSSS/zhuang.png
+SHA-256-Digest: n2AiD6h/4jfOJZR3qXnQNOGBr1doACzBNnsf6RBRA9U=
+
+Name: assets/GameSSS/zhuangHeadBack.png
+SHA-256-Digest: wWrOg2K7Z0+rVGjxPlHjvtaL5HgipEjhqbULFaaC3bc=
+
+Name: assets/GameSSS/zhuangHeadBack0.png
+SHA-256-Digest: TGMnvCJM+cl3HD20r3+GTtUfdozCo4DUfqwE2fImP9U=
+
+Name: assets/GameSSS/zp20_n.png
+SHA-256-Digest: d+NHkSh/L+rRTXvHhyIayU5a30b7nPXbsYWDwcdvh6o=
+
+Name: assets/GameSSS/zp21_n.png
+SHA-256-Digest: q49bQulsSGfj7H6Uw4H53hQbifYsrxLNlTraj/obrK4=
+
+Name: assets/GameZJH/BiBtn.png
+SHA-256-Digest: GhiG69/Bjh5r56UX9Rm3K0aGZGr3+NUBKF38OOT6z4s=
+
+Name: assets/GameZJH/GenBtn.png
+SHA-256-Digest: C3FpUAh84aldYTtYzLHvITZ24UwL3FCd6fIlrM6Tcfs=
+
+Name: assets/GameZJH/GoldBack.png
+SHA-256-Digest: ynoSDEgOsV+Cw8jbguB7yD2oliE4BcDaVdzEZbjKsZc=
+
+Name: assets/GameZJH/GoldBack2.png
+SHA-256-Digest: npoAuqugv5OH5h+Xm410F7GaLrMIyn5QtAi2fLlAwSo=
+
+Name: assets/GameZJH/HeadBack.png
+SHA-256-Digest: e0PlvjIdx3gLRAbBURirHG4CxLNCOIvJxWWIG2ERpQE=
+
+Name: assets/GameZJH/HeadImagic.png
+SHA-256-Digest: goOlPUpl4gsvJNMUiDdO7p/40a53f8HvdXsxJVsDfu0=
+
+Name: assets/GameZJH/InGoldBack.png
+SHA-256-Digest: mIuZzKpmDUSzFUr14YvsXmbdbzAPz6qrBc/TqkQV51Q=
+
+Name: assets/GameZJH/InGoldBack2.png
+SHA-256-Digest: 8tKj53CbLRTsT/UmlvRvoE2kVsCS3eNf7jVdK0IseU8=
+
+Name: assets/GameZJH/JiaBtn.png
+SHA-256-Digest: H7ivExFJ6rYeDvWVZARZ21IKC5caTMqYpNPY5BPG0Yg=
+
+Name: assets/GameZJH/KanBtn.png
+SHA-256-Digest: usQc346vwzxogeTmHAWni5VOZbsRIAG+j72gGYcXvxQ=
+
+Name: assets/GameZJH/Point_Button.png
+SHA-256-Digest: ssWQbprqSd6lAHh5gs0XzF9QSLSIWGUT6S9PMT4As78=
+
+Name: assets/GameZJH/Point_Left.png
+SHA-256-Digest: N6Jlev3sEuBygmlMuIpS/n7WP+2WcJSMqPeJcM9zDlo=
+
+Name: assets/GameZJH/Point_Right.png
+SHA-256-Digest: vlx0mW1CcxtJZVdyWq8e2Dqrb14H//rXy1xNyeWzzEE=
+
+Name: assets/GameZJH/Point_Top.png
+SHA-256-Digest: 0ACLT3ce+l/wxebJpUwp3tlGpttfLWiJSvn4CcGl9+s=
+
+Name: assets/GameZJH/QXBiBtn.png
+SHA-256-Digest: H/3pnEJfNVhVf8okOChVU+QGoP4vvtMPY7EXHZTeDS4=
+
+Name: assets/GameZJH/QiBtn.png
+SHA-256-Digest: VZ5XMeQShcUreROJrQFij7IWbF9bTcO8NXz4+wXitfs=
+
+Name: assets/GameZJH/ScencePrivate/Back.png
+SHA-256-Digest: X8QeN0cUCms4vzIIhFdqv2kiJMQZX9MU12F63LY6ktQ=
+
+Name: assets/GameZJH/ScencePrivate/headbg.png
+SHA-256-Digest: vsZzYPm7iYPJRpKrNCVtsAd5CPbcO+DbYdHtOX624N8=
+
+Name: assets/GameZJH/ScencePrivate/over_win.png
+SHA-256-Digest: Si0TQDdoO+L/F+oWqQJ6OWcS2NZkzKeJmQ5uSOaFYCE=
+
+Name: assets/GameZJH/ScencePrivate/over_zuijia.png
+SHA-256-Digest: E+RjDT5fhfrhr51GNdOeRkpSKdFZ76FpBNDYgbKnnqM=
+
+Name: assets/GameZJH/ScencePrivate/player_info_bg.png
+SHA-256-Digest: fNnrp3q/tmy5qAJfDl402EsEEGD8E4hqA7hnAKWZgAM=
+
+Name: assets/GameZJH/ScenceSet/btn_checkbox.png
+SHA-256-Digest: sVbM1kkJBZbf4rVuB9RtyWmThFa4i3Sp2lzXtZeMBSQ=
+
+Name: assets/GameZJH/ScenceSet/check_mark.png
+SHA-256-Digest: DEO88PpaSVayxAZklhiJFHS4gVF1sAg7rgHNvIUUBWo=
+
+Name: assets/GameZJH/ScenceSet/fangkaxiaobeijing.png
+SHA-256-Digest: z9SULyqzwxaJxajeJNy9X+SfyGKVaMCk7it09Ntq1Hs=
+
+Name: assets/GameZJH/ScenceSet/popBack.png
+SHA-256-Digest: NcXyB/KWrxdNz9Rs9mn68vprYQOMryLgxMpWgP0Bt30=
+
+Name: assets/GameZJH/ScenceSet/setting_bar.png
+SHA-256-Digest: q/aIqAtp4++7AFJ5hVXRLkxoDohDJFCx0KJ78NxRCyU=
+
+Name: assets/GameZJH/ScenceSet/setting_bar_bg.png
+SHA-256-Digest: cmd9o795fH6+8ZaR4JSvR9P/BmwdbJln8V96HGOoD4I=
+
+Name: assets/GameZJH/ScenceSet/setting_btn_apply.png
+SHA-256-Digest: vk4uWeNK6XbkV9YzR0CyVG19zC26aNw39+GXP7BuGjk=
+
+Name: assets/GameZJH/ScenceSet/setting_dice.png
+SHA-256-Digest: rC6LBKY+Owq+FXbq/jnIoVnK7TlviRWk1wHj8yI0a3I=
+
+Name: assets/GameZJH/ScenceSet/setting_max_sound_sign.png
+SHA-256-Digest: u+qIkK93ZocQMqa/krGBAHMwMURBol+FNUQyAW6CRpc=
+
+Name: assets/GameZJH/ScenceSet/setting_min_sound_sign.png
+SHA-256-Digest: KYMQcO++wZjtQx2piipMBv6s3+GwjmtdpPTSfrYAQr4=
+
+Name: assets/GameZJH/ScenceSet/setting_music.png
+SHA-256-Digest: 2nuleo1MvRoTMVVz1tDI0VZpJNm9AYIhd1hjVbZT1AQ=
+
+Name: assets/GameZJH/ScenceSet/setting_segment.png
+SHA-256-Digest: Lm43Fhh4v7jgeZ2zJA19iPsHYNzdRI7C0SIYNwHLiIM=
+
+Name: assets/GameZJH/ScenceSet/setting_sound_effect.png
+SHA-256-Digest: 2XcWIsds59XygoqpoKWIhU2jzB9WkXmRsUxyiYQz8MI=
+
+Name: assets/GameZJH/ScenceSet/setting_title.png
+SHA-256-Digest: QhI4Yu0zNKfnXlCrFFjBeGnihhvqYcz3GWS3AjCmE3E=
+
+Name: assets/GameZJH/ScenceSet/settingnewfangyan.png
+SHA-256-Digest: MwVemUc+lOrg0t8+ap02NhLZirKXhOZGyF9CmtOMVm0=
+
+Name: assets/GameZJH/ScenceSet/settingnewputong.png
+SHA-256-Digest: G08hMZaMeeVqAPr6rOUhygKS04vSTPSgQSu/6r84A6Q=
+
+Name: assets/GameZJH/Sound/Audio_Magic_1.mp3
+SHA-256-Digest: x7jEl+EQOMJKi/I159yj6G3pIjUOOzb2pUI/xideiDE=
+
+Name: assets/GameZJH/Sound/Audio_Magic_2.mp3
+SHA-256-Digest: gqQau1FWNYSJ8QVBxxeHUz80XUbGHtkaz9qyh1wuM8Q=
+
+Name: assets/GameZJH/Sound/Audio_Magic_3.mp3
+SHA-256-Digest: w9tcynNpQikH+5kBCelXefhK1dCVoGhLXmSGY91hhdE=
+
+Name: assets/GameZJH/Sound/Audio_Magic_4.mp3
+SHA-256-Digest: IjndrRQnBXhYoCsTL4rfV+f1DgRtAJhr1Q061osWw9w=
+
+Name: assets/GameZJH/Sound/Audio_Magic_5.mp3
+SHA-256-Digest: 2MsLaqREoM3vvrCAb3P9s8IcgWtG6CTaO0/rQGtpyT0=
+
+Name: assets/GameZJH/Sound/Particle_Money.mp3
+SHA-256-Digest: oRj4T/HtMj255nHWSotx7L48Xlz1D5idUxAAaUZcKeg=
+
+Name: assets/GameZJH/Sound/addsub.mp3
+SHA-256-Digest: rCAG7NolWrtTAnxxAisKPmSGhrsgbuNTXFpvMZzalIE=
+
+Name: assets/GameZJH/Sound/audio_back_music.mp3
+SHA-256-Digest: rfv4OtEE60nwThaWy5U6k1uiJPo+hof4ts6LA2bfvr8=
+
+Name: assets/GameZJH/Sound/audio_count_down.mp3
+SHA-256-Digest: Qx6KskTXlM9rv5Xby19r0+dGh5Ync+dR7ae3lTMglCE=
+
+Name: assets/GameZJH/Sound/audio_lose.mp3
+SHA-256-Digest: p7j+13szyLkd2IS35nItetViWChMwkHtfXfoh4Z7bEE=
+
+Name: assets/GameZJH/Sound/audio_raise.mp3
+SHA-256-Digest: PaEMII6RTpOAHQUmTpUzUFNNaOQv7z/53WANsvUmZ3w=
+
+Name: assets/GameZJH/Sound/audio_raise_100w.mp3
+SHA-256-Digest: zHHm+7P+hHIw7pbsrfCy8xiHjYZNbs44xNQbHS60IRQ=
+
+Name: assets/GameZJH/Sound/audio_start.mp3
+SHA-256-Digest: dPc87mtS00iF9pDIVA9e7taamJbKW1894UP/E0M6nTk=
+
+Name: assets/GameZJH/Sound/audio_win.mp3
+SHA-256-Digest: qncmUqzlsgTkuZrLIT1hpin+ye/tgGqYN8grxErfFMo=
+
+Name: assets/GameZJH/Sound/backmusic.mp3
+SHA-256-Digest: 99hwRp7BfovVmyQ2CCIGanIb/rloNP449cutq64jFak=
+
+Name: assets/GameZJH/Sound/banker1.mp3
+SHA-256-Digest: kZYu3q50eMkjDeTlxqbx5uG0KDLPE0YciP/nqIgDJW4=
+
+Name: assets/GameZJH/Sound/banker2.mp3
+SHA-256-Digest: pO9FZM/REA7Qi/SWnCL5egBuRUEUMaEQ1PLYUl0a+nw=
+
+Name: assets/GameZJH/Sound/cheers.mp3
+SHA-256-Digest: /cM5zU8PeTaX1LErImDXUsVluHsPkPK/RHAvzh42Zec=
+
+Name: assets/GameZJH/Sound/click.mp3
+SHA-256-Digest: hXLenGFd3+sSpHpx2iIUB/v7ITgq6vAqLS+vDxgyFqQ=
+
+Name: assets/GameZJH/Sound/coins.mp3
+SHA-256-Digest: SjBgVbA86LP2/aqjol3VUnXGQzqSRu2FSzlIToFxRJQ=
+
+Name: assets/GameZJH/Sound/f_add.mp3
+SHA-256-Digest: bca2Wv9/kOPfunaokPrlW6T1s2lg9gePsbxjaLFwVSs=
+
+Name: assets/GameZJH/Sound/f_cmp.mp3
+SHA-256-Digest: 5ESBHsYfm6c/15EIx2uJFC7irtMM1KI73Xcl15fCJYY=
+
+Name: assets/GameZJH/Sound/f_follow1.mp3
+SHA-256-Digest: Gvog7A35Ttr/FzWco3N/6RikbFR1N+TCOi7VBcS1dOU=
+
+Name: assets/GameZJH/Sound/f_follow2.mp3
+SHA-256-Digest: 6IxkoRbW6LeiaOuCygxMgNmyc7wt6vwVLmf5tEuaQnI=
+
+Name: assets/GameZJH/Sound/f_follow3.mp3
+SHA-256-Digest: YStytTMjQjQ5Q1KDNErrQlf/bxXeBPMSvZZ4qjq0Nfk=
+
+Name: assets/GameZJH/Sound/f_giveup.mp3
+SHA-256-Digest: 2q507VJwDkN2vDP6E+gSIdGdnPxKYDrIdLTZXpbWcrM=
+
+Name: assets/GameZJH/Sound/f_ready.mp3
+SHA-256-Digest: KTwaqO1Ni64mh0jtW9uiqu1WoU1ooxkin5ygDppp5JU=
+
+Name: assets/GameZJH/Sound/f_see.mp3
+SHA-256-Digest: Ijg0JWeRKrP8/45W76SLoh9UJpNkKjLOEL1Hr40jYiI=
+
+Name: assets/GameZJH/Sound/fapai.mp3
+SHA-256-Digest: p2YuARBTAlJ/qT7qFqteZZTloYUlM5yO9i6RTIDBpwg=
+
+Name: assets/GameZJH/Sound/fix_msg_1.mp3
+SHA-256-Digest: pFHrj/09dFytbOWDdGny0c4KDQ1yt/2sFTX9xYfmS/Y=
+
+Name: assets/GameZJH/Sound/fix_msg_10.mp3
+SHA-256-Digest: 2nWod6+N1zHwtSfV8Lkkozw11f+0rYcEePnjI/ILbcQ=
+
+Name: assets/GameZJH/Sound/fix_msg_11.mp3
+SHA-256-Digest: JLELWVlI9z5IzaUPfiNE4z8n6X7p9D7JDm+0jWIpdQc=
+
+Name: assets/GameZJH/Sound/fix_msg_2.mp3
+SHA-256-Digest: OCmuW44T92cYMzn8CXCsZBKg2ssZpSpAM71ypmQg8oY=
+
+Name: assets/GameZJH/Sound/fix_msg_3.mp3
+SHA-256-Digest: HmMO6PUudRgcdmKADUFfGpI96VWM4AuZXyD0n1fp+q4=
+
+Name: assets/GameZJH/Sound/fix_msg_4.mp3
+SHA-256-Digest: c2LlroC98bQQn7TI4IKP0vlqwQpow9u3qsaKExu3WbY=
+
+Name: assets/GameZJH/Sound/fix_msg_5.mp3
+SHA-256-Digest: Bojj19H5gmivjdGG7LWiGGxgchOVUEAjb1UxEDtUFXU=
+
+Name: assets/GameZJH/Sound/fix_msg_6.mp3
+SHA-256-Digest: 0RbGKsXCWPWgIss+4R/ZmBgFlN+eQUF91u6pNZOVIGQ=
+
+Name: assets/GameZJH/Sound/fix_msg_7.mp3
+SHA-256-Digest: wmr2RrhfqkNPih7F8JHjyTxMtAQ9Mr3DU3rYsYxf9Dw=
+
+Name: assets/GameZJH/Sound/fix_msg_8.mp3
+SHA-256-Digest: sfsZS+MUmGUvDq+b5rQaxGK3uovvJuUwJpl1gLd+Ug4=
+
+Name: assets/GameZJH/Sound/fix_msg_9.mp3
+SHA-256-Digest: QWPXzHwiVrWMZ6eDdz0gGTczcf16UNkF6U/4KyquBAM=
+
+Name: assets/GameZJH/Sound/fortunewin.mp3
+SHA-256-Digest: ZACwhKidkdw3gd0GLwzerLFfbpedCAEDYGS7Q37zkgQ=
+
+Name: assets/GameZJH/Sound/g_addchip.mp3
+SHA-256-Digest: URAmYpCeHaQIgg0IFR+R6lf8P67IxgLFEDINf6/FTl4=
+
+Name: assets/GameZJH/Sound/gb_cmp_fire.mp3
+SHA-256-Digest: 9uLAHOvbNapgVsEylziCKtasvmW7CxZQ04aoz5D9J+Q=
+
+Name: assets/GameZJH/Sound/gb_cmp_light.mp3
+SHA-256-Digest: nq6U5S12qSSFxGA58MzeFzuqo0qmCarQ835V5b10Tvg=
+
+Name: assets/GameZJH/Sound/gb_coinmove.mp3
+SHA-256-Digest: G+5fNVBxS00LNtSLr6W6XRnA4knYtnfXOIDyTtK88J4=
+
+Name: assets/GameZJH/Sound/gb_mallin.mp3
+SHA-256-Digest: o/wC+JQylVjhEbVE17DchZwgh9LD/iMTBETdnah1zbw=
+
+Name: assets/GameZJH/Sound/gb_mcall.mp3
+SHA-256-Digest: PJAMyjXTPoIHvnKh2gTyzBfTbAkbIiB7qcxW4q+ZreU=
+
+Name: assets/GameZJH/Sound/gb_mcheck.mp3
+SHA-256-Digest: l7IeUPEiTir8m0V2DDiroBEEJdxK/LytF/zdmfT997g=
+
+Name: assets/GameZJH/Sound/gb_mcmp.mp3
+SHA-256-Digest: DU0k4MK18UDMe0/m93+8LNIqgli1nBJ7VVm5CwoA54E=
+
+Name: assets/GameZJH/Sound/gb_mfold.mp3
+SHA-256-Digest: 1lshW5Yj8tY+4L92w1wIeKALXKtw6UT8yt54OYIwq2k=
+
+Name: assets/GameZJH/Sound/gb_mraise.mp3
+SHA-256-Digest: CFeWseDpVUf2kxRJYfr/Q6gJnS0HnKACfJOWHq54kPo=
+
+Name: assets/GameZJH/Sound/gb_wallin.mp3
+SHA-256-Digest: gR+Mx9ASoF9NEHAwUSuDtL2A2Y/xBshYn7U5RCSMRm8=
+
+Name: assets/GameZJH/Sound/gb_wcall.mp3
+SHA-256-Digest: vVz5SRecpKvenCZIhWu1Hmm3oxmsvsh17s9PoHm7VKk=
+
+Name: assets/GameZJH/Sound/gb_wcheck.mp3
+SHA-256-Digest: XktzjmCzZIrxgd8tN74tYHXlCdPBVNKi9TRzUXsvdLs=
+
+Name: assets/GameZJH/Sound/gb_wcmp.mp3
+SHA-256-Digest: 0VYqyf3ATCHBV6fE7ueq2Gs45KMtJ529YjecDadd5Bw=
+
+Name: assets/GameZJH/Sound/gb_wfold.mp3
+SHA-256-Digest: fgCMLdKAXMRIQmQuSXJKYo3TsQS1iijjWNvB2ZNjhzY=
+
+Name: assets/GameZJH/Sound/gb_wraise.mp3
+SHA-256-Digest: KIDKPzInJbMZIwYAvDRyxQ0/jVaSgGvib/wQxKxUZ1I=
+
+Name: assets/GameZJH/Sound/haudio_card.mp3
+SHA-256-Digest: XmeoQogunICq5Zv4a8yxgPKUix2qm8ZHNB7AYtm4H1U=
+
+Name: assets/GameZJH/Sound/haudio_raise.mp3
+SHA-256-Digest: Ks6Oqril8u2eU6pLj7Jb+EveeftRLK/An1dpY6yz2C0=
+
+Name: assets/GameZJH/Sound/lose.mp3
+SHA-256-Digest: Ld9q5NUSFo+Zu8WDrSuX/Vj24iqwxX3CxwMUDjRCJHw=
+
+Name: assets/GameZJH/Sound/m_add.mp3
+SHA-256-Digest: 3bAMKv9hqeCeAyG+HSXxb2CahedKobHnxwkZdJG2xqw=
+
+Name: assets/GameZJH/Sound/m_cmp.mp3
+SHA-256-Digest: 7pGkquAdxoeVV/NxBpy9gRE8vJ8W4+1inQJfY1VFRZQ=
+
+Name: assets/GameZJH/Sound/m_follow1.mp3
+SHA-256-Digest: /L3qq2FTJ5IGx0udgzVGbKtLd8oZiHFMm4M3/3Sy5DA=
+
+Name: assets/GameZJH/Sound/m_follow2.mp3
+SHA-256-Digest: 4/eVbof54HXT5SQOGRV9exlCwfy8gIginTqfLylV2qw=
+
+Name: assets/GameZJH/Sound/m_follow3.mp3
+SHA-256-Digest: G9fn3aF4llfr+EuYauRsZzcA9HXP/xh/q6RM2Mbt73U=
+
+Name: assets/GameZJH/Sound/m_giveup.mp3
+SHA-256-Digest: ns15bnsw8vCsXwag+6qZQFrXF5jQc/zJQsZ3H6VI/r8=
+
+Name: assets/GameZJH/Sound/m_ready.mp3
+SHA-256-Digest: 8rcANEiXBounfZVfnCedm/fZybG+HX1GK1lSqKl8Bj0=
+
+Name: assets/GameZJH/Sound/m_see.mp3
+SHA-256-Digest: myOy+WBZNUPipxH4WP30/+qeqphqnpAJtyNya6Mdj6s=
+
+Name: assets/GameZJH/Sound/manbull0.mp3
+SHA-256-Digest: MfpfVPkNkslhmoifk6mMVTHJqDoGo77XBLdTJPupArQ=
+
+Name: assets/GameZJH/Sound/manbull1.mp3
+SHA-256-Digest: sELmdH6iaCmlGJhAgR7k9nqjqY01zNqhZ/HRtVtxH0U=
+
+Name: assets/GameZJH/Sound/manbull10.mp3
+SHA-256-Digest: kGs5Uo0/f4P9okTo1j8GplyWp2tiHKUsaymTYdEbM0E=
+
+Name: assets/GameZJH/Sound/manbull103.mp3
+SHA-256-Digest: fBnQV4fdcLrxT/A+5NR7sMUQ2YG3mEQINcAGVVND0u8=
+
+Name: assets/GameZJH/Sound/manbull104.mp3
+SHA-256-Digest: lycylwQmqgjtH7LNhc7yx9xIAqnQwfanrSFCMc9pi+w=
+
+Name: assets/GameZJH/Sound/manbull105.mp3
+SHA-256-Digest: kwgdjJd4lREHbNQ/9OKcmlUfyrwRsXSQj4hzYsQuGNA=
+
+Name: assets/GameZJH/Sound/manbull2.mp3
+SHA-256-Digest: 60vDCPqlwsnu522GhpZ4y2vSdMIDY1iA9SIGi6Mk6gY=
+
+Name: assets/GameZJH/Sound/manbull3.mp3
+SHA-256-Digest: GW4sPpjf0V+90CfLBDIVkgKtfk0WPCNAXJZICld3eM4=
+
+Name: assets/GameZJH/Sound/manbull4.mp3
+SHA-256-Digest: t0HSYqofjbCZOVQRzkrGV1lAjp5LLC/MDZasM1eZsMA=
+
+Name: assets/GameZJH/Sound/manbull5.mp3
+SHA-256-Digest: KIkMsZquyE0SbJPVWJUvSG1H+Lun4ctO79pG//nziL4=
+
+Name: assets/GameZJH/Sound/manbull6.mp3
+SHA-256-Digest: pJmoeetdd+N3QwXcRALQjyHqZHHlh0LTvwQFSCOH5v4=
+
+Name: assets/GameZJH/Sound/manbull7.mp3
+SHA-256-Digest: jO6dFa4FYpBdlpab3E/pTmk55eNGFjST6XFRpiDlltY=
+
+Name: assets/GameZJH/Sound/manbull8.mp3
+SHA-256-Digest: vdcd2MlkpgZH4Eiyhcbe/9JItvYmWDLaXw+bXr/OmNM=
+
+Name: assets/GameZJH/Sound/manbull9.mp3
+SHA-256-Digest: qBk9tWoDCv2VqQRy1h3sii4f2Dup+KB7hInc3APuY58=
+
+Name: assets/GameZJH/Sound/pm_bet.mp3
+SHA-256-Digest: IOkHkIwjQMkIM1nrIIqyjiaT6gHQYKjXI8sj/aifyjI=
+
+Name: assets/GameZJH/Sound/pm_betSound.mp3
+SHA-256-Digest: tp1EmTkTOp1wkGmGxT98zp+Cgd4+nLi8ewcvOOjawtM=
+
+Name: assets/GameZJH/Sound/pm_betbgmusie.mp3
+SHA-256-Digest: G6burEl08IQE4QqiuiY3x6TSrgcmt3VdwEzmHlzbzm0=
+
+Name: assets/GameZJH/Sound/pm_cameraSound.mp3
+SHA-256-Digest: EDksvyDxG+IiiYCz9dg5UwYnmu7EZolsX9e08peSaWI=
+
+Name: assets/GameZJH/Sound/pm_go.mp3
+SHA-256-Digest: sFxLgqjernCWPOZQDQItgTh5/3QHttXgg+jJ/Vt3Yiw=
+
+Name: assets/GameZJH/Sound/pm_lose.mp3
+SHA-256-Digest: zSo2zDIXjRKJtpvbSHQhGbn0sATB1WZnlIp0Ti1u5t8=
+
+Name: assets/GameZJH/Sound/pm_ready.mp3
+SHA-256-Digest: KhwIrQhOzd673CHGKmk/onR8vRFRs9NgpZEe0yF5reY=
+
+Name: assets/GameZJH/Sound/pm_runbgmusie.mp3
+SHA-256-Digest: KdO3SbDsrm2mcuYraApTqdRj1fejNM7Pwst1ocXsI2k=
+
+Name: assets/GameZJH/Sound/pm_win.mp3
+SHA-256-Digest: sHz8x33+pscmi4Ep+EztffgKRBpYqGLwsSalE298ncQ=
+
+Name: assets/GameZJH/Sound/rotation.mp3
+SHA-256-Digest: u9dmWQ45ayjMRUIJPx5ZhWXy9NNMrXcUyl9qCjei718=
+
+Name: assets/GameZJH/Sound/slotbg.mp3
+SHA-256-Digest: czYdhsKZKF+gewzUt34knIf7XnclZw9wILDURjyuEDA=
+
+Name: assets/GameZJH/Sound/spinbutton.mp3
+SHA-256-Digest: grsJ+d8HXdFC2868jx3FZVlSn2sewFl2hXB8Ph2vV9E=
+
+Name: assets/GameZJH/Sound/spinstop.mp3
+SHA-256-Digest: sh8VsWWU7CthUDIh4U4ntS62IfsTYbzQnysAutGDl0E=
+
+Name: assets/GameZJH/Sound/tomato.mp3
+SHA-256-Digest: sjW0oXjZh53iTPtneuBKQ+NJ+Hl0KDqkAX78SuWXlII=
+
+Name: assets/GameZJH/Sound/win.mp3
+SHA-256-Digest: aRMo86nU6d83SL/AAuK4ZyGl4cTJVyXvnGiklFXsRCY=
+
+Name: assets/GameZJH/Sound/winmoney.mp3
+SHA-256-Digest: yJD1HLQWtJdNd7DX4qG8ri13ZKtmoxgJ/DAE3XDWhAg=
+
+Name: assets/GameZJH/Sound/woman4bomb.mp3
+SHA-256-Digest: gBOgMIH7X4HQSR4pj44Hn7oobtZ/7Wer4yhprpcxOwY=
+
+Name: assets/GameZJH/Sound/woman5flowerbull.mp3
+SHA-256-Digest: ntUPilV+t9btTPdDyyL2nMkYO3xCoXR3pnFIikrO0eE=
+
+Name: assets/GameZJH/Sound/woman5littlebull.mp3
+SHA-256-Digest: mwWCiOJetzQED+OuFr0Kgq8hHHf4bLQmhiKyQNV7gOE=
+
+Name: assets/GameZJH/Sound/womanbull0.mp3
+SHA-256-Digest: Z1D+CVTqs0w808qMl1Q3ozCx852l0sndmHVhnKZ+NiY=
+
+Name: assets/GameZJH/Sound/womanbull1.mp3
+SHA-256-Digest: Xq4CqinY52OA4yyDIT1ft/Ae3z7WEtyQ+aDKaQ6UATY=
+
+Name: assets/GameZJH/Sound/womanbull10.mp3
+SHA-256-Digest: ugR2u2JWKakeJ/db6J1yEjJ7UomFBVaLaO8MrPn8Fvg=
+
+Name: assets/GameZJH/Sound/womanbull2.mp3
+SHA-256-Digest: DZCDv+h4zrnhtbgi7Kzf/Y0FfKm+YRFiFCa01qzM6JM=
+
+Name: assets/GameZJH/Sound/womanbull3.mp3
+SHA-256-Digest: DkGfzXdpU+GL6Rb8cF2KJ7ee87SDvdxXau/nYCYq08o=
+
+Name: assets/GameZJH/Sound/womanbull4.mp3
+SHA-256-Digest: dliGVeEtxAz6OVaFhaf3kMwS4mAVfAxnGLWIx+9PRSQ=
+
+Name: assets/GameZJH/Sound/womanbull5.mp3
+SHA-256-Digest: FIfdO8OVGs2eCro6tVkxAa0jvPCCvxwwBiF2uUMnlBY=
+
+Name: assets/GameZJH/Sound/womanbull6.mp3
+SHA-256-Digest: sp9i/xezDo0kw5DVlTPIUEwHlXi/kBkoQmzJaDByRd8=
+
+Name: assets/GameZJH/Sound/womanbull7.mp3
+SHA-256-Digest: xrFODjaXLe0dEB6Vc/5CbAeLxYfE+lof2ZyW2g8OoUI=
+
+Name: assets/GameZJH/Sound/womanbull8.mp3
+SHA-256-Digest: ORJjK+alCpo1ys/1L1kTd8WLUn59JTpyygf/m4kp6qo=
+
+Name: assets/GameZJH/Sound/womanbull9.mp3
+SHA-256-Digest: dzeug129KWOuajf2i8BLWFFUyfMvykm6nuslikQQC9M=
+
+Name: assets/GameZJH/Sound/wrc_add_voice_1.mp3
+SHA-256-Digest: 44ISAjiDW3b1mJj+C4QUEYYB/XkQb+YRw4oHxhSbBs8=
+
+Name: assets/GameZJH/Sound/wrc_time.mp3
+SHA-256-Digest: 5LFBXXVzgdwgJkTz3DBVkv0C34nzNkKgAcMGkxb2pyw=
+
+Name: assets/GameZJH/Sound/wrslot_add_0.mp3
+SHA-256-Digest: VoSbwCWun/VCl2t6YKZWotE+DrEpdjgx1JD+DSjhH64=
+
+Name: assets/GameZJH/Sound/wrslot_add_1.mp3
+SHA-256-Digest: 7OJdZdPDQHiKttYR5tBivcTQeldHIqsaUi9DMDvBMmQ=
+
+Name: assets/GameZJH/Sound/wrslot_add_2.mp3
+SHA-256-Digest: GFhJZmpAWQ8IDrh7kK5bRjoLfEspqo/idVqllqLpASA=
+
+Name: assets/GameZJH/Sound/wrslot_add_3.mp3
+SHA-256-Digest: wrTDeKL4jGzYj7w0RuKHnNCRITjFodNyIPdDcpxwYhA=
+
+Name: assets/GameZJH/Sound/wrslot_add_4.mp3
+SHA-256-Digest: 725Xf5daWbcUbFs2HXLPN/wgwnyR86fklxU9gkAfw9U=
+
+Name: assets/GameZJH/Sound/wrslot_add_5.mp3
+SHA-256-Digest: X9B71vJEo5Y3b68A67U78j0FVZphDynfqhm8t/sZunI=
+
+Name: assets/GameZJH/Sound/wrslot_add_6.mp3
+SHA-256-Digest: LaUv4aRSyztDK84IRaEnk6QHA2H5p9C490JEh8fHa1s=
+
+Name: assets/GameZJH/Sound/wrslot_add_7.mp3
+SHA-256-Digest: RF3MH7SuSbVBuGB9u5u+r+OwaP94oT6O32lcX68E4ns=
+
+Name: assets/GameZJH/Sound/wrslot_bd_all.mp3
+SHA-256-Digest: IwRKsLFzQ1gJ2dHCo0kifLsH+GKPZG5FQLIFxuoiDUI=
+
+Name: assets/GameZJH/Sound/wrslot_bd_kaihuoche.mp3
+SHA-256-Digest: ShVjKsxggGaSnFgNlE/VOHec+aU9ncUQRyoqdLzJ76s=
+
+Name: assets/GameZJH/Sound/wrslot_bd_sanyuanda.mp3
+SHA-256-Digest: SqpEVNoz8oPfr2ML//pIUWg1X70Tli1bXkA7p3HH/+0=
+
+Name: assets/GameZJH/Sound/wrslot_bd_sanyuanxiao.mp3
+SHA-256-Digest: GNSZEZwUpgZm5kZ3/8gxweXcYDHilwrn+tak6kjT/as=
+
+Name: assets/GameZJH/Sound/wrslot_bd_tiannvsanhua.mp3
+SHA-256-Digest: 3uOHwA49cEAVu8SFxRsH6blqrDtkn25La6mt06vb/WE=
+
+Name: assets/GameZJH/Sound/wrslot_bdlight_0.mp3
+SHA-256-Digest: cuoPNVcRy/hC7BNwgV7S57L9xQsRHDGIvm/mBGURJbI=
+
+Name: assets/GameZJH/Sound/wrslot_bdlight_1.mp3
+SHA-256-Digest: /+/EIZ8KWZemTsC9mCAcBI4DWHV6ec84/obAovRXCxw=
+
+Name: assets/GameZJH/Sound/wrslot_bdlight_2.mp3
+SHA-256-Digest: oSFdO6J4kknzXictkgsezh3Z24ylSjMSFba4nhO3gHQ=
+
+Name: assets/GameZJH/Sound/wrslot_bdlight_3.mp3
+SHA-256-Digest: CYnlbVJZc/9w74AhwvhHeacRKK4MzK26TlxMYGkmlKA=
+
+Name: assets/GameZJH/Sound/wrslot_bdlight_4.mp3
+SHA-256-Digest: FLcD58Fptgny11q3LcZXhOEw+qMLyqUJBcqGDkOXgYI=
+
+Name: assets/GameZJH/Sound/wrslot_bdready0.mp3
+SHA-256-Digest: 0JnhKAZuAw8OLsqImsno7nURWnr3u2VA/7Wf1AbaQGI=
+
+Name: assets/GameZJH/Sound/wrslot_bdready1.mp3
+SHA-256-Digest: rVK73WK38JK/w8ISmDpiwNqqqbxmCoSDGyWjBnhog0U=
+
+Name: assets/GameZJH/Sound/wrslot_bdrun_0.mp3
+SHA-256-Digest: 0kwwrz7sL688e/Rsea8kau+FUxYtFdOpgWkmBWkD0NE=
+
+Name: assets/GameZJH/Sound/wrslot_bdrun_1.mp3
+SHA-256-Digest: SIYys7SMNmt/Axzb3e1OAArliLLiKA02BkUmtgsRQwg=
+
+Name: assets/GameZJH/Sound/wrslot_bdrun_2.mp3
+SHA-256-Digest: rUAmVcMCXuROsvUb5pbwYZHuF+QsSCUiEZsCYQuceTc=
+
+Name: assets/GameZJH/Sound/wrslot_bdrun_3.mp3
+SHA-256-Digest: eHPFhXKuSI2hlT6j+PVGJSOfJoaB9LhgD1NeJk5+UBM=
+
+Name: assets/GameZJH/Sound/wrslot_bdrun_4.mp3
+SHA-256-Digest: yDNEazCN8EAUEdFJ3Xkb80dbmlxr4tNwtJ9ZIm17LS0=
+
+Name: assets/GameZJH/Sound/wrslot_collectgold.mp3
+SHA-256-Digest: q985WC9gBZRP9mR/y9BQFJKZMMe+WCEYs45n+feEHy8=
+
+Name: assets/GameZJH/Sound/wrslot_dd_0.mp3
+SHA-256-Digest: jQ2+fi0ChjnMMe4w1j/kAEP9SBCZQpg3/Hhi52ILygc=
+
+Name: assets/GameZJH/Sound/wrslot_dd_1.mp3
+SHA-256-Digest: IxNBWrtV1RE6f6lrsSYowmtTPeW7bNXy6pDkFkAKaY0=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_0.mp3
+SHA-256-Digest: eN+vBTeyvD549X+hoHjWd6peDorAUdoqAXpOFE+RNU4=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_1.mp3
+SHA-256-Digest: lxYj1lBIfGjCmsOuxof2Q+sW6NQMLRkZNXslhKKaMGM=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_2.mp3
+SHA-256-Digest: o22i7uhF8aAs6sSrAg5K3NQLRn+EMnjr2GtaPjT/XY0=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_3.mp3
+SHA-256-Digest: OsgU2kmuiWgtf/ch6NTrcoRDrwiE/+CEnITP9Vt/1ec=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_4.mp3
+SHA-256-Digest: mTjlF1/Altq1wtkUrbwO3a50HsG9E1iEYO7FzGyITAo=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_5.mp3
+SHA-256-Digest: Lo0eGI2mv4n8o6RwxKGUphAl0In+gFfkQQWi9fItKBM=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_6.mp3
+SHA-256-Digest: x8UnMfMboALSVVUIAcKL2Gr60XBsCYUz2BnhaljV6E0=
+
+Name: assets/GameZJH/Sound/wrslot_fruit_7.mp3
+SHA-256-Digest: 2vlVGow/F4zzpzz/cPj4sK5RmkttWXlVqrYFDZGvx4g=
+
+Name: assets/GameZJH/Sound/wrslot_popcoin.mp3
+SHA-256-Digest: nswJ9ndXcqOEOtufS2Xwhw0GbVpujpO9y2p3mU2sQ2I=
+
+Name: assets/GameZJH/Sound/wrslot_run_0.mp3
+SHA-256-Digest: XKqiwnPZpsKRsZ/nRV4nB07c0kot3piwzjL+Nittey0=
+
+Name: assets/GameZJH/Sound/wrslot_run_1.mp3
+SHA-256-Digest: XKaO2hCtOtX2EBtMR1A+Qk9u+8YLh9S2LvSInFu3CNA=
+
+Name: assets/GameZJH/Sound/wrslot_run_2.mp3
+SHA-256-Digest: m299f1dzxXNrB7pzUnFpvR/z5A1B+dlafAibUXbMam8=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_0.mp3
+SHA-256-Digest: cpk9/dQx0FQZYrVkUNZyV2uZKsd7pzZES7zO6NVrRUU=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_1.mp3
+SHA-256-Digest: LQfQfK+VxcGiwiJO41GL0f7TtNz/o01Zo4eq9UhVjNY=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_2.mp3
+SHA-256-Digest: y0g5Y6zBe8qZS14bpjMDxM1XohwNKPk3NYKyPpVxBOo=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_3.mp3
+SHA-256-Digest: 7oHw0M9OmnxrS/o4rdYLWaKYy107+wQBiJ1HkkG6zho=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_4.mp3
+SHA-256-Digest: SXbrPTLx38aagNZQqJxiQlSLIwYtYxFzIH+dih7MxuA=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_5.mp3
+SHA-256-Digest: ycY/QBMe5bNR5v9DD3nO2gz49F2sPEBPMHA/4cVLm1c=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_6.mp3
+SHA-256-Digest: jyJw70I648sMBaf6HBisksiIvupMm70unvC1gzGhyUw=
+
+Name: assets/GameZJH/Sound/wrslot_runstart_7.mp3
+SHA-256-Digest: 0mIzuWYravn5Diy14FqtZWuQbefDaCKVizt+PMCnG2Q=
+
+Name: assets/GameZJH/Status_Ready.png
+SHA-256-Digest: tPrEdFMGJtM8VIMGGukKUO+GzoWI3PeJh/bdbqcIeRs=
+
+Name: assets/GameZJH/Talk/chat_bg.png
+SHA-256-Digest: kBTeG//gyt7v4POPctb9ADRw6eX1t0kmJe38hvIzwU4=
+
+Name: assets/GameZJH/Talk/chat_btn_normal.png
+SHA-256-Digest: DSn3jIDszJbEL9w2A2ovbjtfHv2IjMctL0dg10teikU=
+
+Name: assets/GameZJH/Talk/chat_btn_select.png
+SHA-256-Digest: j1cFKqGz6eU4qT9NLVgI2/NAGOp9HfB5MEJ+KlWqWNU=
+
+Name: assets/GameZJH/Talk/chat_btn_send.png
+SHA-256-Digest: 85JEAC4vfg1f6FOhQ4yrpY1nNWkEEgI/Dek29WH2xLw=
+
+Name: assets/GameZJH/Talk/chat_fix_msg_bar.png
+SHA-256-Digest: 3VSIjClegNE4nr9ZbV5/ku9AInavpkXtfnvZzdesQ08=
+
+Name: assets/GameZJH/Talk/chat_input_bg.png
+SHA-256-Digest: ti7EpRRMHPjcnHlL8gr7d7qauJu3LHrEuy6oucY0+IM=
+
+Name: assets/GameZJH/Talk/liaotian_biaoq1.png
+SHA-256-Digest: ziuembj2qaXrLehi/VINivXgRNyyOqZ6pBLejZy2CzM=
+
+Name: assets/GameZJH/Talk/liaotian_biaoq2.png
+SHA-256-Digest: yWeVQfOUZBjx9u98ZoGm7e+R6AQKZpMEPBubYHeoJcQ=
+
+Name: assets/GameZJH/Talk/liaotian_bj.png
+SHA-256-Digest: GkHY+s9FnYOHTPP8Om0NlNLpCdF+Ul/3ghlkPf7UdhI=
+
+Name: assets/GameZJH/Talk/liaotian_fasong.png
+SHA-256-Digest: iqdNSRMJ2hjGgrkw1/ZjjV/hqUJj1ER6MO+oFca7Kx4=
+
+Name: assets/GameZJH/Talk/liaotian_kuang.png
+SHA-256-Digest: 6lPNLi28Q7yVc0oZUwOm2jBRdscbMtO+qt85gAKhLH0=
+
+Name: assets/GameZJH/Talk/liaotian_kuang1.png
+SHA-256-Digest: HicKFwVB7ySoG/P7uIcL+Obk6nl4P53cWPD/3foDe4o=
+
+Name: assets/GameZJH/Talk/liaotian_xuanze.png
+SHA-256-Digest: WjHIpQzgsJmtC2c+Noqja50lBwenGPMOmAWc0jwVvxw=
+
+Name: assets/GameZJH/Talk/liaotian_yuyin1.png
+SHA-256-Digest: 4QMofbbQI6RyzTTVMYAzByuxU3BoGK9vpEqBOcM0Ggs=
+
+Name: assets/GameZJH/Talk/liaotian_yuyin2.png
+SHA-256-Digest: 0Q1oBYxTS9afmx7j2UOWteG6/pkWEEDABlJDYoP9Lh0=
+
+Name: assets/GameZJH/Talk/play_liaotian.png
+SHA-256-Digest: F/xmr/DU2qP6Ufl2TnTjefYzpIHdqlA4wGPgIxbXM1w=
+
+Name: assets/GameZJH/Talk/play_shengyin1.png
+SHA-256-Digest: ASw9HQIlu2g+pRHNq7IBxrFyotn61xLVbd556X04tKY=
+
+Name: assets/GameZJH/Talk/play_shengyin2.png
+SHA-256-Digest: 2WlTr2Da1EmYkkyyVJKsZYpw6i1sXOHFXS5V+/cD0Rc=
+
+Name: assets/GameZJH/Talk/play_shenying.png
+SHA-256-Digest: r1pZWGDu2VblgBfWxRQwT4jF2HyO6EfBphTA1fPK46w=
+
+Name: assets/GameZJH/TotleLun.png
+SHA-256-Digest: 1DOR/3M8PQCcwv57PYUKMJTFsfP0xME+gYbenqJ29w8=
+
+Name: assets/GameZJH/TotleZhu.png
+SHA-256-Digest: UFxKR+rhWeqN4HPh66D6/E1zX70ROcF5cjYxWwlGabw=
+
+Name: assets/GameZJH/TxtBg.png
+SHA-256-Digest: DRvHs311Re8yi8cjTwLuEh/s60Pir40QZjY8VjDy5c4=
+
+Name: assets/GameZJH/action/PK_0.png
+SHA-256-Digest: XCOUmhEu6Zhy0n2eoRJUbU6k0BsQ6VUYFZ2Md6G4lX8=
+
+Name: assets/GameZJH/action/PK_1.png
+SHA-256-Digest: 3DW81SvRghjdpfOzl1JGcyLS8utbIiId0lSyOwojSZk=
+
+Name: assets/GameZJH/action/PK_10.png
+SHA-256-Digest: /rK7zTpfmj51yknN3VlFGCGcA2QsQq9T+EExDglf5z8=
+
+Name: assets/GameZJH/action/PK_11.png
+SHA-256-Digest: zibzmNTfbv+FB8MTFGKEWN0cJBGK0gO2Mcw4oQR2wJE=
+
+Name: assets/GameZJH/action/PK_12.png
+SHA-256-Digest: jxRFZnzO9SW/CkL1BO/UwZUbcbdW2wqFn1BI821Calo=
+
+Name: assets/GameZJH/action/PK_13.png
+SHA-256-Digest: +U3x1geWTScTDTCMKAnBQAiuutXpRGupOimHBNNCO7s=
+
+Name: assets/GameZJH/action/PK_14.png
+SHA-256-Digest: rIibG3/ItBgROCu3c12dtQFemb1XeKLfzFFl01G879U=
+
+Name: assets/GameZJH/action/PK_15.png
+SHA-256-Digest: QX62+WP9YABO4ibFhhKxcgA80ccvEyhx+KWfeZn1uuo=
+
+Name: assets/GameZJH/action/PK_16.png
+SHA-256-Digest: KMai0SHyzcJ8UedkHmKd7fV7xsV5HKYER9R5M2cb1so=
+
+Name: assets/GameZJH/action/PK_17.png
+SHA-256-Digest: gXKmGY2tjTtQHagyGe7nvaTTqKzdGMJJCI8bAYierGw=
+
+Name: assets/GameZJH/action/PK_18.png
+SHA-256-Digest: k8leKmm56hS45KWEtCD1TVerNwvfJl7rPUSU7Mbq7Tw=
+
+Name: assets/GameZJH/action/PK_19.png
+SHA-256-Digest: YSaGQ7GYYJU95kJ8WfPYko8kXKck8cu4mUQ/9DD1BMA=
+
+Name: assets/GameZJH/action/PK_2.png
+SHA-256-Digest: y8AHbgA05Ez/KKaIUMyccdaL6szZikxBgcrW62AG0gc=
+
+Name: assets/GameZJH/action/PK_20.png
+SHA-256-Digest: cwkGT0CCsltSVOptjikI2Y/mmsadvj8lroTX0u1FJbs=
+
+Name: assets/GameZJH/action/PK_21.png
+SHA-256-Digest: +Umt8rFvzKNn1ElSmR7os1x/v3AVSf3cqbPW7dsZY7o=
+
+Name: assets/GameZJH/action/PK_22.png
+SHA-256-Digest: ygf41Q1dPkJggBsPl/LVsCNwDBa/Yvy1lpvBjxOQtK8=
+
+Name: assets/GameZJH/action/PK_23.png
+SHA-256-Digest: r0OLB+lmcY62HFroI+/u5re7tfszuUk22MX9Yf/jEok=
+
+Name: assets/GameZJH/action/PK_24.png
+SHA-256-Digest: NX+MvwHGOsOgLmfN1aoBdzvK3ibHzWTPfXSA3ZPcUX8=
+
+Name: assets/GameZJH/action/PK_25.png
+SHA-256-Digest: DGk8gDinyMi0Jd7BDhR9AoxxW/8L6Eg+WNzrmg3zLlc=
+
+Name: assets/GameZJH/action/PK_26.png
+SHA-256-Digest: FWO9Y+KKB8E3YaK2sylhzQrMsWC4UIR0pMehYeCBW74=
+
+Name: assets/GameZJH/action/PK_27.png
+SHA-256-Digest: npJlrfHWz4OzOCR5/+dSW3VVYcxwZaSJ0lzMxdZ+Px4=
+
+Name: assets/GameZJH/action/PK_28.png
+SHA-256-Digest: rAlmYfR82Z65yOrxtWezmwpEMbLuWvw1zq3nlZwFWgU=
+
+Name: assets/GameZJH/action/PK_29.png
+SHA-256-Digest: JqbeHXN3DMfvCU+rbXql3CJ2qFdoAcWdEJCgp79y9IE=
+
+Name: assets/GameZJH/action/PK_3.png
+SHA-256-Digest: PW4klUCTgTwzCAKeD9eA3kb122or09eOG8d3mU5UIFk=
+
+Name: assets/GameZJH/action/PK_30.png
+SHA-256-Digest: YJRsaa29MvYIcSHlSI+NRrPGtSNdon7LUu/A8gtLUh8=
+
+Name: assets/GameZJH/action/PK_31.png
+SHA-256-Digest: nzPrfFNxzqJ+gP1R3MowcgumD6IMh1o85zNGY6ThvVM=
+
+Name: assets/GameZJH/action/PK_32.png
+SHA-256-Digest: K+sq1Mxj0JCDYB95oqZZctzs50g/n+ZbcPTTEg5S+GQ=
+
+Name: assets/GameZJH/action/PK_33.png
+SHA-256-Digest: WnRUU8OPkQFEMIfZGV0BW6yQJI7gXWc3ZwZuXqlqcXI=
+
+Name: assets/GameZJH/action/PK_34.png
+SHA-256-Digest: at1hXLB80FxJqkMZDb4t6OW2UHfi7j/2RUeU3nPzscw=
+
+Name: assets/GameZJH/action/PK_35.png
+SHA-256-Digest: OrJ/d3Cdkl7jNyfUAwZbUSu+lkKL/oH2dlGX/eSZyHY=
+
+Name: assets/GameZJH/action/PK_36.png
+SHA-256-Digest: 5PNZpZIvlBmsJzXnnRHRZwwluXHuW05+8AMoT+Jk4VY=
+
+Name: assets/GameZJH/action/PK_37.png
+SHA-256-Digest: JFjgb2N7A+Rq4XApH04U86/nPGICvXPtfwxL7sRZlwQ=
+
+Name: assets/GameZJH/action/PK_38.png
+SHA-256-Digest: PKoOzOLNmlJwL8SLFLVrxpHS9x3BrrZvvCOdRBul62Q=
+
+Name: assets/GameZJH/action/PK_39.png
+SHA-256-Digest: n6OQhZkE5QHcMQEFpabxM03MYGIAob/HWrsT6uvGrNc=
+
+Name: assets/GameZJH/action/PK_4.png
+SHA-256-Digest: UOahHGhdvx0UbtIDroj3OxC8a+UNh8rB9JG8AHSVLdc=
+
+Name: assets/GameZJH/action/PK_40.png
+SHA-256-Digest: DoNd3aO8IxZ4OEisLxGNjKXEG9Ro1xw5czVJrVJExw4=
+
+Name: assets/GameZJH/action/PK_41.png
+SHA-256-Digest: 5noIKojx2W6iyJ0aPcE8cbPaoUMqO+PUY6/w3I36b9I=
+
+Name: assets/GameZJH/action/PK_42.png
+SHA-256-Digest: S3KIOCZbSnxEHxG7Z7HXq6lpFRma1niLJ49lE/YYZJ0=
+
+Name: assets/GameZJH/action/PK_43.png
+SHA-256-Digest: YKPzmq64tMOSaPCJ7eHhST9eEQuEq7D8ZgJAzwyKlis=
+
+Name: assets/GameZJH/action/PK_44.png
+SHA-256-Digest: xrTdhGzpWv4ux1q4RYakCrL1tZX/33qq7u52WFB1YSI=
+
+Name: assets/GameZJH/action/PK_45.png
+SHA-256-Digest: kIUX3g4VfQl7lIgN7E0Z/A+M8U4eT1R1mbvFLZ9yX/s=
+
+Name: assets/GameZJH/action/PK_46.png
+SHA-256-Digest: PimPNJ/0iwbsVK+gaFTv9f+AKNz7wdOK73nl/UoHZD8=
+
+Name: assets/GameZJH/action/PK_47.png
+SHA-256-Digest: 2wcxu9BSViuDGMk8ANXGmgaqbge6G3JUzkX9KGWDbAI=
+
+Name: assets/GameZJH/action/PK_48.png
+SHA-256-Digest: xA4BO73A4vgcPzXo5n+LHeQyVLwXp0As4YAm4ErUAHc=
+
+Name: assets/GameZJH/action/PK_49.png
+SHA-256-Digest: VdXu3Oue8TCIBuXJIiN1KRbhEUXqjysw1UzTtS990/E=
+
+Name: assets/GameZJH/action/PK_5.png
+SHA-256-Digest: EK20dhF6mtYyDxzXLZxremxjqhPEzGp2bii1/Vh3Ye4=
+
+Name: assets/GameZJH/action/PK_50.png
+SHA-256-Digest: Y4yKRPr2Xd5xNOkRBqKepsUoRtyszTX5IiHxv+d6OAI=
+
+Name: assets/GameZJH/action/PK_6.png
+SHA-256-Digest: 9hUDvTFYvUgF+KYMNbuFh2TV9G88TiFlJa1ODG0juz8=
+
+Name: assets/GameZJH/action/PK_7.png
+SHA-256-Digest: DkbbRUvavlgrxE7Ds6DyTfuwlchhvOIiC4DnJJDYEr4=
+
+Name: assets/GameZJH/action/PK_8.png
+SHA-256-Digest: 7h0iUSemEK42k7PBXvMF1yC2O/4g34KhX0U3x+OpJSg=
+
+Name: assets/GameZJH/action/PK_9.png
+SHA-256-Digest: pDIJxQKCA9bwKjYahy27eNDTBbLkOuhbcSe1Vvv1858=
+
+Name: assets/GameZJH/action/heng_00000.png
+SHA-256-Digest: 5uFlsKnkDZx4qQ2/pvonEdqMHA/YjSlP+VwEW91jYzQ=
+
+Name: assets/GameZJH/action/heng_00001.png
+SHA-256-Digest: LpBS21FGGDkA3CcbSu71hiE2hhLroPKW/7iug2oMDfY=
+
+Name: assets/GameZJH/action/heng_00002.png
+SHA-256-Digest: kSkOi/tiIqXzBXHsuG6iIpi0Sorq2NcEknEMup5v+lQ=
+
+Name: assets/GameZJH/action/heng_00003.png
+SHA-256-Digest: hbG8dxh3EolJl0XnHtBl/U80eJ5y+H7RbqT5BZdhCc4=
+
+Name: assets/GameZJH/action/heng_00004.png
+SHA-256-Digest: vKLoRc3C2drNa5RgdPzHulcNCXDubmt6wybjCOKZBoo=
+
+Name: assets/GameZJH/action/heng_00005.png
+SHA-256-Digest: S02YkuJ+mwIHFmpJnA9rOKx/3zNxQv996Mio3JdMot8=
+
+Name: assets/GameZJH/action/heng_00006.png
+SHA-256-Digest: thS+XPDHo+6HAYNoLvTsTfqxvl9lqRWHQFSvj98M3+c=
+
+Name: assets/GameZJH/action/heng_00007.png
+SHA-256-Digest: 8MdEk0PO2wfuoHX6K8QbwWAPO3UY+a7gd4IKHSv3JRg=
+
+Name: assets/GameZJH/action/shibai_0.png
+SHA-256-Digest: erLY2tFs7Vtgdgg2tEe1JprqLhsNTRwUntRGHqIMaGY=
+
+Name: assets/GameZJH/action/shibai_1.png
+SHA-256-Digest: uuMu05B3TUcCcx+/m2QyjHn7p2WQmW2vzDPRyc371Po=
+
+Name: assets/GameZJH/action/shibai_10.png
+SHA-256-Digest: jeKB9mlTOQJIOSYJG9WQUc6w/VmESe9kJCYO+PskXZE=
+
+Name: assets/GameZJH/action/shibai_11.png
+SHA-256-Digest: dbSm+JR3lfu3Z9OwtLFR0E5vIcdp+w8FLv09GR41b00=
+
+Name: assets/GameZJH/action/shibai_12.png
+SHA-256-Digest: NyftY6l0j7fSOjqSRVKyoFNkIgKfc9r01lhagePwNsk=
+
+Name: assets/GameZJH/action/shibai_13.png
+SHA-256-Digest: s3Wj07bdAV+OygS09B48TWdDMK6fQ0R8AUrrGurxQKM=
+
+Name: assets/GameZJH/action/shibai_14.png
+SHA-256-Digest: pcsKvRYzaUvrRiwv9Mvyx933aFCDhxWaZ2ODKmHIBsU=
+
+Name: assets/GameZJH/action/shibai_15.png
+SHA-256-Digest: Dbp0uHyLvZUZNwDmE7AWrFj37i6IrvvyYZlq+nA6MAo=
+
+Name: assets/GameZJH/action/shibai_16.png
+SHA-256-Digest: r7HFO2Sdjv57nPSOs+bMAot7tkMLi5n8HUITmPB/8Mg=
+
+Name: assets/GameZJH/action/shibai_17.png
+SHA-256-Digest: sfuGPmc96MIkWTrX6Id7aAUvH72lj7FZ8XZbaREwOKY=
+
+Name: assets/GameZJH/action/shibai_18.png
+SHA-256-Digest: sCv+MLKWKh2ww7JrK3OrcAeWD2dDT6kEwzF8b4AyAw0=
+
+Name: assets/GameZJH/action/shibai_19.png
+SHA-256-Digest: mAX7jssfs79hf6iRcfmLMh/yqEo1awe1AFeSGy/PfKk=
+
+Name: assets/GameZJH/action/shibai_2.png
+SHA-256-Digest: eG7m0ueNZyIElqgkxBgJyr8hflA6HnVIlL1Wj7p9LUo=
+
+Name: assets/GameZJH/action/shibai_20.png
+SHA-256-Digest: KYQAKeehuEnvstajwg9BWeuZbc5KArWNNmfAMbmaAjU=
+
+Name: assets/GameZJH/action/shibai_21.png
+SHA-256-Digest: gU70FfbLcYuhK8Q1Oil5QQt7K351gUbwtSb8P3hImnw=
+
+Name: assets/GameZJH/action/shibai_22.png
+SHA-256-Digest: 8CdkkBF34ldbsasCRtbl9OQDYAokv+b/Pi1BxwUNlHk=
+
+Name: assets/GameZJH/action/shibai_23.png
+SHA-256-Digest: QqHoux9msJRw3YxAvorupF+aMsU7HmX+w/ZUeJMVLgo=
+
+Name: assets/GameZJH/action/shibai_24.png
+SHA-256-Digest: tXkO6L3RgbXIIyYxRvyQ15C6+tUMQaC8HWYFezkx7Fk=
+
+Name: assets/GameZJH/action/shibai_25.png
+SHA-256-Digest: 32AFx5jGOk3hD0J26dQtd7at9xWB3pJqO61NzDCrqPM=
+
+Name: assets/GameZJH/action/shibai_26.png
+SHA-256-Digest: 4NFdKtfo+uLbZ87VzRmEqDwI3HDzTMLQPHuD8GO0XEY=
+
+Name: assets/GameZJH/action/shibai_27.png
+SHA-256-Digest: da/pBW1gqqXaey4WSLusE9QZ/0hsgXkNAQl5mhpFSRo=
+
+Name: assets/GameZJH/action/shibai_28.png
+SHA-256-Digest: IApf3sqwQLn5rz1tbYI1PiPce6jF/4nznujshlCXKj8=
+
+Name: assets/GameZJH/action/shibai_29.png
+SHA-256-Digest: bJYJJQq2GtIqEVdMSYAGfbH81IUk1ds3qBmeZ5VU43k=
+
+Name: assets/GameZJH/action/shibai_3.png
+SHA-256-Digest: Ngbbx/mOgpMv1miTX7NhHzH7NYFv3kwuEbV3KsTm6Ds=
+
+Name: assets/GameZJH/action/shibai_30.png
+SHA-256-Digest: uBK/jmuIaqeDKUux0TVJJCrjPsNRbS52l9CYj6lM7EE=
+
+Name: assets/GameZJH/action/shibai_31.png
+SHA-256-Digest: rAtPepUWYXcWqGR2KC+arc473BhgZg/ZYSYQcdL46zk=
+
+Name: assets/GameZJH/action/shibai_4.png
+SHA-256-Digest: jQDY0FRY2gfDdohu+1nP6jLC+tVS5pxJQ0D68DFB5Mc=
+
+Name: assets/GameZJH/action/shibai_5.png
+SHA-256-Digest: chAR1eCClcIq5Iz16I5OhHI39DPIWUGzWmzTLCFuzaw=
+
+Name: assets/GameZJH/action/shibai_6.png
+SHA-256-Digest: TRllwl+egCt1EdNI1IUzXCa5M9nf0VJuT23NecqPnkU=
+
+Name: assets/GameZJH/action/shibai_7.png
+SHA-256-Digest: 3iIAqj5t9p0cIHUQSb4NVrbrXzuawNIsQy7d7S/bomE=
+
+Name: assets/GameZJH/action/shibai_8.png
+SHA-256-Digest: Of2QLBLYOWfojRZ6ix998zi/cRIecEvAOWEKNe4G5S0=
+
+Name: assets/GameZJH/action/shibai_9.png
+SHA-256-Digest: Vp+ZWeQn1eFUmep2/LD8h/iL+k6qH74ed7thUvhrAM8=
+
+Name: assets/GameZJH/action/shu_00000.png
+SHA-256-Digest: K9sFFOqYdpQA4XSCPUAjOUbbrxmqTrkZbBAHqtcOmSc=
+
+Name: assets/GameZJH/action/shu_00001.png
+SHA-256-Digest: MTLyw18iR87vNK1RIX26o62doKtyP/qDMEQipHYhKeE=
+
+Name: assets/GameZJH/action/shu_00002.png
+SHA-256-Digest: 3P5mtOB6Xr+rM9AvZQ57JRVya1/RfqNGdcCTtTnG/uE=
+
+Name: assets/GameZJH/action/shu_00003.png
+SHA-256-Digest: KvL4FgSS0dsEeM8wd4AeH1lukyiQIV55ZvdpJmnS4/Q=
+
+Name: assets/GameZJH/action/shu_00004.png
+SHA-256-Digest: oVyGxmUU2EHdMzAQyLn83UX8gX/X58dueDtYea6WJZM=
+
+Name: assets/GameZJH/action/shu_00005.png
+SHA-256-Digest: zNfyKWlc3RVQWxyNr3eVl5hrUg2cEi8HSj+S27KI6Xg=
+
+Name: assets/GameZJH/action/shu_00006.png
+SHA-256-Digest: FWxmC7zSrEKlKWl9cWUh0nkuEHU3amZryxWvWN07lh8=
+
+Name: assets/GameZJH/action/shu_00007.png
+SHA-256-Digest: G27EK2c+T4SVLh6XPsw9j+J/EBgQHMXpBg1la8wYYm0=
+
+Name: assets/GameZJH/an5_n.png
+SHA-256-Digest: jriVbd7nopYk9F7+lQwLjGd9t7qhla0pQwA2UUasghU=
+
+Name: assets/GameZJH/an6_s.png
+SHA-256-Digest: J2cr+S0YBVR10Ig8zTpgR7gE6URa0G4D335dOZ3YLJI=
+
+Name: assets/GameZJH/bai.png
+SHA-256-Digest: v+qlmGrvYyxgh+QNkZugjRVyEJ/IU5t4+WJAd2JJnQs=
+
+Name: assets/GameZJH/bipai.png
+SHA-256-Digest: fWJdtUNXREk0/QOLtLXRCRiSwwDhCuxvpTECrvrIUI4=
+
+Name: assets/GameZJH/chip1.png
+SHA-256-Digest: 7KNxDjpjePrEKD1MdQB7mQ/fX30oHqXvFzmcHMhDFME=
+
+Name: assets/GameZJH/chip10.png
+SHA-256-Digest: X7lLLYXgqrJJCn5uVpguQQ0AL8aKp4zO9uUcRodK6vE=
+
+Name: assets/GameZJH/chip100.png
+SHA-256-Digest: 6DTfQrQSe2cYMSq7H5d75gpkPz+LEKamelGKD07YXNs=
+
+Name: assets/GameZJH/chip12.png
+SHA-256-Digest: 5IAMYJG3qy08xdtf0njDQz0AxHYfg/1LENwRJ1Ey+MI=
+
+Name: assets/GameZJH/chip128.png
+SHA-256-Digest: 4AVzyuIFqNaepzX0JPb2Cbx98T8GvXpB9ofrWzb6o4M=
+
+Name: assets/GameZJH/chip144.png
+SHA-256-Digest: NhQ8yPP45x/4T/nMPWygVdF+UrdFHi9dtyEGn45P7H8=
+
+Name: assets/GameZJH/chip16.png
+SHA-256-Digest: BCzawXJfJ2X98Fgz9v6AMx0U+kRzsOKuMUAcLzSux2U=
+
+Name: assets/GameZJH/chip160.png
+SHA-256-Digest: 27pIvOLltXjzZQXkmsuIPuL6WkYx8D2f/j5gdKEntVA=
+
+Name: assets/GameZJH/chip192.png
+SHA-256-Digest: 3QWBlurB0qUDJPWvg1vM0hDi+6hqBM2G52DjZ0rYUjk=
+
+Name: assets/GameZJH/chip2.png
+SHA-256-Digest: p0FUnUBrYQYDJjsu3sgSQfsZd9fCKYqyPVzoz4c5ZWM=
+
+Name: assets/GameZJH/chip20.png
+SHA-256-Digest: apTUfONch1YlKDQB9dIrdbNy86/oQZ/eggrgoIkwo5w=
+
+Name: assets/GameZJH/chip200.png
+SHA-256-Digest: geHGmPhg5jzTdOhxEguDzRWmWHt/IBUPD+PGPlyGEkg=
+
+Name: assets/GameZJH/chip24.png
+SHA-256-Digest: oGIHApj6e0+N8iFUbgSkPqXfBXh5wDaiZ3OfN4YFd3A=
+
+Name: assets/GameZJH/chip3.png
+SHA-256-Digest: JhpST3NcYyv0AhRoTRUbMqq6HtV/9tpsYvCjvxz2FVk=
+
+Name: assets/GameZJH/chip32.png
+SHA-256-Digest: 5sgAmUad4PJT3jr/FKLuxppuKDZAbDKH/YHtaQxBePw=
+
+Name: assets/GameZJH/chip36.png
+SHA-256-Digest: VokdQS70WujgzHnxJ7Tn4D9+c3uwpjTeJMfrXAu0mKw=
+
+Name: assets/GameZJH/chip4.png
+SHA-256-Digest: gnuPOScgUtywS8i+oCbvzDcR5soDlBLQ47tTeftr5Sw=
+
+Name: assets/GameZJH/chip40.png
+SHA-256-Digest: CrnRRXqlRjRwD2ZWoR+EyjCTrBmSgF+C+7zA/iJLWAg=
+
+Name: assets/GameZJH/chip48.png
+SHA-256-Digest: d7lftI+rezvIlo6/RdLn5WqTAJpEs8ogQlNmWWEKA+Y=
+
+Name: assets/GameZJH/chip5.png
+SHA-256-Digest: Vmpz2ZaCXa08VONqq+2DLeDsJELyXDdfd2eCo2ERYBU=
+
+Name: assets/GameZJH/chip50.png
+SHA-256-Digest: 8zWyv0GXgyxTGMEfkhMLayCcNVuhDCVp8KqAcpGNwHo=
+
+Name: assets/GameZJH/chip6.png
+SHA-256-Digest: aoym7e2CD8DNmvDfAoyLAGxJtG8RrlPJkvVx9klcRh4=
+
+Name: assets/GameZJH/chip64.png
+SHA-256-Digest: X+OSdLRDtV1j4DJ0+0hKsyH8QOHtlbma4uSvhQ8djnA=
+
+Name: assets/GameZJH/chip7.png
+SHA-256-Digest: efsF2x6kGxey8nnJzIjZF0XMYpTioAmdgiDcSR/Y9bc=
+
+Name: assets/GameZJH/chip72.png
+SHA-256-Digest: GVKc7JYmgIk8ZWGGcNHdj6yCLfqLuv4i2RxQlRk5uX8=
+
+Name: assets/GameZJH/chip8.png
+SHA-256-Digest: YihZPOSVmv1dE2EJlOn1s5qg0hxpGF6C1Jhddzttz7w=
+
+Name: assets/GameZJH/chip80.png
+SHA-256-Digest: owG+yIsesKSG+WLTzuW2gBriIJr7oej/Jj+2WRFmM04=
+
+Name: assets/GameZJH/chip9.png
+SHA-256-Digest: s8RAOVPNJGo58tNuiBOXdw9nZdU0ueQySeN4aqVQSZQ=
+
+Name: assets/GameZJH/chip96.png
+SHA-256-Digest: VBeGyWmL6hG2ZQeSQEe7nUHGpELAMf2x1XK/JKaf08c=
+
+Name: assets/GameZJH/dalete/Buttom_SelectCard.png
+SHA-256-Digest: AkP+6ABeZ+xoJ04Pnb0vqCTxHyA9/babbr4Z8Rqnh+w=
+
+Name: assets/GameZJH/dalete/Type1.png
+SHA-256-Digest: f48d9rCgaF0SpffVCJkcsmAc0OcD8Ygddh83JumA85U=
+
+Name: assets/GameZJH/dalete/Type2.png
+SHA-256-Digest: rWAEtiLQ7xfAhyLqKNEe79tP2PGPHFzfcfpRj6VrSkU=
+
+Name: assets/GameZJH/dalete/Type3.png
+SHA-256-Digest: zmkaTY2Bc3e7+eYVkoeOe7ehLbIZ1WmXf7u6/BhhsTM=
+
+Name: assets/GameZJH/dalete/Type4.png
+SHA-256-Digest: wVXJJQI3gQ7gfNDRhjxKiNFxEHXRnX65iuejruqyzGk=
+
+Name: assets/GameZJH/dalete/TypeS1.png
+SHA-256-Digest: HPdMoviXugr+lzy9bW00NuaYaUfN3EteVnmAqvCleLo=
+
+Name: assets/GameZJH/dalete/TypeS2.png
+SHA-256-Digest: WLj608dnDJKRvTYZlwefMu1v9MafIKNmYiIpbt1XYrs=
+
+Name: assets/GameZJH/dalete/TypeS3.png
+SHA-256-Digest: LpeLBeOFg13vNLVrKTR6Xc0Q/JeCZFfQhBw0EQCcXoM=
+
+Name: assets/GameZJH/dalete/TypeS4.png
+SHA-256-Digest: kdCs1b54Q3uLiRATNiPhejEbOsfZEyAFRzfp1pZx4us=
+
+Name: assets/GameZJH/dalete/alarm-hd.png
+SHA-256-Digest: 7dlXjaigej9sIlzShwbHIxUabGJTsZ8X1WRKwxD5LBg=
+
+Name: assets/GameZJH/dalete/b_1.png
+SHA-256-Digest: DXQTIujsipykcBYPjGcU1tRicdUrZUgaIoBjKGzCLTs=
+
+Name: assets/GameZJH/dalete/b_10.png
+SHA-256-Digest: lVhfZzG7dCnbeCCSA2rt+lPFY67mqzFTPQsvzQBXhfw=
+
+Name: assets/GameZJH/dalete/b_11.png
+SHA-256-Digest: gOw+XSKnQxwwaBZyCL8fG+wQxY6+XxgSVXW8L+JJfU4=
+
+Name: assets/GameZJH/dalete/b_12.png
+SHA-256-Digest: Rq6nVkFlEj3vffg1RrIJqn1y+FHuq27e2ShzvFlh+rc=
+
+Name: assets/GameZJH/dalete/b_13.png
+SHA-256-Digest: NtP8qQjS/DyAygFbyq5fo6/83xSg0RVzT3x+trhcFrU=
+
+Name: assets/GameZJH/dalete/b_2.png
+SHA-256-Digest: JMmKRRKZig0x2aUg6UEumzpX5D0GlyZ2YaOL6E6AvjU=
+
+Name: assets/GameZJH/dalete/b_3.png
+SHA-256-Digest: UIJgTE8Dh0sWwmmY8nWNupX9K78qgJlCsf5TXSddG4g=
+
+Name: assets/GameZJH/dalete/b_4.png
+SHA-256-Digest: cwzKte274IjRofsEZ6DXksxcFdxNYf/pDItaBMTEV/k=
+
+Name: assets/GameZJH/dalete/b_5.png
+SHA-256-Digest: HSbD8ko2/3yKp7jkt6lZHrVmQLx67CZ3reENMelt/yY=
+
+Name: assets/GameZJH/dalete/b_6.png
+SHA-256-Digest: ZwYQFjO2WISMwIKu0iCt/6TdZUGC8Y7yM2JCn4t0iDk=
+
+Name: assets/GameZJH/dalete/b_7.png
+SHA-256-Digest: orAnX9454R2uke/FfpTjlkYvnScYyIp70y4Ewamet+4=
+
+Name: assets/GameZJH/dalete/b_8.png
+SHA-256-Digest: nT6tq2fV0TJzfj8ep7b4LmfOaMhqkyfK6bCZ/1/CkGI=
+
+Name: assets/GameZJH/dalete/b_9.png
+SHA-256-Digest: vzXU1rgTjnrDrR/+5SUd6+7P6tHk9ZUX0bBfW2ZHSiw=
+
+Name: assets/GameZJH/dalete/ico32.png
+SHA-256-Digest: 3dkGnAR6PeYKRySSx6l41e2ZlbB959XD9G971pTl3oA=
+
+Name: assets/GameZJH/dalete/joker-b.png
+SHA-256-Digest: /yo8darNpf/IYFRMgjlR2lzikJhGKkPBs74eCHJm/MM=
+
+Name: assets/GameZJH/dalete/joker-r.png
+SHA-256-Digest: lny826I57j9i+5B1P+RW70MHTU0BSZtp85B6YXIgmnc=
+
+Name: assets/GameZJH/dalete/poker.png
+SHA-256-Digest: cmlfK0j1YFAEmy44Xa+TNziP5XNBw0ggVyyJaaYKbo8=
+
+Name: assets/GameZJH/dalete/poker_layer.png
+SHA-256-Digest: ytjB4S8trNWxKYUZc+p7ru1z/FX8+4MF+KdKBDkDLrw=
+
+Name: assets/GameZJH/dalete/pokerl.png
+SHA-256-Digest: OiN8akoL0CYvY+Hc59ibDRq/4uOW/IWHXlb/U45xSpA=
+
+Name: assets/GameZJH/dalete/r_1.png
+SHA-256-Digest: OE2JKorYXBL8HxCms2Z7VpdjYF72qQ19cSmstnieh30=
+
+Name: assets/GameZJH/dalete/r_10.png
+SHA-256-Digest: HRP4UQzVd88AboVBfAJax4iMfY9XutOJkn7TivKptwc=
+
+Name: assets/GameZJH/dalete/r_11.png
+SHA-256-Digest: e7nS9QpI3e3+LpLlDuEqu6Xv/FAceWk4Vmqmsn4Wayw=
+
+Name: assets/GameZJH/dalete/r_12.png
+SHA-256-Digest: h0VPgVfaF2JtLvfSCt1kBSUE98Imj5bPwTFRwjuLL1Q=
+
+Name: assets/GameZJH/dalete/r_13.png
+SHA-256-Digest: HQWDtg+BMDHDVQcoS6C5gY0zJBpKwVbw7Y7OVADCpp0=
+
+Name: assets/GameZJH/dalete/r_2.png
+SHA-256-Digest: EwBag9XrFxwEGvR7XPFPngi357n8znMMPOU4IsqjrBw=
+
+Name: assets/GameZJH/dalete/r_3.png
+SHA-256-Digest: OrO+WeE72kdgjFUCZ73iKH1Omrc1fHwdlSWsD62xFyc=
+
+Name: assets/GameZJH/dalete/r_4.png
+SHA-256-Digest: tfOymhG2iO3f4Cby9cgx9AfnFHqvYOcEJrTk3YE0IVQ=
+
+Name: assets/GameZJH/dalete/r_5.png
+SHA-256-Digest: UTkshLfR+j5FBzmkyEQ0MbHhekZidkcyAZNlZe9plcw=
+
+Name: assets/GameZJH/dalete/r_6.png
+SHA-256-Digest: O6FuCLgEXEJM5yufffEP+tbUvASDvzT322Um5InWTwU=
+
+Name: assets/GameZJH/dalete/r_7.png
+SHA-256-Digest: bza4/USMDjGhtRu9PmC7oQ/ygf94JiiFjux2ThpXENw=
+
+Name: assets/GameZJH/dalete/r_8.png
+SHA-256-Digest: O2eMziAXu0lB3QZCkWARdEd79hxHrB2KdLeRgwn63Gk=
+
+Name: assets/GameZJH/dalete/r_9.png
+SHA-256-Digest: 4vc2s13vtBet7Lwy8sRtefWxeNjOi0gSLahIhJNk/t4=
+
+Name: assets/GameZJH/fangzhu.png
+SHA-256-Digest: 8IfH8XNGgpWZUc5O2bCCP4LOoa841PoqDOW+FlnQaBk=
+
+Name: assets/GameZJH/heng_daojishi.png
+SHA-256-Digest: 9Aokq4cXtBIqwfJ6aBfHQTiOqPCXzcvdRlhdbt1F9nw=
+
+Name: assets/GameZJH/icon_clock0.png
+SHA-256-Digest: yQ+mqY2DrSw7PEtL+OluZzenJAJA8GmoCKBGR8zJtmo=
+
+Name: assets/GameZJH/jiesuanbg.png
+SHA-256-Digest: v+8BDZUZjsvEywIVtUipFrlERgZ9igcME1Q7MR6t4pU=
+
+Name: assets/GameZJH/kanpai.png
+SHA-256-Digest: p1hA2H7rTH2CJtb3UVlr/3NqpXiV8ok7p2WVyfvLVJM=
+
+Name: assets/GameZJH/midInfo.png
+SHA-256-Digest: 0SeqcGRJEznPMorHRXIAC3y0UQONwDpMBHfbBxfNjTw=
+
+Name: assets/GameZJH/msg_bubble_btm.png
+SHA-256-Digest: V4gSqHjQfgxofepy0+2et19p9AczAsSPGBzN0ejdA/8=
+
+Name: assets/GameZJH/msg_bubble_btm1.png
+SHA-256-Digest: ckKmQ5KCwSEZ6OSNq9Nt0qAjO5MKqgQjOu5P+sL/zqw=
+
+Name: assets/GameZJH/niu_0.png
+SHA-256-Digest: doU91/YYqpQuSe4STMFh/vIauP3wZOrU1GlwUfJpauw=
+
+Name: assets/GameZJH/niu_1.png
+SHA-256-Digest: tVLX6NlPjsUt23c5WYN6CWZA1+23fAtdHgw84JuH+Ws=
+
+Name: assets/GameZJH/niu_10.png
+SHA-256-Digest: zwiVSEK4vVez1dAfTuhnGXIxSj9W8KCTMPJ3G9BO+w0=
+
+Name: assets/GameZJH/niu_103.png
+SHA-256-Digest: 5dtk1n0wkA1kHbbT5C2HzvU8I8XXAK/Nsj5OXYT3aOY=
+
+Name: assets/GameZJH/niu_104.png
+SHA-256-Digest: Mp8n4kNIp5aHfwsSGaypSz66rkHOFGCLDj2s9TW23n0=
+
+Name: assets/GameZJH/niu_106.png
+SHA-256-Digest: Wmh7D1rSHCIkDTwT3NUhTzgXl4YGhKbslweKNV3FKSk=
+
+Name: assets/GameZJH/niu_2.png
+SHA-256-Digest: Q9EcBIqYGGVfwErYqHkltabrS+FIeTjK70Lbrkiyd9M=
+
+Name: assets/GameZJH/niu_3.png
+SHA-256-Digest: 6exNBTVZG3mrwNsQ7rtzQaBjwLnqSiIHErE2fc7RzSY=
+
+Name: assets/GameZJH/niu_4.png
+SHA-256-Digest: okL9/t2Gk33wcnBvigDLCYrVNZrfult7VZwWPOzLjYA=
+
+Name: assets/GameZJH/niu_5.png
+SHA-256-Digest: c3cC3l8VFst2xlcEvWApnUyMQQpYIU7x5nWGjr7fYt8=
+
+Name: assets/GameZJH/niu_6.png
+SHA-256-Digest: 0bU2rVlj+e4skIPx/Gd+35fo+OevmFR/ecKaGvmJQE8=
+
+Name: assets/GameZJH/niu_7.png
+SHA-256-Digest: wU9d8q2tr0jmi4wAnyq49dEuotTSGY4RcJPlQNS9zM8=
+
+Name: assets/GameZJH/niu_8.png
+SHA-256-Digest: XYVYjQGPSS9wtK2sBogREdG/TJEWxbgoPvaQPeaCdME=
+
+Name: assets/GameZJH/niu_9.png
+SHA-256-Digest: XE3+DsyJwVT0rHAajRLbWkjlFWtICOnSFYFMVG89ISs=
+
+Name: assets/GameZJH/niu_Back.png
+SHA-256-Digest: gsHghXltATUdSVsM9ZXUKERfhALnXAkwuCjtXGjaeII=
+
+Name: assets/GameZJH/off_line_sign.png
+SHA-256-Digest: EJdlIfDVKo2H+NF9g4xRoahXUoNhoJJStC2q9Z/X9MU=
+
+Name: assets/GameZJH/ownBg.png
+SHA-256-Digest: gYJmbKQDf8vCaC2CO7OD7I890OQlaeXkyu6UsSNsgto=
+
+Name: assets/GameZJH/playBg.png
+SHA-256-Digest: VRK17khi9I5Gcu/sxLb4hi3lcQKmrms5/KOSrMjp4b8=
+
+Name: assets/GameZJH/poew1.png
+SHA-256-Digest: /TvjdSWX+jO3VKcXfGtGm6d5tXwGRyApxl7boJG++do=
+
+Name: assets/GameZJH/poew2.png
+SHA-256-Digest: h52nDJdfxOPBEi8AUhRmZJVMvMWRxX18lIeKKBW+ReA=
+
+Name: assets/GameZJH/poker_bottomBai_bk.png
+SHA-256-Digest: TpMI22P/6xtyqqPyq39cENQ9+B6+BbNxT0mbZNbH4TQ=
+
+Name: assets/GameZJH/poker_bottom_bk.png
+SHA-256-Digest: qCWFAxU5v10CezYS6B9jaxvMfpzl7Vo27zXOSIKJluE=
+
+Name: assets/GameZJH/poker_color_left.png
+SHA-256-Digest: yLquvxQ7qqkU7L1pJLdPP7JAmqq9y5LV6UrulkTnmps=
+
+Name: assets/GameZJH/poker_color_mid.png
+SHA-256-Digest: o1YZ+9ParEqr0mihsfHAAZKk/lbteUXolkPe5yyUcWE=
+
+Name: assets/GameZJH/poker_num_black.png
+SHA-256-Digest: ZJTj6OJqtBea0PjKXcApgcoXxBgxqCILKhTMoIRiMIA=
+
+Name: assets/GameZJH/poker_num_red.png
+SHA-256-Digest: N2vi8GLdqgHiGxs3O7WeLte8OsHYBN6nFAtb3nhGsxg=
+
+Name: assets/GameZJH/privateInfoBg.png
+SHA-256-Digest: svHOwwiQt12WCgfMftQpHIZI4HzAIt6vH/OA5JGzIEQ=
+
+Name: assets/GameZJH/qipai.png
+SHA-256-Digest: mRouU8z4LKNujIlioB/O3jwJU2ZkpaWJsnTyE6rnANM=
+
+Name: assets/GameZJH/room1_n.png
+SHA-256-Digest: JrEtaSN+ucHwOfbOLcjz1CEOKeINfF8beZ/zrxbLhHI=
+
+Name: assets/GameZJH/room34_n.png
+SHA-256-Digest: 8Ds+8lyenhtPlMCryjXl1So9z0JzqSXefUdd4LQ5Mqg=
+
+Name: assets/GameZJH/room35_n.png
+SHA-256-Digest: auVTm1ehuXhe4roExVT8xyn+LSm6NyFpnnPu/1PZzaY=
+
+Name: assets/GameZJH/room36_n.png
+SHA-256-Digest: PzE/O9pV7syt5aSzBNRkah51Ld+DYwbVVCSU90QV7xU=
+
+Name: assets/GameZJH/room48_n.png
+SHA-256-Digest: OlVwDTfhHdueHJcZIqIUY6Y6535taxqFAIvgt77WMIE=
+
+Name: assets/GameZJH/room4_n.png
+SHA-256-Digest: aaOSFRvrbHI3Bks226bqClS+MJQsNqIcXdESMWO5O7U=
+
+Name: assets/GameZJH/room54_n.png
+SHA-256-Digest: 72T0iWPFjxAIdCuUp7Tph7UBCKRdRu13EoptgMnbEIc=
+
+Name: assets/GameZJH/room56_n.png
+SHA-256-Digest: Kur4AQ07KIsCo1MUY8K7UVFnqswTkhj4j8RkptSXEhA=
+
+Name: assets/GameZJH/room57_n.png
+SHA-256-Digest: NaZh8WxEso8igeyxPRAVM6LvUzsh6PdMWivUaZ7+zio=
+
+Name: assets/GameZJH/room5_n.png
+SHA-256-Digest: YNDGJ0Mvk5hShzcOu3iROAklbpdfII5r6vHv1MdE5mI=
+
+Name: assets/GameZJH/room61_n.png
+SHA-256-Digest: CZuxadtGTRxkZ90DKgwV7PF6rwLk9gkHdxWIgLFlQFg=
+
+Name: assets/GameZJH/room63_n.png
+SHA-256-Digest: LF0dM6K6PRuxXatfHIjunbx9U3AKfODprvSOIphhVCg=
+
+Name: assets/GameZJH/room64_n.png
+SHA-256-Digest: 51nX9IPnz6uOtOshCHbJ2uebJCg+hJSKjZtR66r0Imo=
+
+Name: assets/GameZJH/room66_n.png
+SHA-256-Digest: Lv4DCfAGg+HtLXRn4ui9GOsM1b5NZMuQE9IWo7TVc8Y=
+
+Name: assets/GameZJH/room66_s.png
+SHA-256-Digest: nUYJciZWiKLmvYLhUZxJcUNYmSwgDR5ra2TGcROjkyg=
+
+Name: assets/GameZJH/room67_n.png
+SHA-256-Digest: V79NnZCupbMb7OG3iOedasADLMc9hzTLVAbVzCAG5hE=
+
+Name: assets/GameZJH/room71_n.png
+SHA-256-Digest: w1eL+iCMF3KrkGZcCvGBV+9L0fGKnmkOX7JM7fu1zs0=
+
+Name: assets/GameZJH/room71_s.png
+SHA-256-Digest: dSvOdyoiaTUSb0QAvwVua4uaUtxTfomU3zwkGT1issM=
+
+Name: assets/GameZJH/room72_n.png
+SHA-256-Digest: gHgFcr78ap5QWAZ4PD182hTqaLh5qEi33QeUMg8SaFs=
+
+Name: assets/GameZJH/room72_s.png
+SHA-256-Digest: 5jpsgIpNk8Kg3FiK1fagj7FQ3tSiEPAgtdZvULLVuvU=
+
+Name: assets/GameZJH/shu1_n.png
+SHA-256-Digest: s1VVLEoPoJ//2Q1aQAOkRsi83aXdLmXdfDv9pFCxkCc=
+
+Name: assets/GameZJH/shu3_n.png
+SHA-256-Digest: 99D4F4IJexn7omb0bV2w1guEFOI0CYaz5dEINiigYvA=
+
+Name: assets/GameZJH/shu4_n.png
+SHA-256-Digest: oeGRRWAM+iX+E+DT0fUf4FBkY58iink8grWlovQZFhQ=
+
+Name: assets/GameZJH/shu_daojishi.png
+SHA-256-Digest: vZ+EifGsBs9fART8vdoguEhsqdXsPyzMe22IAblkE34=
+
+Name: assets/GameZJH/wanfa.png
+SHA-256-Digest: TVdi7MUybmSMvy6stIYS4gYczme3rcIH+DVBcl5VyIc=
+
+Name: assets/GameZJH/xiao17_n.png
+SHA-256-Digest: QOXAvyLw7cHNk7at6u9Wwacu9QC4X4zUWUTD24FCeOQ=
+
+Name: assets/GameZJH/xml/GamePrivateSkin.xml
+SHA-256-Digest: OemW7/CovOslnHAFabxIYEfGvS+mMzIj9WNOt1TXoQI=
+
+Name: assets/GameZJH/xml/HNGameRecordChild.xml
+SHA-256-Digest: USWUSMN+WngaFucbGZODD7vSF0e6keaY7/BnDr58sZE=
+
+Name: assets/GameZJH/xml/JFZJHGameScence.xml
+SHA-256-Digest: Dm9dVId3jl9zcj6ainDcmt1EFiSvHP61BaQ+FFfNjkA=
+
+Name: assets/GameZJH/xml/JFZJHGameSkin.xml
+SHA-256-Digest: 8KLUEMKBZ9OY4BQKQyRqQbLnKZJVWHFDfgbqp71toaY=
+
+Name: assets/GameZJH/xml/ZJHGamePrivateScence.xml
+SHA-256-Digest: X6/5W4kpit5HzVdBwL7AfmMwhLOXdnp6NIbE9ZXZGpA=
+
+Name: assets/GameZJH/xml/ZJHGameScence.xml
+SHA-256-Digest: AAm6nt/O27VRnpaiAnwNWF7glGD9Jn3jXQKjGPsArE0=
+
+Name: assets/GameZJH/xml/ZJHGameSkin.xml
+SHA-256-Digest: 58imxLab/HM6JGVcOn5dk74mT7YFS208MtG+yAIZrsk=
+
+Name: assets/GameZJH/xml/ZJHScriptValueStr.xml
+SHA-256-Digest: B2+3yrenzcEvoD/HR4rX/ZS8blm124+GC/zLD5Jt4sE=
+
+Name: assets/GameZJH/yx1_n.png
+SHA-256-Digest: ymEsn/gTJWMqQ9Id6/a0mMZu2Na69pTtNpX1fxjigGg=
+
+Name: assets/GameZJH/yx2_n.png
+SHA-256-Digest: Vgw5HDiEgveU7O7bb3mDjleOSnnuHYIb+6+5VyNiO7Q=
+
+Name: assets/GameZJH/yx3_n.png
+SHA-256-Digest: Avgv34166YFf9Ws4WrVzomC7g2yLrlqOQV0dUukSjZY=
+
+Name: assets/GameZJH/zhuang.png
+SHA-256-Digest: pcQXRwZF+8cdtTiMxpTcv/uedfTt+8j1MCCus+rCzao=
+
+Name: assets/GameZJH/zjhUsertype1.png
+SHA-256-Digest: 3mfvOy4ABzFKdnjDoe1qOmLFfWUMC3YbLdDAeQQQZvQ=
+
+Name: assets/GameZJH/zjhUsertype2.png
+SHA-256-Digest: 2dedoxWZLdOJkVYHZBFKiMFXDweYZSc8OqwkeQDLD1A=
+
+Name: assets/GameZJH/zjhUsertype3.png
+SHA-256-Digest: nKVGNBhoHq4MvKOpvz0goojIeALd1gOHLyi3E9FhYPg=
+
+Name: assets/GameZJH/zp20_n.png
+SHA-256-Digest: KBqhelBrEPQAHlBGTntnI0znRfk2iFF6U0pCEoS/9oc=
+
+Name: assets/GameZJH/zp21_n.png
+SHA-256-Digest: 4EB6ngiStQWarLBppgWwR2HSuF7mE4GBPIgYOdR4w+E=
+
+Name: assets/Head/Head0.png
+SHA-256-Digest: hWVpklKjf6ApUkq4RXTGaaUCWWiM1rzXNOTpxGTK08w=
+
+Name: assets/Head/Head1.png
+SHA-256-Digest: fLZ0o3kAtSA7GE0G4+AcjcajHjT9QpCe/RrUcA53byA=
+
+Name: assets/Point.png
+SHA-256-Digest: Pczynf7w12ZexF+CZxKThiXiABnbyZN14SjZ1EZqEn4=
+
+Name: assets/ScenceGameRecord/DNGZ_Tittle.png
+SHA-256-Digest: z+ntv4nUhPAPbl8Z9qnWZDWW2yLCABIGczrJHuaAKHo=
+
+Name: assets/ScenceGameRecord/LoseImagic.png
+SHA-256-Digest: BypiomD/AX/FqJS4jT9X2wMqdk2y6kMfAZ5uzlqm7Hc=
+
+Name: assets/ScenceGameRecord/WinImagic.png
+SHA-256-Digest: 1Qr3+sZ+mBuoz8ryKHm306D7PK9gXCaLsIWxWQtyz6E=
+
+Name: assets/ScenceGameRecord/bg13.png
+SHA-256-Digest: n/W/U14+LHuTmN0FT0V70nZgIwdRh7GOokjHEg8EFGE=
+
+Name: assets/ScenceGameRecord/bg3.png
+SHA-256-Digest: r9v75ZZeMU5BLqU7arQjOrTx+/Hde2G+BHb47X7fI7s=
+
+Name: assets/ScenceGameRecord/help_bg.png
+SHA-256-Digest: PhfAVElsgfxiLkJn/5qGzgRA6LFkLwsqmQhVopwJKq8=
+
+Name: assets/ScenceGameRecord/hist_rec_backward.png
+SHA-256-Digest: LcDVLGSnrq+JUQ2Lp+WZOjOjl4YET9s9vZvBsJOY1ec=
+
+Name: assets/ScenceGameRecord/hist_rec_bar.png
+SHA-256-Digest: gvTQSHI8xafuRCBs8YvjnIeb2a/Hf5r0JaKDrtBRpSY=
+
+Name: assets/ScenceGameRecord/hist_rec_exit.png
+SHA-256-Digest: kvqsyy/C0R4HZJs1x5WdDfcUUJM2VKnLcQkJT8G35xs=
+
+Name: assets/ScenceGameRecord/hist_rec_forward.png
+SHA-256-Digest: 3wV3RFIWXXVOxix83XBqUj4Ox7nPUrkgzd29pRnECS8=
+
+Name: assets/ScenceGameRecord/hist_rec_frame.png
+SHA-256-Digest: knHoxWZ5xR2hEAUyJY6Q8IGvFVHPK+3YlzNJfNUHUJ0=
+
+Name: assets/ScenceGameRecord/hist_rec_pause.png
+SHA-256-Digest: 164534r/joJOPMkWkPdc/6QXFnrtqefFmekFxCaEbbM=
+
+Name: assets/ScenceGameRecord/hist_rec_play.png
+SHA-256-Digest: iDp+MTZ3MVANxO8E/kxXoPbI2+vJ+j0450iCWr2iR/E=
+
+Name: assets/ScenceGameRecord/hist_rec_play_bg.png
+SHA-256-Digest: fZA8Snjann34LHKk/Vghlt56o8lFTLx7TjX6HelasRs=
+
+Name: assets/ScenceGameRecord/hist_rec_replay.png
+SHA-256-Digest: ebDUggOx5YcTBSUYzCpFwCbgiI/PXvU5exGwnPIAFpY=
+
+Name: assets/ScenceGameRecord/hist_rec_title_1.png
+SHA-256-Digest: HSS6Zy+M3pqlUBr7Z1j6DRzs+j2ynQ0NIrxQZOqdMRU=
+
+Name: assets/ScenceGameRecord/hist_rec_title_2.png
+SHA-256-Digest: ZDr3CwxshEkGOUUIwwmy5lxI39R4OVgIs9OIL4cTTpQ=
+
+Name: assets/ScenceGameRecord/hist_rec_title_bg_1.png
+SHA-256-Digest: 6bocwCChRKIO/ybeTfTupzALGOJQXPWds/7CQCErrc8=
+
+Name: assets/ScenceGameRecord/hist_rec_title_bg_2.png
+SHA-256-Digest: oTz0IOFvMwiv/gOBQRPhttZ4M9efr2QTcn4bux0knMs=
+
+Name: assets/ScenceGameRecord/public_bg.png
+SHA-256-Digest: bWN1VsPt/xOc6OwX1cyTKMaiwbMdqRTghf8xRumhTLc=
+
+Name: assets/ScenceGameRecord/zj_tittle.png
+SHA-256-Digest: seurBgnh4Y5JBFrPwcpzcvcwwFFZf73HElz3JIdjNpM=
+
+Name: assets/ScenceHome/Button_AddGold.png
+SHA-256-Digest: o8x6/VPoVgKYgd6Jurvb/Ls+cXTc+jVfx6SZqkJVGp0=
+
+Name: assets/ScenceHome/Button_BangZhu.png
+SHA-256-Digest: FPX9s6Lt6Byh2wvTnOwAY65Yf5tIl0NpoeUTdZzc1DI=
+
+Name: assets/ScenceHome/Button_Download.png
+SHA-256-Digest: nl4Gf7O5570R+MD9XDAQgP4OthSyi+qKdTxnX5iXWfo=
+
+Name: assets/ScenceHome/Button_FDBNormal.png
+SHA-256-Digest: +D31ab0fK7ulZjkH4U1prEfH39Hpw1mnDSPNppj1vaI=
+
+Name: assets/ScenceHome/Button_FDBSelect.png
+SHA-256-Digest: cEK7mbSE1oiX3BFlb0osxpdIvWe6Qs6+HkFP5H2yBnY=
+
+Name: assets/ScenceHome/Button_Room.png
+SHA-256-Digest: wCw1jAtHkRrvqPE6nrb9q9ohQMMBAzCdu8ylB3Q3JJ0=
+
+Name: assets/ScenceHome/Button_SheZhi.png
+SHA-256-Digest: eUg0dkCZLPasB/kMD2EoinWaBZlg49jDyTbRJH5IQt8=
+
+Name: assets/ScenceHome/Button_Title2.png
+SHA-256-Digest: qJB+XcDhTFH1sNLDQT3SiK/dSW9qgNqLrcHW5IGT95o=
+
+Name: assets/ScenceHome/Button_WWGSelect.png
+SHA-256-Digest: FyJnBg6i662bl0MwOAhg7K8A7wZnjGebnq3vS+FzylE=
+
+Name: assets/ScenceHome/Button_WWGnormal.png
+SHA-256-Digest: mvNW7tFSFLX3wrvomhI75wRX56gJtENJBbSdi7JLiOA=
+
+Name: assets/ScenceHome/Button_zhanji.png
+SHA-256-Digest: G1F2PSJbGM175ABkUDCNY9lKlLX8q3HUORl3/vE9DyU=
+
+Name: assets/ScenceHome/CreateRoom/Button_ChangSha1.png
+SHA-256-Digest: 3mbyosI9yvQr0kFO/PgLxGku8K8mNG5Z1KcuWk6j9Fw=
+
+Name: assets/ScenceHome/CreateRoom/Button_ChangSha2.png
+SHA-256-Digest: ltLTdHWI4YreLEvla3k4M7s7VJDa+6SHM0GI/umTps4=
+
+Name: assets/ScenceHome/CreateRoom/Button_CreateRoom.png
+SHA-256-Digest: jwpoU3fF0fCdkBd5XLj3nmExuh7TYQAGxyvCwMXe7AU=
+
+Name: assets/ScenceHome/CreateRoom/Button_JoinPublic.png
+SHA-256-Digest: oPO5xjL1fxG/8pHpWfpx4dqAUsIvYvoa/0kLCLg33dw=
+
+Name: assets/ScenceHome/CreateRoom/Button_ZhuanZhuan1.png
+SHA-256-Digest: vaHl6MgfPIrrIGJQDJnsnPF05AWBqCnyE/aT0bQfIMM=
+
+Name: assets/ScenceHome/CreateRoom/Button_ZhuanZhuan2.png
+SHA-256-Digest: k/7kscx0ozQqTfQWVEiVpf8FjBR2RU8CujwsVbg+Fww=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_0.png
+SHA-256-Digest: 1vVowcmTdjU1haVWVluUDCv6ufxDqZ6Qrm7dFAT9Vbw=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_1.png
+SHA-256-Digest: +9qNMONSw5GKkmX6aCXQ0jzmH2xzVyR3abhbL3u6Ly4=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_10.png
+SHA-256-Digest: kYJw/ytYiz56aA0Ft63I6M2c86Gyu4sYolrsHno0cZk=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_2.png
+SHA-256-Digest: ekyNSmDVh1NA8wCZx270JmzSvjDVOslMGPGYZi7okV8=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_3.png
+SHA-256-Digest: Q3qurq49RCfDVqxLT90XkikswCXSX2/iTirOZh1dsZ8=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_4.png
+SHA-256-Digest: F6zkL6wCc8vCcx+Wr5QoB9p0SQCft6/Wm74ID0nBKj0=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_5.png
+SHA-256-Digest: TskYeaIN3pw3QyH/RdkDOLCx+mr5VQocmU825Skm80w=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_6.png
+SHA-256-Digest: yBGzZwatjCZKSxuElLy41/Scs+SJVqdgaTeqGF/HMQ8=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_7.png
+SHA-256-Digest: bzvk+DXi9ZGZYC1/4vAacVlFP9LiXGyIq2pJFYLk/D0=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_8.png
+SHA-256-Digest: nI0PAcVktnrM7olATvNYbvAqgCEY3lg/55gQVO9eCYc=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/club_9.png
+SHA-256-Digest: Ta3qerbfVAAFzzgY6oJTl7WLDDhQ+qgwQfQuBtvT+XU=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_0.png
+SHA-256-Digest: T2nBSB4EUdlD0LY3ywfo6w50OVuH9uDnqEdQg11x9/w=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_1.png
+SHA-256-Digest: 96buYv0CITrapbyKYuu2SEhfv1RrSR9QicYVncoF88s=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_10.png
+SHA-256-Digest: bGYpoF/GjTKG3SkEQkgJLof5hfpNI9tCMzkjSSIRoV4=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_2.png
+SHA-256-Digest: B+28YloiIMDBwJ7F/50zjaF6F3PNCT5Wtcvsp1BB1MA=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_3.png
+SHA-256-Digest: gMOewa8sLc/KtccftZSTosM+STE0vOjyp3kBxuXa/Nc=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_4.png
+SHA-256-Digest: sPb6MchQSCSTWcSGc1elURHnB7vpR2t7XEcqikJMzhY=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_5.png
+SHA-256-Digest: 720t4c1mDJtO1E4NlQpa8Sh0q3PWxFW+Pd09llV/JAc=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_6.png
+SHA-256-Digest: onElLdaCFY7SHhOHJFhW6361fhD5jUUT8P0tnlSRZHA=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_7.png
+SHA-256-Digest: zPZxIXypcNDYLMToRlZRRH9G7/eUDpJGo2UIfw2wyHA=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_8.png
+SHA-256-Digest: fy9QUa1XYWnL1LxEB/qrCU2hJ5k80D1wJz/42028I/8=
+
+Name: assets/ScenceHome/CreateRoom/animateImages/friendplay_9.png
+SHA-256-Digest: TLZe2H0/Nqh9sGlRQ8UcP28jKs05Wg8KbqkiRViEFy8=
+
+Name: assets/ScenceHome/CreateRoom/btn_checkbox.png
+SHA-256-Digest: Kc+aqdCfC/eLpoukmS4b9sN5M2sWwu9nxoV8pLWXGno=
+
+Name: assets/ScenceHome/CreateRoom/btn_checkbox1.png
+SHA-256-Digest: mzR2OIx50MbXpS0n2W7E8MQy8ActrQ6FXvRj+D+MkAQ=
+
+Name: assets/ScenceHome/CreateRoom/btn_create.png
+SHA-256-Digest: /BUjSuKZCUH2qr9gpbSWQ8hGlYw/nQPEUT72rIpdCRA=
+
+Name: assets/ScenceHome/CreateRoom/changshamajiang_explain.png
+SHA-256-Digest: NLfIiLJEw8yhCaaYg2Vkw93CW25Yzc4XNYpo9gAf9Yc=
+
+Name: assets/ScenceHome/CreateRoom/check_mark.png
+SHA-256-Digest: jW+xN6Z9MQrX3KLdLTpt/6QA1YuSTrtb+D3nOFjy7bo=
+
+Name: assets/ScenceHome/CreateRoom/create_room_title.png
+SHA-256-Digest: Xu0WGRqoNC573z8njCT/0D70oNgqcDmwdPnd+YEbZl8=
+
+Name: assets/ScenceHome/CreateRoom/create_room_titlebg.png
+SHA-256-Digest: kaJ4KWago7LV6vNylFx+2sfYutajhCSskYYiEJGY5gY=
+
+Name: assets/ScenceHome/CreateRoom/create_room_titlebg_press.png
+SHA-256-Digest: JPCExrc3M9KDd167zB8xnFLxBYQP1wSrfKXnC6cItq0=
+
+Name: assets/ScenceHome/CreateRoom/createroom_bg.png
+SHA-256-Digest: +zrHoG8TJyPqdEUhTyksHkeOSVmLfT6VnYnrDtGJxWk=
+
+Name: assets/ScenceHome/CreateRoom/createroom_biaoti.png
+SHA-256-Digest: jZMVDoho0A0P7HNSmK5qAtTqKPr0kGLqPAvroZrV8b4=
+
+Name: assets/ScenceHome/CreateRoom/createroom_chuangjianfangjian1.png
+SHA-256-Digest: T3Di4ZycjY/iNdtqy3QUK4iT8gyi4IqN5Wgk7u/ORQs=
+
+Name: assets/ScenceHome/CreateRoom/createroom_chuangjianfangjian12.png
+SHA-256-Digest: ak75kp7SBvSxENKv6t88JgHgZrF7jZjJbbxoCnb/KXU=
+
+Name: assets/ScenceHome/CreateRoom/gameDDZIcon.png
+SHA-256-Digest: pFMltVagaNEpW5AljBJ254ZAoU9VsaxRuJtpXmrlx3E=
+
+Name: assets/ScenceHome/CreateRoom/gameDDZNormal.png
+SHA-256-Digest: vR18XPvODlO4TZwNOma3Nvek3s/OgQFM95gqQvzTxig=
+
+Name: assets/ScenceHome/CreateRoom/gameDDZSelect.png
+SHA-256-Digest: HB+1kiuWFBpAvNSeZwgIqXOdNywml1dtYyjDKbwSMSA=
+
+Name: assets/ScenceHome/CreateRoom/gameNNIcon.png
+SHA-256-Digest: eJdhCm2hvYM9qJINBAZG572bVlRENDxX1iSHBPrQS/g=
+
+Name: assets/ScenceHome/CreateRoom/gameNNNormal.png
+SHA-256-Digest: BuQCXIn/TEoai76d7Tswqx3RtgVxgQU3xWkIb7abSiE=
+
+Name: assets/ScenceHome/CreateRoom/gameNNSelect.png
+SHA-256-Digest: vqIs3w1REVsqRD02dyCCdOY73tzH2iQizzXpGEamrBo=
+
+Name: assets/ScenceHome/CreateRoom/gameSSIcon.png
+SHA-256-Digest: Ql0GBgaoJPEIj8hsRR4e3iT7rfKWL68k5sgTRqcFy8M=
+
+Name: assets/ScenceHome/CreateRoom/gameSSNormal.png
+SHA-256-Digest: NU9hAj3jrDxa2BqzEW6i3RIYPmNmgGdq7xQmqbH8orE=
+
+Name: assets/ScenceHome/CreateRoom/gameSSSelect.png
+SHA-256-Digest: GP1Afr2DttHVWhzRNotoZ2YZZ6mGVAWimsYJ/k6HiIw=
+
+Name: assets/ScenceHome/CreateRoom/gameZJHIcon.png
+SHA-256-Digest: Zq8t8LhbMQM7JmGmxp5qHNyKhREpepJ01wTJTHUd5FE=
+
+Name: assets/ScenceHome/CreateRoom/gameZJHNormal.png
+SHA-256-Digest: wGTvoV/49B3HhXUauxqPArEuFDN7vyRsApgJWnxQ81k=
+
+Name: assets/ScenceHome/CreateRoom/gameZJHSelect.png
+SHA-256-Digest: 2k1kkykTMW9UFJCxCQbYsd43lMiy7bEMB8q7/NOUw4Q=
+
+Name: assets/ScenceHome/CreateRoom/goBack.png
+SHA-256-Digest: ymItuZooHbtEcO7OJxNaMDSxOD1iN8Uor8HyiLLxqPY=
+
+Name: assets/ScenceHome/CreateRoom/numbereight.png
+SHA-256-Digest: f+/cLBWAM+0WKYEfaF1Bgm0qF/igu4iMEAcWgVMnhSA=
+
+Name: assets/ScenceHome/CreateRoom/numbersixteen.png
+SHA-256-Digest: TFNJx+6HV42ELOqdv1eycr8Av9JSdQ45vMP11dn73Bg=
+
+Name: assets/ScenceHome/CreateRoom/select_play1.png
+SHA-256-Digest: G+MvtN3wxr7MKB+RA/e/cacJitaRBu/pnoKvwOVNqW0=
+
+Name: assets/ScenceHome/CreateRoom/select_round2.png
+SHA-256-Digest: weierW9qel5lg4nUWYP9mx8UvtasNNYLBNphpF4lAQM=
+
+Name: assets/ScenceHome/CreateRoom/sharenew.png
+SHA-256-Digest: MpB74VkAs+TkUwpt0ngCA4EKoIT7eZG91F5b5UA+71c=
+
+Name: assets/ScenceHome/FDBBG.png
+SHA-256-Digest: BFI2udA7i5xCRHh1GWmAmCeFnpip/LINEZHfRPEkPJ8=
+
+Name: assets/ScenceHome/HDImg.png
+SHA-256-Digest: 5MvO2KGNnMfsdzQnTgvpZTUTe0wLvBLUedvdrX1Zg/A=
+
+Name: assets/ScenceHome/Helper_Text1.png
+SHA-256-Digest: NbDqd7BAS65TE7reMo6kyX/tXWJNVcnWdXauVT/KDbM=
+
+Name: assets/ScenceHome/Helper_Text2.png
+SHA-256-Digest: NmajHqruskmCykKoxw+n3y+cJeL9dGTkjcQEgUY+CtI=
+
+Name: assets/ScenceHome/IDBG.png
+SHA-256-Digest: rltGQlZA/Ywu1zKVwFAb5AVfjwe+dk5GRHn/jYPy1dE=
+
+Name: assets/ScenceHome/JlbMsgBG.png
+SHA-256-Digest: UKRcp+aHHEsQZLAzVDLdiIEk/VK2x9bWUKkDdulPBNc=
+
+Name: assets/ScenceHome/JlbNoticeBG.png
+SHA-256-Digest: /5SlwS6A9Y+cOEPKosuhCz0Uz903goVPTczO7m1T0SY=
+
+Name: assets/ScenceHome/LeftPic1.png
+SHA-256-Digest: R5+n+zMTO3I0djx0NfZaQbhUlwD8OuJ9mQDcDOKZhqw=
+
+Name: assets/ScenceHome/LeftPic2.png
+SHA-256-Digest: RkwA3N/iXfddEraMXkbof/IvvgNFAJzc6rXPucy4nN0=
+
+Name: assets/ScenceHome/SMBG.png
+SHA-256-Digest: NnVK9BhcXUdFgKFZZesmwvRUS2xU23VV9T12ChJmNgA=
+
+Name: assets/ScenceHome/UIfengexian.png
+SHA-256-Digest: /v5VJqLoNq9zUcfjmqb8wgnaQToilKRR5Z3bJPNj//g=
+
+Name: assets/ScenceHome/WWGBG.png
+SHA-256-Digest: vhronrI0u+yzKKTPekSAXx/2r9wN3ZaETvFFQOb//Vw=
+
+Name: assets/ScenceHome/addcard.png
+SHA-256-Digest: 4AW5pveowXlFRt8KfAI8nrfwLo9QXntLDTPfwKdg114=
+
+Name: assets/ScenceHome/backtohome.png
+SHA-256-Digest: Vgm3OyLCexyIpckRIHyCWQthr+Loyo5u0QcHhpWpaeo=
+
+Name: assets/ScenceHome/btn_chong.png
+SHA-256-Digest: ULRC0eiwZhEq2OolpkFbuKAJQWqAGYxi1b+c7X+mDo4=
+
+Name: assets/ScenceHome/btn_chongzhi.png
+SHA-256-Digest: 6UJgg3stbMh89qcbcXKbY3zuY/+3Ox/8Tb9yl/gUp10=
+
+Name: assets/ScenceHome/changjing.png
+SHA-256-Digest: orLiMy3HrkRmVr2C6D06V6Y4b/Zq3Rm7vPk1m5B70o8=
+
+Name: assets/ScenceHome/changshamajiang_press.png
+SHA-256-Digest: /UdyKaxzXx74vG7A0mqR7qymoUvTiBYrVePsoO5sKRA=
+
+Name: assets/ScenceHome/charge_0.png
+SHA-256-Digest: yhJbNvdrKTP8wNEaGSo/plABBZQMf7cxXsRdbBLAw1E=
+
+Name: assets/ScenceHome/charge_1.png
+SHA-256-Digest: HloYLcTOA5LvYh1YQyOtBZI+ihdJI71a7Pw8XmKtiJA=
+
+Name: assets/ScenceHome/charge_10.png
+SHA-256-Digest: 9mEPI8yardrL80hBms0NMq0XTNVOnFA3Fv3oAqF6gOw=
+
+Name: assets/ScenceHome/charge_2.png
+SHA-256-Digest: gcj/3hDpZUw+Tz7IxwYqhjK4sETcAkL4/7rZQIYTg9c=
+
+Name: assets/ScenceHome/charge_3.png
+SHA-256-Digest: n4+anBz3bVPIDf6RS8w2VoM3KcVpA8HAHoL8V1Qok3U=
+
+Name: assets/ScenceHome/charge_4.png
+SHA-256-Digest: BBENdmuG3n+2vKnyrtTUDm93CYARMLrizASmLrkOgvQ=
+
+Name: assets/ScenceHome/charge_5.png
+SHA-256-Digest: wLAgLJk9WtqJHF6WV5OVI9MGV4NywW6t031wmAbB0Is=
+
+Name: assets/ScenceHome/charge_6.png
+SHA-256-Digest: 6W9XTdIiToZ4Wup0awnMjP3xnm/jbyG5fk8K1Cl3TIs=
+
+Name: assets/ScenceHome/charge_7.png
+SHA-256-Digest: o0I0VNeodt2PQ4e39aq4Cg6jZirlgx538gsGOa6YwQw=
+
+Name: assets/ScenceHome/charge_8.png
+SHA-256-Digest: RM6eCFmU9CAyKsUluAsygEqDQGiQqIABiJA1DWSvUl8=
+
+Name: assets/ScenceHome/charge_9.png
+SHA-256-Digest: GFdqN00eryBSu1vIDGcqreMLyI6a0Z8h7Mz6Cm+BP5U=
+
+Name: assets/ScenceHome/chatBG.png
+SHA-256-Digest: BQWsfYKmPi0EBdazzv7FiZrLQ6Y6NJI99+emMCY+PLM=
+
+Name: assets/ScenceHome/chatfangka.png
+SHA-256-Digest: IJgcqHwLzPgBYS7PBeoffx1fteCvIcxTuQBiobNc6MU=
+
+Name: assets/ScenceHome/chongzhibg.png
+SHA-256-Digest: 3/Ll00Ozh+crQo9joRAC6cyE97BiWzQRiD9dKWvr0eQ=
+
+Name: assets/ScenceHome/chuji.png
+SHA-256-Digest: e2f6t20kZPizRPNdrTu9KzB9Uo5XPEAc/xUhbPuDLzM=
+
+Name: assets/ScenceHome/chujiBG.png
+SHA-256-Digest: sXnaibkQp+TWKdRfkL6I44GwhII+pvLtds5lTaBTDeE=
+
+Name: assets/ScenceHome/createroom.png
+SHA-256-Digest: wV22kXSXw12Rm7fyR5GTOh5wNGlpr+YSEd5ZGoCKqEM=
+
+Name: assets/ScenceHome/daili.png
+SHA-256-Digest: dtN5TenAbNFGPEjy26CqvfPIcQS3R1PhoqYbDHUcAKo=
+
+Name: assets/ScenceHome/ddengchu.png
+SHA-256-Digest: GI7YJ5dMwoSRXS1xIWKrskVDme0zPV+K6sCyHYk5knA=
+
+Name: assets/ScenceHome/dingbuuibantoumingdi1.png
+SHA-256-Digest: FZPP9BrcnXOEJylBuVf5OuOPGcjwKV95tg60JgYrEXw=
+
+Name: assets/ScenceHome/dttuichu.png
+SHA-256-Digest: 7qLFCFaNtsYTYO0tdQ8yYPu+fATmTFyGk6OkildpVDw=
+
+Name: assets/ScenceHome/fangka.png
+SHA-256-Digest: 9sW+mXzk3YCmUjF0okc16bQHXnXNQz2E+/D3GSV9YVE=
+
+Name: assets/ScenceHome/fangkaxiaobeijing.png
+SHA-256-Digest: YrJ8e3mZW97yl251rfOkANVwjsHXojHLIxqAhHLvxT8=
+
+Name: assets/ScenceHome/fenxiangdao.png
+SHA-256-Digest: CyGK9l+/6iYjptPY4FRQah/ITSpZr8FCseQiBANjdf8=
+
+Name: assets/ScenceHome/fk1.png
+SHA-256-Digest: hKCkQtb26MXSN7TJqAofyjKdj6AvbPQhHGWHbmmO2gI=
+
+Name: assets/ScenceHome/fk2.png
+SHA-256-Digest: NPaNJBUTgMjsU4zCCWFu+QsvpP0C5oYX7In2OTjFgLw=
+
+Name: assets/ScenceHome/fk3.png
+SHA-256-Digest: oXIeWJB6Lv+6WWCyD2p631kBr8oAQI963/QDtUhjHUk=
+
+Name: assets/ScenceHome/friendroom.png
+SHA-256-Digest: IBg1DsCVlMGMyv3OQKn5c2dalAQii0kf3ThSH4O6nOs=
+
+Name: assets/ScenceHome/fxbg.png
+SHA-256-Digest: i8ATH4fbXSQZq77/wbCojfTakiw8G1F2HuXf14UTGjo=
+
+Name: assets/ScenceHome/gaoji.png
+SHA-256-Digest: +Lg0+BPe5/sfpA/r3I69X7m0s57BBfHpeqC7KdkeZV4=
+
+Name: assets/ScenceHome/gaojiBG.png
+SHA-256-Digest: ewSv2GNRPmURp7Lpf5e/WsrgDDrrcp1tL5O5R69wkbY=
+
+Name: assets/ScenceHome/haoyouqun.png
+SHA-256-Digest: uuIJrkoQ3mBIkwo+tZ0dUeqUS4FJeb1vO5y9EXiGPog=
+
+Name: assets/ScenceHome/head_image_BG.png
+SHA-256-Digest: SBItgXQ1/tdx+twlSgI6j2fCJSy1gEgIX2B8lIHSiYk=
+
+Name: assets/ScenceHome/head_img_male.png
+SHA-256-Digest: /Ij6Ckl3Mb8P9R+SwZmR1I2UUWUkbpP9X4zjthCLq3E=
+
+Name: assets/ScenceHome/help.png
+SHA-256-Digest: 4QdEkawChjxz+mcmKv9dZDujQMMFAY+x2QOe9sNsHro=
+
+Name: assets/ScenceHome/hongseanniu.png
+SHA-256-Digest: WLrPq/MTGeb7u7F3sW9rkecgHxLNtJXdnaBvkCUk1hk=
+
+Name: assets/ScenceHome/id_bg.png
+SHA-256-Digest: twdW8+fuQui7Jq8nf2iaBnordJKUVySaqWQ+mD5tYn0=
+
+Name: assets/ScenceHome/inputBG.png
+SHA-256-Digest: See5elF2fau89DOrdRXB/Tdab2A45qXSY79LrGqWAFE=
+
+Name: assets/ScenceHome/jinbi.png
+SHA-256-Digest: YHAOniwpuO/O7N+P+pnjWxmxLmulB9oqhF0i1CNXg9Y=
+
+Name: assets/ScenceHome/joinRoom/NumBG.png
+SHA-256-Digest: dX0xuqDDgl7hFfH9/55QlfOdHREOcuXHlpAHp5YqjaY=
+
+Name: assets/ScenceHome/joinRoom/btm_line.png
+SHA-256-Digest: tfftpRCLbCRe77imOXNdNjeBjj98mJ9057U0mlSQsBQ=
+
+Name: assets/ScenceHome/joinRoom/enter_game.png
+SHA-256-Digest: QliirlMmHpL0bYuiOEcr4VJ94v5JtE8Ya/8jB9Wpa38=
+
+Name: assets/ScenceHome/joinRoom/goBack.png
+SHA-256-Digest: e6PIXb3PDUlgs894kX4QHYN2hG2T+epfJUmJW7A+cuA=
+
+Name: assets/ScenceHome/joinRoom/input_room_no.png
+SHA-256-Digest: lydonY3jzL/qAJYJ5tTQrBZv0MwYLgHT821F1pv6fu0=
+
+Name: assets/ScenceHome/joinRoom/new_heiban1.png
+SHA-256-Digest: CnhBmQdKF42jVdGNBuvDy7M3Lw8KoP0HqbWt8nYz+hU=
+
+Name: assets/ScenceHome/joinRoom/press.png
+SHA-256-Digest: iNJgQMkQKcnweFEeiVUZT2SzgJem5qeTiHIvovvD9oM=
+
+Name: assets/ScenceHome/joinRoom/selectroom_bg.png
+SHA-256-Digest: +XFeCXPE9SNg9Qmzf5yHaEfVBVk9TZazhEllNFor2eo=
+
+Name: assets/ScenceHome/joinroom.png
+SHA-256-Digest: nU+3q8d5MJ971We/w04qy8VBnxGKQFdriTF07ZCo2vM=
+
+Name: assets/ScenceHome/laoyue_bg.png
+SHA-256-Digest: SUBNNGXQWvQmATYB4QoyHbwvOGhJVU/l/p5qE+z1KlM=
+
+Name: assets/ScenceHome/ljbd.png
+SHA-256-Digest: Rec4+sQWlhvL1wtw3nqZz6dzrSl1PVSpbbEEYoXaOWY=
+
+Name: assets/ScenceHome/main_mianban.png
+SHA-256-Digest: 5UihLksRPEICYFXAdBnS9EQbFm/5AT4TpRYOstXmslM=
+
+Name: assets/ScenceHome/mingchengbantoujianbian.png
+SHA-256-Digest: tW2BFZZt93mmyq8661CnCJjJKs9cGWqeHO7LRyNyliY=
+
+Name: assets/ScenceHome/msgsend.png
+SHA-256-Digest: tIbTbr4bAgL19dpiUPB3MCNQC24ck7qAC6KPhsgLHr0=
+
+Name: assets/ScenceHome/paihangbangBG.png
+SHA-256-Digest: c502ChcxJDkrFWI5L7rPqu76H38cMEz+ts/5jldTElE=
+
+Name: assets/ScenceHome/paihangbang_arrow.png
+SHA-256-Digest: kYX4+Q5wSWMsh8f/MDrp+lAdXoU+LvSJo7/5LpkiW8I=
+
+Name: assets/ScenceHome/paomadengbeijing.png
+SHA-256-Digest: J3twiKq0oso7Y2Fmf+Ylij5lqg1Gv0qlyRAVeLqSnFE=
+
+Name: assets/ScenceHome/pengyouquan.png
+SHA-256-Digest: ETlEWkLBy0ocNwZw1eQhf0OHrM42aDUWcDErvoPziY4=
+
+Name: assets/ScenceHome/public_frame_a.png
+SHA-256-Digest: PGgnh90Jrw1+Mk5uii/WsNriINNfakB9u4fqNiLSiHU=
+
+Name: assets/ScenceHome/public_frame_head.png
+SHA-256-Digest: qMi+fIMba0SlJUSTfxJKvO/qFob43QJmA6Bi3se9Cw8=
+
+Name: assets/ScenceHome/public_frame_heada.png
+SHA-256-Digest: pMtLzYaTzuFM1/mH+2271VGhkKp3NTEVZf9uhf/WPbQ=
+
+Name: assets/ScenceHome/rank1.png
+SHA-256-Digest: Cd7dv89Qwr0YMWQL9Do1r+3EZpazg7U0C/tve5C3gxI=
+
+Name: assets/ScenceHome/rank10.png
+SHA-256-Digest: bmxnYZ6pqw4y9EmyCe6Sd7yyJTOp8w0stslRPRFIgC4=
+
+Name: assets/ScenceHome/rank2.png
+SHA-256-Digest: IH3AUSyVBLy33CaJg3RhRKeLtVStVzTS67dbXkbiYIg=
+
+Name: assets/ScenceHome/rank3.png
+SHA-256-Digest: JDP9SP7w8aOKXfOVN6VJHKuI1ztJb/ASEUsjU2sp+NU=
+
+Name: assets/ScenceHome/rank4.png
+SHA-256-Digest: aGtxuKZ1fdao81IVqRXzPMjxcV+vbrBxiuDBWvMcpC0=
+
+Name: assets/ScenceHome/rank5.png
+SHA-256-Digest: 3tUB5NEc59Qg4ULxM2jHK/6PFl8fs67c5vyKl+mO++c=
+
+Name: assets/ScenceHome/rank6.png
+SHA-256-Digest: Nkb2cI6PfKH868WXYDUiZw334s272xGD/WLdcc+1EEU=
+
+Name: assets/ScenceHome/rank7.png
+SHA-256-Digest: zBn+f8RctmT/lo9RsbW1BiSkNe5f2JcFrvPet0w6C5o=
+
+Name: assets/ScenceHome/rank8.png
+SHA-256-Digest: z/znE8QdDmDExjVxrRA1p3X1iAPTdNamhMuL7/Fgcco=
+
+Name: assets/ScenceHome/rank9.png
+SHA-256-Digest: lURAczEETZCHcW/Xxo9YMUBoVeY7gI/7YJrUhymSSoQ=
+
+Name: assets/ScenceHome/sharenew.png
+SHA-256-Digest: 20dp0AB+Bd8Al/e1cVmkil2zVgQFDtm4KBCNEFQYfts=
+
+Name: assets/ScenceHome/table_red.png
+SHA-256-Digest: jatxtF7ONst0xt4p7jlvCZl42f12RJlC+gsoi0oACyQ=
+
+Name: assets/ScenceHome/top10listcellbackground.png
+SHA-256-Digest: NiLGQz2nuurd7R3UdubCFa2E8HgM/VJcRqHVTHt9py4=
+
+Name: assets/ScenceHome/toptenbackground.png
+SHA-256-Digest: dcRCvmV4MjWknGHq/vkY8aXP4/JbjJA+GVjkSdF1oAA=
+
+Name: assets/ScenceHome/toptenbackhome.png
+SHA-256-Digest: gETsIEVp3jkB1bOK5LmcPVRYwliinv0ZItry2luuiqw=
+
+Name: assets/ScenceHome/toptenlistbackground.png
+SHA-256-Digest: 3o4YtFkfh+rte0b0tNLYeeY8mXHLSB9WVC3KXivGSP0=
+
+Name: assets/ScenceHome/vip.png
+SHA-256-Digest: SkZdGr9+/T4FHNRDiHv1T8qkwX3D1hhgWhdvcM4PgJw=
+
+Name: assets/ScenceHome/vipBG.png
+SHA-256-Digest: vkTaVam/yH8UJPTTplHJtONRRPWriFDZB2HcFLc/qHA=
+
+Name: assets/ScenceHome/xiaolaba.png
+SHA-256-Digest: xMCO558ejLvXdTqyEq21fJLgU5coST5roiv9dfwTBmM=
+
+Name: assets/ScenceHome/xiaoxi.png
+SHA-256-Digest: y6p+d4pg+q3NwhYhGAnPa0wm2HtnnQn0Vs+gYhPFf8A=
+
+Name: assets/ScenceHome/yuleBg.png
+SHA-256-Digest: 9L7C73YT1/Kz/TUT0NWWCiArnWp/Y18SQhB+zltOo/w=
+
+Name: assets/ScenceHome/yuleNNbg.png
+SHA-256-Digest: 1ZT80pMo/de2r/PaEg5LLfNHnP/p6gCRH0FWOkGtzPc=
+
+Name: assets/ScenceHome/yuleZJHbg.png
+SHA-256-Digest: SvN0joPx6xt1mmHgMuhP+6koEjUXF6tOeSoRsXhzPrY=
+
+Name: assets/ScenceHome/yuyin.png
+SHA-256-Digest: MXUUQiB5q1WYawYiZhFb8aGSO5PsdKoZfHt2Qt1BZzw=
+
+Name: assets/ScenceHome/yzm.png
+SHA-256-Digest: qsoGef4ot94Xg+t+sY96bpLA9VfDqTkiPfpMx3uh+DA=
+
+Name: assets/ScenceHome/zhongji.png
+SHA-256-Digest: O69nnEn6GvfW7aHwbadsmIZfLqCzyHp3pCj3x5Oxbuo=
+
+Name: assets/ScenceHome/zhongjiBG.png
+SHA-256-Digest: dn0Vuo/DQ5QKofB/03w80ppv8vvDqWF24EwnCBTUsnI=
+
+Name: assets/ScenceHome/zhuanzhuanmajiangdabiaotidi.png
+SHA-256-Digest: HCM+rp7/AIGOCs/l1COc1XSVv/XabtrnY4Voptl3s+8=
+
+Name: assets/ScenceLogin/Button_GuestLogon.png
+SHA-256-Digest: Ag69KgVPnhtXzibffqasR26loKzhXvmEbvVAZ2k+jdE=
+
+Name: assets/ScenceLogin/Button_PPLogon.png
+SHA-256-Digest: v+q07GbTTzjM7OF/OE8Sq/xRYXFFmljJIAPzLc9XQ3o=
+
+Name: assets/ScenceLogin/Button_WeiXinLogon.png
+SHA-256-Digest: dl6//OItdKsnUq34qe0gW16YfcqiSxhfBEHxOA4yKDA=
+
+Name: assets/ScenceLogin/Start/Home0.png
+SHA-256-Digest: Q/yrmb2FWBUkO2qhK128SqKrZG6Jz719oSsxp6xYKFE=
+
+Name: assets/ScenceLogin/Start/Home1.png
+SHA-256-Digest: Ivy7UZGLCMkjled3ZdC7ddGWKQArTRNcdq79uHnCHaI=
+
+Name: assets/ScenceLogin/Start/Home10.png
+SHA-256-Digest: 1IiW/kRA/1OuFqPAzbx02S36ghP7f6YDafWTvQrSv5U=
+
+Name: assets/ScenceLogin/Start/Home11.png
+SHA-256-Digest: sKZVSmhr02NEqeojfW0FJx+3kJL4C/VqYx4GFWJHaIM=
+
+Name: assets/ScenceLogin/Start/Home2.png
+SHA-256-Digest: 4t/OWNzhnUDPul7OXkpsWmwhIVXTLoATdb7SUaqoTD4=
+
+Name: assets/ScenceLogin/Start/Home3.png
+SHA-256-Digest: EJB9OmAxeeQspNwwvEvAvBVFrTphlFQgPnu7Qg3x+gI=
+
+Name: assets/ScenceLogin/Start/Home4.png
+SHA-256-Digest: EOz0/3Yie1RgUdIr6vVRhlBtWisPEmYQQsGYuRaV5Z4=
+
+Name: assets/ScenceLogin/Start/Home5.png
+SHA-256-Digest: XjYDOeIbwt7byWOOc4wvkwPJ3owkHwuCDv934jrYTbw=
+
+Name: assets/ScenceLogin/Start/Home6.png
+SHA-256-Digest: YLqI76TLzlqHdOSjY50MdOEHKawXrIuWcHFY3B1Jtos=
+
+Name: assets/ScenceLogin/Start/Home7.png
+SHA-256-Digest: bTlQjuGBnqyuCd9175CQBgQ4UoQkb9BFiMCPV7Y5w8Q=
+
+Name: assets/ScenceLogin/Start/Home8.png
+SHA-256-Digest: 1BbIu8dvxIuFs6hc0XHKXkovIn2bC59GOI1BnblbO64=
+
+Name: assets/ScenceLogin/Start/Home9.png
+SHA-256-Digest: plRLvshhOBJzW36DXKKdEbSKHmG5oPsbVHsrb9vtGZk=
+
+Name: assets/ScenceLogin/btn_checkbox.png
+SHA-256-Digest: 8CbM4ETNusuGZiv0azGKzlW+u67HGaWC8oRRXaYeFs8=
+
+Name: assets/ScenceLogin/check_mark.png
+SHA-256-Digest: PYtG1NP4zdi5l2N9f/teOUh/3+8VeDPBDU0638I3adM=
+
+Name: assets/ScenceLogin/loginBg.png
+SHA-256-Digest: etqG3AASUvpIPCpoX30IsXKe+xCBJcrJnFJivWsZyRw=
+
+Name: assets/ScenceLogin/logon/logon0.png
+SHA-256-Digest: iZtEnvuEW1XwhJ5REqRfTqhuxGNhtktg5A5maGaqy00=
+
+Name: assets/ScenceLogin/logon/logon1.png
+SHA-256-Digest: pYYJBiaevKuLE42mNKQThuir4ZtprnXDo9SWH/eSqhM=
+
+Name: assets/ScenceLogin/logon/logon10.png
+SHA-256-Digest: m/qatPDsbCJu4bdcYoTFmsyRMuN/Ql3Rtfm8WiQFzGE=
+
+Name: assets/ScenceLogin/logon/logon11.png
+SHA-256-Digest: nKcqb3u6tbRg94vswz/Vr2sPG3GLy5BqGJpGufN6zBA=
+
+Name: assets/ScenceLogin/logon/logon2.png
+SHA-256-Digest: mo9AZdJrfzc5XQC3ymh6H4k/fiuH0JhxfRcsLZpuNic=
+
+Name: assets/ScenceLogin/logon/logon3.png
+SHA-256-Digest: DsDcByEJz6h4YFSmH3qL+PYBfkqxfn2F5XPJOVO/sPo=
+
+Name: assets/ScenceLogin/logon/logon4.png
+SHA-256-Digest: iVA+QYXpJtaLPEPsOqUKKe/AVxYPqGns+XPrSiOGdms=
+
+Name: assets/ScenceLogin/logon/logon5.png
+SHA-256-Digest: kbMagLgJPnVdsApW6OZX0P1WJIo4sviUmYvfoN8qC0o=
+
+Name: assets/ScenceLogin/logon/logon6.png
+SHA-256-Digest: oerpnfupFfFzq98kTur9ZoO6SOm6B3jrUy9mNMLfTfM=
+
+Name: assets/ScenceLogin/logon/logon7.png
+SHA-256-Digest: VALB+F+lzBYFuYEDKymMMEeY2TyNExAgR/HRQ5mur24=
+
+Name: assets/ScenceLogin/logon/logon8.png
+SHA-256-Digest: OGMaSDBtRImQPuZD8qXbbB61Pb2CUi9Pxf64c+Wxhdo=
+
+Name: assets/ScenceLogin/logon/logon9.png
+SHA-256-Digest: vIZEUI1N9VUGccJLdXGnFJ2y7L+96JtzTe197CZe6ls=
+
+Name: assets/ScenceLogin/updateBG.png
+SHA-256-Digest: 5xfjC8XmnAiq17Z5iz+pjFENMj7fKEWwU+FQuHKEQWc=
+
+Name: assets/ScenceLogin/update_btn.png
+SHA-256-Digest: SodAhhpysPPg+0IXJtOb8DifBhHmVXDocZlNqJu43xQ=
+
+Name: assets/ScenceLogin/wenzi.png
+SHA-256-Digest: pr/BTkM/ZnJpnnlQYKIsN9lsl6h2TI0PM8UBDJKzAAs=
+
+Name: assets/ScenceMatch/9Scale.png
+SHA-256-Digest: xJvgce66keVvIWavwA+KFiRS0ONUGwl8pjjf74smiQo=
+
+Name: assets/ScenceMatch/Button_SignupMatch.png
+SHA-256-Digest: vP11+GZ8uFi+ObmQYNkw1q7yD7EYZNyoVZnlGOjGWA4=
+
+Name: assets/ScenceMatch/HeadBack.png
+SHA-256-Digest: vruC8g+RjAe8PhDLc4qtMHyXK6KNkc1PDGZnG6rEl4c=
+
+Name: assets/ScenceMatch/MatchType0.png
+SHA-256-Digest: E/K0XK9aE6ciY3Rino+8y9q2r+cJnFLTCkIGSsZdLdI=
+
+Name: assets/ScencePlayerInfo/Back.png
+SHA-256-Digest: wQyIS6HN6JltAE1bACilPppyk2BFHVx2VwCndh7XDCQ=
+
+Name: assets/ScencePlayerInfo/Button_Gender1.png
+SHA-256-Digest: qF0E5jZYYN5sKX68MpXkQxg6/uCNS8Yn35BSo6EgEUg=
+
+Name: assets/ScencePlayerInfo/Button_Gender2.png
+SHA-256-Digest: CtzXhQUXNLDb3wjEE6v3VcrQHm/xtaL0vb/K32VmjQs=
+
+Name: assets/ScencePlayerInfo/Button_Public.png
+SHA-256-Digest: LwycNy8BUpvSVxLp46HogDvRUAv4bHGFC+tv+4IyJsk=
+
+Name: assets/ScencePlayerInfo/EditBack.png
+SHA-256-Digest: /zVpCdMXD4iKepLTSYHixOYjI/EL/f8YLGcVMwI2Fow=
+
+Name: assets/ScencePlayerInfo/HeadBack.png
+SHA-256-Digest: cZClA1BEE1bdmruRPpR8gSoF2/ZXYD66l/37cbqfZu4=
+
+Name: assets/ScencePlayerInfo/Line1.png
+SHA-256-Digest: nvXQOhU0ltSmaHVYTVzsyZ7RSW+3o72oFyvhltDsuqM=
+
+Name: assets/ScencePlayerInfo/Line2.png
+SHA-256-Digest: IjviGe7zsJjTOOrrlsIAEVzLG63ICq/BAFgtYwqoLBk=
+
+Name: assets/ScencePlayerInfo/Title.png
+SHA-256-Digest: KxvpEJoI6tyfyxdU499HD6x13oOlyYYCYvJtXHucS0Q=
+
+Name: assets/ScencePlayerInfo/sitdown.png
+SHA-256-Digest: sTZezc2Pqktf51gndJ+dUoQg0rymRpfe3Hy+wID5U1c=
+
+Name: assets/ScencePrivate/Back.png
+SHA-256-Digest: dCS/YNsI0OzHrYznr+w7SgNLjfWfVvfA2tMGKrdxcso=
+
+Name: assets/ScenceSet/fangkaxiaobeijing.png
+SHA-256-Digest: +abuAslcQxMT0xyWQYevuH0Dg7QMtLrsnQ98X4PVQkU=
+
+Name: assets/ScenceSet/setting_bar.png
+SHA-256-Digest: XJCo22mGw4r8xiRo++sGrpkvzNETjBk4F/iHXrGVfjM=
+
+Name: assets/ScenceSet/setting_bar_bg.png
+SHA-256-Digest: QcklJjJGo220VJFOZq+yKjBke1gsuBKoFgVz9Rsy9PA=
+
+Name: assets/ScenceSet/setting_btn_apply.png
+SHA-256-Digest: JK6gRvfbNtE2+qAeg383Uayd3GgAky28Us0n5U3k0WI=
+
+Name: assets/ScenceSet/setting_dice.png
+SHA-256-Digest: i89V1XiP94qdemG1jlKuQFyZ/3Nr2hhmcTOpqUHQq0E=
+
+Name: assets/ScenceSet/setting_max_sound_sign1.png
+SHA-256-Digest: kSFBZZulMgohFwa5GRZ1r46RoJ9yA7B1JX6LYgE9FRk=
+
+Name: assets/ScenceSet/setting_min_sound_sign1.png
+SHA-256-Digest: YRBXngj9O17upvmZPHTyW0Dsdu7uUwaiWn9lGt2tZzc=
+
+Name: assets/ScenceSet/setting_music.png
+SHA-256-Digest: rvrTiEkhaqKuPVvUV+QPux4WfxG845gw7SNQdmX0lzk=
+
+Name: assets/ScenceSet/setting_segment.png
+SHA-256-Digest: tjmNpj0tdNRA3eixEdhu+2bVmH3sVYSWj35/ITrAbug=
+
+Name: assets/ScenceSet/setting_sound_effect.png
+SHA-256-Digest: JCtlCnRYrGC1GL6CvhIyu3qrmdjTMIx/blQp04ifKbA=
+
+Name: assets/ScenceSet/setting_title.png
+SHA-256-Digest: bQRAZr6FewG8QmcxvGZYZcKuMHFDgiFeco34FXlSRHw=
+
+Name: assets/ScenceSignIn/Box1.png
+SHA-256-Digest: 8wZyJdweTp/jL0i6YoJQ04wpPhOw88nUpYv80W18wOY=
+
+Name: assets/ScenceSignIn/FullEmpty.png
+SHA-256-Digest: FoOIGcxNCcwaol9clONF63B2k9VwxuAF2wQUv3tEH94=
+
+Name: assets/ScenceSignIn/ItemBack.png
+SHA-256-Digest: SWaZLL9+Sw9v79e9ELA9Ul8kRERO2vV70AIv2Lg6tSA=
+
+Name: assets/ScenceSignIn/bg2.png
+SHA-256-Digest: tW54+a7/w2KJuqvqWyQsvf9zKTMsA3mR8WoSCPfy14M=
+
+Name: assets/ScenceSignIn/bg3.png
+SHA-256-Digest: tJN66vZpdAqx2oNeQOm36YU9gopNf2xHCnH5GdrO0xA=
+
+Name: assets/ScenceSignIn/sign_1.png
+SHA-256-Digest: misEZyHESaoxCgWiN74bkQ/MJRF3UYoQh7LCfyfODUU=
+
+Name: assets/ScenceSignIn/sign_2.png
+SHA-256-Digest: qpHU1EoBgoIyRmPHqW34KKGCEBrcyysXZtLhlBSruRE=
+
+Name: assets/ScenceSignIn/sign_3.png
+SHA-256-Digest: GWpQ2Hd1YLmgQ5WUbd7YqgNf4T1hKtrpFpvpg9gUMbw=
+
+Name: assets/ScenceSignIn/test.png
+SHA-256-Digest: QrwDF634wGw0RTbD3ofsdKuoNtOUvXU6YCMwHtvoQS4=
+
+Name: assets/Script/ClubScence.xml
+SHA-256-Digest: BlsStpptYjh4NMS3mlB1veO7iQYKkV+2wjwtYo3vHsY=
+
+Name: assets/Script/ClubSkin.xml
+SHA-256-Digest: MPT2v+/SklOoCpQjyIX4aPEUPkUxhbzbdX2Q6t3wXfY=
+
+Name: assets/Script/FYChatScene.xml
+SHA-256-Digest: aLgAxCdpm+XXOV4QokjgwvjSuXdhN2+hw9EJD29uHo4=
+
+Name: assets/Script/FYChatSkin.xml
+SHA-256-Digest: YGrXo6FNTnjTJrzeV4Y4dFODVbwCpx3itKX6EIU81UM=
+
+Name: assets/Script/FYExitScene.xml
+SHA-256-Digest: bj+Fj3VZIiOnEGgt+zBW0gUX6dgLWkKQYJsP8Vjv1Mc=
+
+Name: assets/Script/FYExitSkin.xml
+SHA-256-Digest: yudmqZP0uscObbpjpW5xPxTP7rMU0gdLLUa0JEb1sUg=
+
+Name: assets/Script/FYGamePrivateScence.xml
+SHA-256-Digest: IAJZNPxQgZOTzWbsvW9Vx2LxcSwdKKK0Pk/58SAm5JY=
+
+Name: assets/Script/FYGamePrivateSkin.xml
+SHA-256-Digest: m8c7nwr5F/FcLrPKJRWQZAVZHbGLW41bBZS4gs3swTA=
+
+Name: assets/Script/FYGameSetScence.xml
+SHA-256-Digest: TkosjfRD31ukhE++Z0PsrwjTok3hbghCEM6H3dTq7DQ=
+
+Name: assets/Script/FYGameSetSkin.xml
+SHA-256-Digest: +sILB1BgJJRWGaQD8iBHcCAgcx5BtmtHrp34O++9Yug=
+
+Name: assets/Script/FYGameZhanJiScence.xml
+SHA-256-Digest: BGZqHSSEqVUgySAWVjJ/xICrOHnhlmz7VaGWW0LXYV8=
+
+Name: assets/Script/FYGameZhanJiSkin.xml
+SHA-256-Digest: 3i3t/j/ccuYFxQLa4Y8jJmimoz9PZBhfM3IfdZvxFU0=
+
+Name: assets/Script/FYSetScence.xml
+SHA-256-Digest: suoFKUy+2UtbtccuR/JYbwR1gfSbcV3XyvuJNAX3ntw=
+
+Name: assets/Script/FYSetSkin.xml
+SHA-256-Digest: GF3WctBUYLVVwHA6r2k/ZjhLokb2+OICs1vn1GIIC54=
+
+Name: assets/Script/FYWidgetSkin.xml
+SHA-256-Digest: R0Tc6uvjoJwarDOjj5cZDYsCxPooQRrzyhmsikl1Bi8=
+
+Name: assets/Script/GoldEffect.xml
+SHA-256-Digest: BBjPrYmLEhx0EUrqxTCBfiwLS2BKuxCLg0ZcqhjR5gM=
+
+Name: assets/Script/GoldEffectSkin.xml
+SHA-256-Digest: BawIab52Gw1r7ks3IoEweR4VXcx5rXwvpDBI38eeZek=
+
+Name: assets/Script/HNADScence.xml
+SHA-256-Digest: 8wB04O8V4Qpe9lDcXvdTNyPpmLAO1sVtRW2/5tJGvrU=
+
+Name: assets/Script/HNDeclaractionScence.xml
+SHA-256-Digest: NxTZvKVI2k8QBE6HsDz2RBDAIO2eoK3w+QOj1kFttMA=
+
+Name: assets/Script/HNGameDLScence.xml
+SHA-256-Digest: hCA/lgU6iFcggyOf/jZIbvpFoOF0s58mMsrZ4erEMpA=
+
+Name: assets/Script/HNGameDLSkin.xml
+SHA-256-Digest: l22g5qXgH+6wqdws4H0G72WInn2PNNmZUCUSUpQl0o0=
+
+Name: assets/Script/HNGamePrivateScence.xml
+SHA-256-Digest: 1YOgVIHGTpvEr1VmoJsuY0VWeBJ5urC0ckLrdZXthdg=
+
+Name: assets/Script/HNGamePrivateSkin.xml
+SHA-256-Digest: JaYtXMXGexdSNd4irocBh6g/ySz0hW9HpZ0Bsm0QvHI=
+
+Name: assets/Script/HNGameRecordChild.xml
+SHA-256-Digest: oG7I6HeD7ZvMVTLv4jofdQFQ9J7Bw3W1KuYw6ftW4hg=
+
+Name: assets/Script/HNGameRecordScence.xml
+SHA-256-Digest: dKhO98MIXj9JQh1hlGIHa16jaDo6zUWnBJnTCeqF1V4=
+
+Name: assets/Script/HNGameRecordSkin.xml
+SHA-256-Digest: LdLOM+/R5IwbMwgJ9BZPljZXe7uxIWiKtZ5zZ9VB7xc=
+
+Name: assets/Script/HNHelpScence.xml
+SHA-256-Digest: WSIhz3kqoLLqISmFMielTQluaAzOPtEcfFZNrJi/F1c=
+
+Name: assets/Script/HNHelpSkin.xml
+SHA-256-Digest: /qd64BM6Stfuc0FhEJLgdtTpUyaPtDbliVROGAo48o8=
+
+Name: assets/Script/HNHomeScence.xml
+SHA-256-Digest: +Vq2rio+uSZec65DS/RMVzj0bZpEcJUdl1X8FiiOMLs=
+
+Name: assets/Script/HNHomeSkin.xml
+SHA-256-Digest: tb5i81ja/n3DWr7bFZcxDnzr/VKQekV6fl5ws+CvrkM=
+
+Name: assets/Script/HNLogonScence.xml
+SHA-256-Digest: m7nd4Q4tP29+XM/vCktx2m4d/sj8+RlowHi5duKk6Pk=
+
+Name: assets/Script/HNLogonSkin.xml
+SHA-256-Digest: Rl/3pds/kZqd1ZZJJpbtMXqpFeIqfU7N/lsNWu6lcWc=
+
+Name: assets/Script/HNMJ/GameScence.xml
+SHA-256-Digest: Ur9J0iNt2n7YVWVKwrjEFn4teDNstMrSxn/o7EG9VE0=
+
+Name: assets/Script/HNMJ/GameSkin.xml
+SHA-256-Digest: KQWx0fQzg2IQWGZbWsNkb+S23qFdBfIFDq1Mj50xHuY=
+
+Name: assets/Script/HNMessageScence.xml
+SHA-256-Digest: PuZiQ69f/QcyorOsj9dHdkp44UHA7mpXIEhkDFH/tnU=
+
+Name: assets/Script/HNMobileScence.xml
+SHA-256-Digest: jdxbI9whtJcbjbg0na0I1cpnmDQIherKCf16cY8yubc=
+
+Name: assets/Script/HNPrivateScence.xml
+SHA-256-Digest: pw2Ke5Oejh2b/TofXdbxLjP91vgU/Lw/pz3/jA5X5+s=
+
+Name: assets/Script/HNPrivateSkin.xml
+SHA-256-Digest: /KhoPkMZwXnEjOdpX5OPpCzkkJlfNYj1nILbQpNgsVo=
+
+Name: assets/Script/HNPrivateSkinHN.xml
+SHA-256-Digest: 8BA1E0qjbni7P7B9t0Dl3+pUKExF0l/TyTlyygxwvQw=
+
+Name: assets/Script/HNRouletteScence.xml
+SHA-256-Digest: dV23GkqP4SjvF4+m1WqEBoIc1rVRQ8xl4ynocKNKef4=
+
+Name: assets/Script/HNRouletteSkin.xml
+SHA-256-Digest: dcnIDnwtbPaVk6MdOGLcUgbyqaUeFl4wysXqVuJJYbE=
+
+Name: assets/Script/HNScriptReplaceStr.xml
+SHA-256-Digest: 4OPmPWsRNiulgCcPLFMj1Kp9xcySvFxfUWtCz9m2xck=
+
+Name: assets/Script/HNScriptValue.xml
+SHA-256-Digest: 0W+//Qv8dYO51ujYSjcLLPnxt6w1Sild9J6EiD8m+7A=
+
+Name: assets/Script/HNScriptValueSame.xml
+SHA-256-Digest: abxJRX7GxOEXin+d9yVV93QtmvY39XRDRv7b+7wim70=
+
+Name: assets/Script/HNScriptValueStr.xml
+SHA-256-Digest: hn0RSNC2CX4+04GIGaLbbUGtDMcR+OM/dYUMI8+qvWY=
+
+Name: assets/Script/HNSetScence.xml
+SHA-256-Digest: ljgixrE6JKgU6x6hO6gBzjD7fNU/TBF9OkLs2lkCpt0=
+
+Name: assets/Script/HNSetSkin.xml
+SHA-256-Digest: hPyOxNbrZGxR13v/MiJZI24rFsiCXSrd/qVQYPnBfLU=
+
+Name: assets/Script/HNWidgetSkin.xml
+SHA-256-Digest: tjU097G6k0qnaA1sfsUvYMSc/K8Qz5+c23PAPG7r/xo=
+
+Name: assets/Script/NoticeMsg.xml
+SHA-256-Digest: KK4F+QK7eb5FIeCbTJt793dCPtSqVCR2k2DD1k93ToY=
+
+Name: assets/Script/PopScence.xml
+SHA-256-Digest: v4LhzgVOYQeF5oQwdNSdXLx2Arf009jpBUTvPBukoaE=
+
+Name: assets/Script/SCNoticeMsg.xml
+SHA-256-Digest: Sk58r6ZoTS0IsnUDXLzFMTvRMGGeSq2XvSCGlRfEp5Q=
+
+Name: assets/Script/Top10Skin.xml
+SHA-256-Digest: 3TWaB9uSRFgqxF7Ij+EKIoFEpoOH2tSAjEiLTm73aEg=
+
+Name: assets/SignatureKiller/origin.apk
+SHA-256-Digest: 6mQFXAeLd9YNxXgLAzfj2hTWHv/a3ydkszYWUxF+q2I=
+
+Name: assets/UI/Clipper.png
+SHA-256-Digest: jlzl6fvKWKPZmuU5iVX6m3K0Aj6PW2ztG6RLCuqWoGM=
+
+Name: assets/UI/Empty.png
+SHA-256-Digest: 8CxpIu2hEd7VglS79y5C3ucOyKMjPOk4sAOG1NR2gUM=
+
+Name: assets/UI/FullEmpty.png
+SHA-256-Digest: MSn1dbNspOpfsCKLBV2D53YXOTCnTyakCfmUZKHAzMU=
+
+Name: assets/UI/TopBack.png
+SHA-256-Digest: fB1lSIPN2sDUoPJxFXIhlPPHVA0VptKQ8L45f2dhbbM=
+
+Name: assets/UI/emptyBtn.png
+SHA-256-Digest: PZ0RS1VoF3yo64lK4qFfPqogGoGP83mZIrs7U+GkPVg=
+
+Name: assets/UI/notouch_ani.png
+SHA-256-Digest: n8/ofTa5820fPFsMtPpjqT4G9GQPVBI+dp2FtoXUcdI=
+
+Name: assets/UI/prompt_msg_bk1.png
+SHA-256-Digest: syRsSciC23ngzpSzUYoFxgRddsIs0nArHLmKy2FR3DA=
+
+Name: assets/dalete/Buttom_SelectCard.png
+SHA-256-Digest: qMhAy+sXHwBU7chbH2M8BX6HMttlzclA/dj6WgBrypE=
+
+Name: assets/dalete/alarm-hd.png
+SHA-256-Digest: hlm6Tan6L8tQhoIAAMhkmqNuEo96AVuGG0tQxrI02LA=
+
+Name: assets/dalete/ico32.png
+SHA-256-Digest: JVXOwzRt1rLsx/l8Y4oKr+b7i4vCy4GBFl16KYzvPnc=
+
+Name: assets/dalete/poker.png
+SHA-256-Digest: vxv7QzZmdDEZosla8JcczX9j6NmWeE4c4lcZ18GBN84=
+
+Name: assets/dalete/poker_layer.png
+SHA-256-Digest: r1LUqcFOrrOIr4OUGMHn2x0G9d7XOh/EmzSjE6nNIyc=
+
+Name: assets/dalete/pokerl.png
+SHA-256-Digest: BZQf54b99S+RyYDkAqkBSGQlXY+ajNkIq7WyuFTNLTk=
+
+Name: assets/man12.mp3
+SHA-256-Digest: Oe8oVS5hNzm3PuTs1uoNnvyReoIHOMgzN+FxUp9izYM=
+
+Name: assets/progress_n.png
+SHA-256-Digest: A4lpOtj+OzKvPe37krC3I7CzU1BvT09ENqQfcXGalg0=
+
+Name: assets/progress_y.png
+SHA-256-Digest: FnkPs/segeS7GEkwdOVAsjCGSQGikeLu0tpG2A2ZCo0=
+
+Name: assets/public/9Scale1.png
+SHA-256-Digest: NPBka6UsxM6tFWiLpW7I7cy/6ofrb4dpFhpVkhuCDPk=
+
+Name: assets/public/9Scale21.png
+SHA-256-Digest: 6d3M3ygMZmJw1O65kzgOInWvfhIpK0BmZoWKSH8VuSk=
+
+Name: assets/public/9Scale9.png
+SHA-256-Digest: wDw/8Kz/JTrZR56BZygFS+4jT2a6RpkI5LlcCIVMeaw=
+
+Name: assets/public/9ScaleBack.png
+SHA-256-Digest: o7DAWqcQfImuwHIEGdHjzQLYRqP25nUyicYGgJC9v5w=
+
+Name: assets/public/9ScaleLine.png
+SHA-256-Digest: jdGSIkrsAADbwo7lYNclUq1BhRpWJu3HG6a4RAjrVgw=
+
+Name: assets/public/Button_Back.png
+SHA-256-Digest: +p1sVQ5oInXTXmcqG49HI8CjMyvFaXFlhWjWvX6VgaU=
+
+Name: assets/public/Button_Close.png
+SHA-256-Digest: nCrdEWmXa9HdKSb5g1aAgbg1fIChnAgQjrZXMBdQb54=
+
+Name: assets/public/Button_Close1.png
+SHA-256-Digest: dKxn7ONcqF8mdf2h4hgcXrLexQPuxJ+Kp7VOtqs1ons=
+
+Name: assets/public/Button_Public.png
+SHA-256-Digest: pmbUz61fdefyMUOj8E/AIwuZl82B4GC/Id/wD1MflXE=
+
+Name: assets/public/Button_Sure.png
+SHA-256-Digest: sKjRBMPjpTTvtLzfvnEbHS4gttP7D1gmpPkTbdfM6q0=
+
+Name: assets/public/Buy_9Scale.png
+SHA-256-Digest: XfV3hCsgoKCqRzGeONh63vfDgkk8z9S7OW6IiQAE+Iw=
+
+Name: assets/public/ChatSubBG.png
+SHA-256-Digest: sGoLRfqybyLSo4KJd25FGSgp08C9gpX42LPS88h6tXk=
+
+Name: assets/public/EditBack.png
+SHA-256-Digest: QgDFLVboMMpU5DMe114S5+n3hoHvxBuJEPBp2URue9A=
+
+Name: assets/public/Error.png
+SHA-256-Digest: dj4sBO3E0jeWTzdOZZT7n8lep+CggZ7XizbcEwMR7oY=
+
+Name: assets/public/FullEmpty.png
+SHA-256-Digest: sULMmnqi/3F/FE25hu40nYOJU8OexB4o87hGt5W/lRU=
+
+Name: assets/public/Homebtn_close.png
+SHA-256-Digest: PvbHO68VnwAyMH9SZQQinsEpQ5/Tq3EidUrDBWaLueI=
+
+Name: assets/public/Light.png
+SHA-256-Digest: VpRYn+4Dxbdk9+tcWC+G9X0+M72w7YH8+I2K92/8j1o=
+
+Name: assets/public/SettingSubBG.png
+SHA-256-Digest: JN0A4Mo2wPecw3P/9BQeiIDLxoJyrWGdvz3eMREayHQ=
+
+Name: assets/public/btn_close.png
+SHA-256-Digest: xNlh6vJQWGDIwubjgOXXwP1i5z/Z49FvTRtJH1Bbk3I=
+
+Name: assets/public/jiesuan.png
+SHA-256-Digest: Y2gISJcN2yF67FS5DgQDje7HzVthBK5sbCGQXxiSE0E=
+
+Name: assets/public/playscene_jiesan_bg.png
+SHA-256-Digest: gEN1He3p1YTtXHyfJDAVNXUIZVRSb+MMMCHqVXtopsA=
+
+Name: assets/public/ppshare_btn.png
+SHA-256-Digest: 16iBXGrsECv6NfaANbZzJn43wsKG6rbqLnJM1bHmWXA=
+
+Name: assets/public/public2.png
+SHA-256-Digest: nGbdhbI+4UVksRokcDbe9fMxhQO7pkJm/MpxlBeC/iE=
+
+Name: assets/public/public_cancle.png
+SHA-256-Digest: +zLSO4WHF9JPFmmx2AYMi1x7DnbM1n0Mk46opoQL71w=
+
+Name: assets/public/public_ok.png
+SHA-256-Digest: xPhEO5+mte+EV+HQWwMrpMULlGnyB0y5squfzny+v0g=
+
+Name: assets/public/public_wxshare.png
+SHA-256-Digest: wKJznp5yY0AV1uzDhHZi4wNyB9u7//DifuzVHM/KQjs=
+
+Name: assets/public/send.png
+SHA-256-Digest: qW8UpBXjCE2JAOypGouTKlx2lqzdgG/gJo07yRT1pos=
+
+Name: assets/raw/backMusic.mp3
+SHA-256-Digest: dF+XiqPPoZQyYNzDNlkdSrPdEK+u8YjPFSA5rEWStBI=
+
+Name: assets/raw/backMusic1.mp3
+SHA-256-Digest: vBsbLBWKNAQbedGMx8NtMYFuBNPePNj59bf6oHxvuJc=
+
+Name: assets/soundRecord.wav
+SHA-256-Digest: PpxNTELw01z5vsaLu6822eYBtzzSiW3paYvZdkPaXTQ=
+
+Name: classes.dex
+SHA-256-Digest: ARv9O9jCfFg9edTdWPiKb7kgTfrgOdZOsptkQnNECOo=
+
+Name: classes2.dex
+SHA-256-Digest: Eke6fbqf76ro+EafwyapOC+acYxj3N6NIW24JDoCyWY=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA-256-Digest: BBoHXMjxSXz8cqyvOfUVKFEBrxlaWZF5li2YRlZ78D8=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA-256-Digest: zRYBe1xFjpBol94niupE4J8Q+qLbaFRV6E0MkGh1t5U=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA-256-Digest: PX88lkW3osKddsf/sLzLReDPUafDVp7Ji5IxcL9xyuo=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA-256-Digest: E+UV5cEEucKfrrPEn21LedXHr6y6UIkQiuQcOE19QuU=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA-256-Digest: TBzRNulcd83KQdxTUnRSxyD7TkPXzzfP7vATUF3GmUY=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA-256-Digest: EzyU7TRRH/pHxJ/BoVW42fYFT5rs58PRtHp/t7XnHRg=
+
+Name: lib/armeabi/libGCloudVoice.so
+SHA-256-Digest: Upi0/bJRStqXH8euBftMQ+CW3QkMihx2d6/yEnDRG+w=
+
+Name: lib/armeabi/libSignatureKiller.so
+SHA-256-Digest: Ra2gNoHyeFT2IRK8yW3QiAJcFYl+2D+iRkYizhVUDM0=
+
+Name: lib/armeabi/libcocos2dcpp.so
+SHA-256-Digest: gwvGhSiyBFbwLCzd4oEtnvZHIEFghRG4OQy1gbwozpA=
+
+Name: res/-t.png
+SHA-256-Digest: YWGyrnzO6PRt4KwqRjFcKT2+Q67Q1CuQZvpi53P2znA=
+
+Name: res/2H.png
+SHA-256-Digest: J9G3a8mGSWTVGRogLN6ycQMfjqbAx/iCxN/2aSKgLNA=
+
+Name: res/2c.png
+SHA-256-Digest: tguKDKdhIgD06QshynQRftbXOljPR4CxK1sPjhc5q0Y=
+
+Name: res/8p.png
+SHA-256-Digest: LEnbmRSdefW5TF/Ev39xGYePoaeGPrq9qqK99A8tsJU=
+
+Name: res/9X.png
+SHA-256-Digest: fgnU0rh1U3fqTpIk79JzlyN5LD6RlAJxQCdtlFbYgvA=
+
+Name: res/9X1.png
+SHA-256-Digest: luhV85hNbncJJOXavXK5sgJTIJXiCvNU0j/BKjy66rA=
+
+Name: res/Sp.xml
+SHA-256-Digest: h1eD24w002w63qd2hn7D63xEKChenU85fuyfrk26Fok=
+
+Name: res/h7.png
+SHA-256-Digest: h8kiAwliCRVyS0ZKiBD8ELoIViIvdVGFOnL6zCZPs9E=
+
+Name: res/yj.png
+SHA-256-Digest: flK0ugPbwuoR18TlS72i2AX8gDAIVvyZ3CUGibbd2Uc=
+
+Name: resources.arsc
+SHA-256-Digest: oYif06GlxikECw1fcsSPzYpaJ22vnLP1J3L3r0y0RQI=
+
